@@ -1,0 +1,159 @@
+SS4A AWARDS AND COVERAGE: QUALITY CHECK REPORT
+Plain-language summary: compare each line marked CHECK with the source named. 'OK' means the
+build matches; 'NOTE' means a known, explained difference; 'REVIEW' means a person should look.
+
+1. Award counts and dollars against DOT published totals
+  FY2022: build 511 awards (planning 474, implementation 37), $802,161,019; DOT 511 awards (planning 474, implementation 37), $802,161,019  (OK)
+         source: https://www.transportation.gov/sites/dot.gov/files/2025-03/FY22-SS4A-Full-Award-List-March2025.xlsx (DOT full award list, March 2025; 474 action plan + 37 implementation)
+  FY2023: build 620 awards (planning 572, implementation 48), $895,717,979; DOT 620 awards (planning 572, implementation 48), $895,000,000  (OK)
+         source: https://www.transportation.gov/grants/ss4a/2023-awards (572 planning and demonstration + 48 implementation; '$895 million', rounded)
+  FY2024: build 710 awards (planning 640, implementation 70), $1,241,490,821; DOT 710 awards (planning 640, implementation 70), $1,241,490,821  (OK)
+         source: https://www.transportation.gov/sites/dot.gov/files/2024-11/SS4A-FY24-Awards-by-State_November-2024.pdf
+  FY2025: build 521 awards (planning 454, implementation 67), $982,231,998; DOT 521 awards (planning 454, implementation 67), $982,231,998  (OK)
+         source: https://www.transportation.gov/grants/ss4a/2025-awards
+  FY2026: build 297 awards (planning 197, implementation 100), $1,012,969,919; DOT 297 awards (planning 197, implementation 100), $1,012,969,919  (OK)
+         source: https://www.transportation.gov/grants/ss4a/2026-awards
+  FY2022: DOT's FY2022 map layer holds 509 of 511 awards. The two missing awards (North Dakota State
+  University and SUNY Stony Brook, action plans, $1,000,000 each) were added from DOT's full award list
+  (code/fy2022_awards_not_on_map.csv). They have no map shape, so they count toward totals but not coverage.
+  All 509 mapped FY2022 awards were matched to DOT's list by UEI: dollars and rural/urban labels agree;
+  one state was wrong in the map layer and is corrected (code/dot_list_corrections.csv).
+
+1c. State-by-state check against DOT's official award lists (Excel, linked from each year's full award list page)
+  FY2023-FY2026: award counts and federal dollars for every state match DOT's lists exactly (0 differences).
+  Award-level recheck (2026-11-10), all 2,659 awards, all five years: recipient, state, program, rural/urban label and
+  dollars match DOT's lists. Differences are name spellings only: Hillsborough County and Hillsborough County MPO (FL
+  2023), Dover Kent and Texarkana MPOs (DOT map layer spells 'Metropolitian'), City of Spanish Fork (list: 'City of
+  Spanish Fork City'). The FY2026 map layer labels all 100 implementation awards Rural; DOT's list has 48 Rural and
+  52 Urban, and the 52 labels are corrected (code/fy2026_rural_label_corrections.csv).
+  FY2022: every award matched by UEI (see above). File fingerprints are in data/raw/PROVENANCE.txt.
+  Map shapes replaced because DOT's map layer drew the wrong place: 3 (code/geometry_corrections.csv)
+    SS4A-FY24-0580 City of Rutledge (TN): shape replaced with Census 2020 place 4765820: DOT FY2024 map layer draws Rutledge GA; DOT FY2024 award list places the award in TN (UEI JJBYQ5PLMQX3)
+    SS4A-FY25-0294 Town of Charlestown (NH): shape replaced with Census 2020 cousub 3301911380: DOT FY2025 map layer draws Springfield VT; DOT FY2025 award list and project text name Town of Charlestown NH (UEI JRNTGTXMACN9)
+    SS4A-FY26-0158 Beaverhead County (MT): shape replaced with Census 2020 county 30001: DOT FY2026 map layer draws Beaufort County SC with its population; DOT FY2026 award list gives Beaverhead County MT a countywide action plan (UEI RY9MN7MKA1Z9)
+
+1b. State listed by DOT compared with the state the award area falls in
+  Awards whose area center lies in another state: 6; unexplained: 0  (OK)
+  Reviewed 2026-11-10 against DOT award lists: two-state regional bodies (Bi-State, Fargo-Moorhead, Tahoe),
+  a multi-site tribal communities plan (UT Arlington), and an implementation award drawn regionally (M-NCPPC;
+  implementation awards do not enter coverage).
+    SS4A-FY22-0178 Bi-State Regional Commission: listed IL, area center in IA
+    SS4A-FY22-0255 Maryland-National Capital Park and Planning Commission: listed MD, area center in VA
+    SS4A-FY22-0320 Fargo-Moorhead Metropolitan Council of Governments: listed ND, area center in MN
+    SS4A-FY25-0290 Fargo-Moorhead Metropolitan Council of Governments: listed ND, area center in MN
+    SS4A-FY25-0311 Tahoe Transportation District: listed NV, area center in CA
+    SS4A-FY25-0458 University of Texas Arlington: listed TX, area center in OK
+  (Multi-state regional bodies can be legitimate; single-city awards in another state are errors.)
+
+2. Map matching
+  Awards with a map shape: 2657 of 2659  (OK)
+  Awards whose area holds no 2020 block-group population center: 66 (2.5%)  (NOTE)
+  These are small areas (corridors, small tribal areas). They are placed in the county at their
+  center and count as zero residents covered. Listed in data/processed/ss4a_awards_fy2022_2026.csv
+  (geo_match_flag).
+  Awards placed in no county (outside the 50 states and DC, e.g. Puerto Rico handled separately): 3
+  Award-to-county rows: 4405; award-to-place rows: 34503
+
+3. Population inside award areas compared with DOT's reported jurisdiction population
+  Awards compared: 2592. Median ratio (Census / DOT): 1.00. Within 0.8 to 1.25: 82.6%.
+  Ratio below 0.5: 115; above 2: 84  (REVIEW the largest below)
+    SS4A-FY24-0547 Catawba Indian Nation (SC): Census 1,927 vs DOT 7,000,000
+    SS4A-FY23-0089 Paskenta Band of Nomlaki Indians (CA): Census 2,554 vs DOT 1
+    SS4A-FY24-0058 University of Arizona (AZ): Census 4,593 vs DOT 1,043,433
+    SS4A-FY24-0119 County of San Mateo (CA): Census 764,442 vs DOT 4,300
+    SS4A-FY22-0152 City of Doraville (GA): Census 11,071 vs DOT 1,000,664
+    SS4A-FY24-0518 Tangent (OR): Census 1,729 vs DOT 127,200
+    SS4A-FY24-0356 Romulus Fire Department (MI): Census 25,178 vs DOT 1,800,000
+    SS4A-FY24-0647 University of Texas at San Antonio (TX): Census 24,341 vs DOT 1,529,133
+    SS4A-FY22-0403 SEDA-Council of Governments (on behalf of the City of Shamokin) (PA): Census 364,029 vs DOT 6,941
+    SS4A-FY26-0102 City of Douglass (KS): Census 1,280 vs DOT 26
+
+4. Possible duplicate awards (same year, recipient, program and dollars)
+  Rows involved: 0  (OK)
+  Same year, recipient and program but different dollars (usually separate awards): 41 rows
+    SS4A-FY22-0153 FY2022 City of Roswell Planning and Demonstration $200,000
+    SS4A-FY22-0183 FY2022 Tri-County Regional Planning Commission Planning and Demonstration $400,000
+    SS4A-FY22-0326 FY2022 City of Madison Planning and Demonstration $320,000
+    SS4A-FY22-0327 FY2022 City of Norfolk Planning and Demonstration $209,300
+    SS4A-FY22-0348 FY2022 City of Roswell Planning and Demonstration $520,000
+    SS4A-FY22-0404 FY2022 Tri-County Regional Planning Commission Planning and Demonstration $200,000
+    SS4A-FY22-0466 FY2022 City of Norfolk Planning and Demonstration $240,000
+    SS4A-FY22-0498 FY2022 City of Madison Planning and Demonstration $267,680
+    SS4A-FY23-0260 FY2023 Franklin County Planning and Demonstration $200,000
+    SS4A-FY23-0347 FY2023 City of Columbus Planning and Demonstration $160,000
+    SS4A-FY23-0382 FY2023 City of Columbus Planning and Demonstration $400,000
+    SS4A-FY23-0471 FY2023 City of Salem Planning and Demonstration $2,800,000
+    SS4A-FY23-0518 FY2023 Franklin County Planning and Demonstration $140,000
+    SS4A-FY23-0560 FY2023 City of Salem Planning and Demonstration $100,000
+    SS4A-FY24-0164 FY2024 City of Bridgeport Planning and Demonstration $2,538,400
+    SS4A-FY24-0208 FY2024 Orange County Planning and Demonstration $853,723
+    SS4A-FY24-0235 FY2024 Montgomery County Planning and Demonstration $263,050
+    SS4A-FY24-0254 FY2024 City of Danville Implementation $9,999,900
+    SS4A-FY24-0263 FY2024 City of Columbus Planning and Demonstration $240,000
+    SS4A-FY24-0297 FY2024 City of Danville Implementation $12,260,000
+    SS4A-FY24-0342 FY2024 Montgomery County Planning and Demonstration $520,000
+    SS4A-FY24-0426 FY2024 City of Bridgeport Planning and Demonstration $100,000
+    SS4A-FY24-0468 FY2024 City of Columbus Planning and Demonstration $1,320,000
+    SS4A-FY24-0538 FY2024 Montgomery County Planning and Demonstration $400,000
+    SS4A-FY24-0545 FY2024 City of Newport Planning and Demonstration $321,600
+    SS4A-FY24-0579 FY2024 City of Newport Planning and Demonstration $96,000
+    SS4A-FY24-0639 FY2024 Orange County Planning and Demonstration $166,400
+    SS4A-FY25-0015 FY2025 City of Oxford Planning and Demonstration $143,796
+    SS4A-FY25-0020 FY2025 Madison County Planning and Demonstration $718,880
+    SS4A-FY25-0189 FY2025 Madison County Planning and Demonstration $3,196,000
+    SS4A-FY25-0205 FY2025 Jefferson County Planning and Demonstration $480,800
+    SS4A-FY25-0211 FY2025 City of Alexandria Planning and Demonstration $240,000
+    SS4A-FY25-0213 FY2025 City of Henderson Planning and Demonstration $544,000
+    SS4A-FY25-0309 FY2025 City of Henderson Planning and Demonstration $520,000
+    SS4A-FY25-0331 FY2025 City of Oxford Planning and Demonstration $200,000
+    SS4A-FY25-0369 FY2025 Westmoreland County Planning and Demonstration $3,699,944
+    SS4A-FY25-0401 FY2025 Jefferson County Planning and Demonstration $144,000
+    SS4A-FY25-0469 FY2025 City of Alexandria Planning and Demonstration $600,000
+    SS4A-FY25-0480 FY2025 Westmoreland County Planning and Demonstration $264,000
+    SS4A-FY26-0153 FY2026 City of Columbus Implementation $4,664,741
+    SS4A-FY26-0196 FY2026 City of Columbus Implementation $3,205,904
+
+5. Range checks
+  County shares outside 0 to 1: 0  (OK)
+  Counties in gap table: 3143 (Project 1 has 3,143)  (OK)
+  Deaths 2020-2024 in gap table: 205,225 (must equal Project 1 total for 2020-2024)
+  Awards with missing or zero dollars: 0
+  Recipient types coded by hand (code/recipient_overrides.csv): 20 awards
+  Recipient types from the name rule rather than DOT's label: 197 awards
+
+6. Threshold counts used in documents (must match report/stats.json)
+  n_rural_counties: 2010
+  high_fatality_rate_threshold: 33.14
+  n_high_fatality_rural: 448
+  n_gap_counties: 290
+  n_gap_counties_not_covered: 262
+  deaths_2020_2024_gap_counties: 8361
+  pct_hf_rural_gap: 64.7
+
+7. Named spot checks (verify by hand; see docs/VERIFY_CHECKLIST.md)
+  SS4A-FY22-0297 FY2022 Ozarks Transportation Organization (MO) | action plan | $228,800 | counties 2.0 | primary Greene County, MO | residents in area 338,616
+  SS4A-FY23-0345 FY2023 Southwest Missouri Council of Governments (MO) | action plan + supplemental/demonstration | $200,000 | counties 10.0 | primary Greene County, MO | residents in area 642,678
+  SS4A-FY23-0024 FY2023 Navajo Division of Transportation (AZ) | action plan | $1,440,000 | counties 4.0 | primary Apache County, AZ | residents in area 49,004
+  SS4A-FY23-0412 FY2023 Ramah Navajo Chapter (NM) | action plan | $160,000 | counties 1.0 | primary Cibola County, NM | residents in area 2,588
+  SS4A-FY24-0054 FY2024 Navajo Nation Division of Transportation (AZ) | supplemental/demonstration only | $1,670,400 | counties 6.0 | primary Apache County, AZ | residents in area 132,277
+  SS4A-FY25-0308 FY2025 Ramah Navajo Chapter (NM) | supplemental/demonstration only | $200,000 | counties 1.0 | primary Cibola County, NM | residents in area 1,297
+  SS4A-FY22-0214 FY2022 Kentucky River Area Development District (KY) | action plan | $208,265 | counties 8.0 | primary Perry County, KY | residents in area 106,511
+  SS4A-FY25-0010 FY2025 City of Huntsville (AL) | implementation | $21,419,870 | counties 2.0 | primary Madison County, AL | residents in area 212,609
+  County spot checks:
+  29077 Greene County, MO: rural=False, deaths 2020-24=227, rate=14.96, high-fatality=False, plan share=1.0, status=covered
+  29213 Taney County, MO: rural=False, deaths 2020-24=54, rate=19.11, high-fatality=False, plan share=1.0, status=covered
+  48301 Loving County, TX: rural=True, deaths 2020-24=19, rate=7196.97, high-fatality=True, plan share=0.0, status=not covered
+  28063 Jefferson County, MS: rural=True, deaths 2020-24=17, rate=48.1, high-fatality=True, plan share=0.0, status=not covered
+  21193 Perry County, KY: rural=True, deaths 2020-24=35, rate=25.46, high-fatality=False, plan share=1.0, status=covered
+
+8. Extremes
+  highest rural rate: Loving County, TX: 7196.97 (19 deaths), status not covered
+  highest rural rate: Esmeralda County, NV: 546.0 (20 deaths), status not covered
+  highest rural rate: Kenedy County, TX: 462.43 (8 deaths), status covered
+  highest rural rate: Oldham County, TX: 338.1 (30 deaths), status covered
+  highest rural rate: King County, TX: 337.27 (4 deaths), status covered
+  largest award area: SS4A-FY23-0093 Southern California Association of Governments (CA) 18,822,460 residents, 7.0 counties
+  largest award area: SS4A-FY24-0136 Southern California Association of Governments (CA) 18,822,460 residents, 7.0 counties
+  largest award area: SS4A-FY24-0125 Los Angeles County (CA) 10,014,009 residents, 1.0 counties
+  largest award area: SS4A-FY23-0080 County of Los Angeles (CA) 10,014,009 residents, 1.0 counties
+  largest award area: SS4A-FY22-0068 Los Angeles County (CA) 10,014,009 residents, 1.0 counties

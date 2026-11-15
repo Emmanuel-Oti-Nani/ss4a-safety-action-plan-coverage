@@ -1,0 +1,18 @@
+recipient_name,recipient_type,reason
+City of Chicopee Department of Planning & Development,city,city department caught by regional name rule
+Downtown Development District of New Orleans,other,downtown special district caught by regional name rule
+Merritt Island Redevelopment Agency,other,local redevelopment agency caught by regional name rule
+Maryland-National Capital Park and Planning Commission,other,bi-county park and planning agency; not a regional council
+Clark County Emergency Medical Services Council,other,EMS council; DOT listed as Regional Organization
+"Lower Rio Grande Valley Regional Advisory Council on Trauma Service Area V, Inc",other,trauma advisory council; DOT listed as Regional Organization
+Tallahassee–Leon County Consolidated Dispatch Agency,other,dispatch agency; DOT listed as Regional Organization
+Los Angeles County Metropolitan Transportation Authority,other,county transportation agency; DOT listed as Regional Organization
+Blueprint Intergovernmental Agency,other,city-county infrastructure agency caught by regional name rule
+Yalobusha County Economic Development District,other,single-county development district
+Chicago Metropolitan Agency for Planning,mpo,designated MPO for northeastern Illinois; DOT listed as Regional Organization
+Capital District Transportation Committee,mpo,designated MPO for Albany NY region; DOT listed as Regional Organization
+Ozarks Transportation Organization,mpo,designated MPO for Springfield MO region; DOT listed as Regional Organization
+Pinellas Planning Council,mpo,operates with Pinellas County MPO as Forward Pinellas
+Kaysinger Basin Regional Planning Commission,regional_council,Missouri regional planning commission; DOT listed as MPO
+Teton County,county,county government; DOT listed as City or Township
+Lamoille County Planning Commission,regional_council,Vermont regional planning commission excluded by county-agency rule

@@ -1,0 +1,22 @@
+# raw downloads are rebuilt by code/01_fetch.py; their fingerprints stay in PROVENANCE.txt
+data/raw/*
+!data/raw/PROVENANCE.txt
+data/interim/
+__pycache__/
+.env
+*.token
+.DS_Store
+paper/main.log
+
+# personal working notes and drafts (kept out of the public repository)
+docs/VERIFY_CHECKLIST.md
+docs/PUBLISH_GUIDE.md
+docs/START_HERE.md
+docs/NEXT_STEPS.md
+docs/TALK_TRACK.md
+docs/GLOSSARY.md
+docs/BUILD_SPEC.md
+docs/evidence_log_row.csv
+paper/SUBMISSION_NOTES.md
+paper/*.docx
+paper/mainNotes.bib

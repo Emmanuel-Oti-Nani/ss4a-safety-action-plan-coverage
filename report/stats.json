@@ -1,0 +1,335 @@
+{
+ "n_awards_all": 2659,
+ "n_awards_core": 2362,
+ "dollars_all": 4934571735.5398,
+ "dollars_core": 3921601816.5397997,
+ "awards_by_fy": {
+  "2022": 511,
+  "2023": 620,
+  "2024": 710,
+  "2025": 521,
+  "2026": 297
+ },
+ "dollars_by_fy": {
+  "2022": 802161018.5398,
+  "2023": 895717979.0,
+  "2024": 1241490821.0,
+  "2025": 982231998.0,
+  "2026": 1012969919.0
+ },
+ "n_action_plan_awards_all": 1740,
+ "n_action_plan_awards_core": 1643,
+ "recipient_type_counts": {
+  "city": 1527,
+  "county": 518,
+  "other": 197,
+  "regional_council": 163,
+  "mpo": 157,
+  "tribe": 97
+ },
+ "grant_type_counts": {
+  "action plan": 1299,
+  "supplemental/demonstration only": 601,
+  "action plan + supplemental/demonstration": 437,
+  "implementation": 322
+ },
+ "n_counties": 3143,
+ "n_rural_counties": 2010,
+ "rural_pct_threshold": 50,
+ "min_deaths": 5,
+ "high_quantile": 0.75,
+ "high_fatality_rate_threshold": 33.14,
+ "n_high_fatality_rural": 448,
+ "deaths_2020_2024_all": 205225,
+ "deaths_2020_2024_rural_counties": 51983,
+ "deaths_2020_2024_high_fatality_rural": 12880,
+ "status_all_counties": {
+  "covered": 1450,
+  "not covered": 1410,
+  "partly covered": 283
+ },
+ "status_rural_counties": {
+  "not covered": 1124,
+  "covered": 742,
+  "partly covered": 144
+ },
+ "status_urban_counties": {
+  "covered": 708,
+  "not covered": 286,
+  "partly covered": 139
+ },
+ "status_high_fatality_rural": {
+  "not covered": 262,
+  "covered": 158,
+  "partly covered": 28
+ },
+ "status_high_fatality_rural_fy22_25": {
+  "not covered": 273,
+  "covered": 145,
+  "partly covered": 30
+ },
+ "status_high_fatality_rural_conservative": {
+  "not covered": 270,
+  "covered": 150,
+  "partly covered": 28
+ },
+ "n_gap_counties_conservative": 298,
+ "n_gap_counties_fy22_25": 303,
+ "n_action_plan_awards_area_flag": 55,
+ "n_gap_counties": 290,
+ "n_gap_counties_not_covered": 262,
+ "deaths_2020_2024_gap_counties": 8361,
+ "pct_hf_rural_gap": 64.7,
+ "n_gap_with_neighbor_regional_body": 130,
+ "n_gap_covered_by_any_ss4a": 15,
+ "pop_share_in_action_plan_area_all": 70.7,
+ "pop_share_in_action_plan_area_rural_counties": 42.6,
+ "pop_share_in_action_plan_area_urban_counties": 75.4,
+ "rate_rural_counties": 21.9,
+ "rate_urban_counties": 10.7,
+ "n_regional_bodies": 271,
+ "n_regional_bodies_with_action_plan": 225,
+ "n_rural_counties_majority_via_regional_body": 475,
+ "states_most_gap_counties": [
+  [
+   "TX",
+   39
+  ],
+  [
+   "MS",
+   26
+  ],
+  [
+   "GA",
+   22
+  ],
+  [
+   "AR",
+   20
+  ],
+  [
+   "CO",
+   14
+  ]
+ ],
+ "by_fy": [
+  {
+   "fy": 2022,
+   "n": 511,
+   "dollars": 802161018.5397999,
+   "n_ig": 37,
+   "n_ap": 450,
+   "n_ap_regional": 114,
+   "pct_rural_dot": 49.5
+  },
+  {
+   "fy": 2023,
+   "n": 620,
+   "dollars": 895717979.0,
+   "n_ig": 48,
+   "n_ap": 455,
+   "n_ap_regional": 51,
+   "pct_rural_dot": 49.0
+  },
+  {
+   "fy": 2024,
+   "n": 710,
+   "dollars": 1241490821.0,
+   "n_ig": 70,
+   "n_ap": 455,
+   "n_ap_regional": 35,
+   "pct_rural_dot": 49.7
+  },
+  {
+   "fy": 2025,
+   "n": 521,
+   "dollars": 982231998.0,
+   "n_ig": 67,
+   "n_ap": 283,
+   "n_ap_regional": 26,
+   "pct_rural_dot": 50.1
+  },
+  {
+   "fy": 2026,
+   "n": 297,
+   "dollars": 1012969919.0,
+   "n_ig": 100,
+   "n_ap": 97,
+   "n_ap_regional": 7,
+   "pct_rural_dot": 52.2
+  }
+ ],
+ "groups": {
+  "urban": {
+   "n": 1133,
+   "deaths": 153242,
+   "rate": 10.7,
+   "main": {
+    "covered": 708,
+    "not covered": 286,
+    "partly covered": 139
+   },
+   "fy22_25": {
+    "covered": 689,
+    "not covered": 304,
+    "partly covered": 140
+   },
+   "conservative": {
+    "covered": 671,
+    "not covered": 314,
+    "partly covered": 148
+   },
+   "any_ss4a_majority": 824
+  },
+  "other_rural": {
+   "n": 1562,
+   "deaths": 39103,
+   "rate": 18.7,
+   "main": {
+    "not covered": 862,
+    "covered": 584,
+    "partly covered": 116
+   },
+   "fy22_25": {
+    "not covered": 884,
+    "covered": 567,
+    "partly covered": 111
+   },
+   "conservative": {
+    "not covered": 903,
+    "covered": 537,
+    "partly covered": 122
+   },
+   "any_ss4a_majority": 664
+  },
+  "hf_rural": {
+   "n": 448,
+   "deaths": 12880,
+   "rate": 45.4,
+   "main": {
+    "not covered": 262,
+    "covered": 158,
+    "partly covered": 28
+   },
+   "fy22_25": {
+    "not covered": 273,
+    "covered": 145,
+    "partly covered": 30
+   },
+   "conservative": {
+    "not covered": 270,
+    "covered": 150,
+    "partly covered": 28
+   },
+   "any_ss4a_majority": 173
+  }
+ },
+ "n_ap_regional_all": 233,
+ "n_regional_body_counties_hf_rural": 107,
+ "n_hf_covered_via_regional_body": 107,
+ "priority_top10": [
+  {
+   "fips": "37155",
+   "county": "Robeson County",
+   "state": "NC",
+   "deaths": 293,
+   "rate": 50.13,
+   "status": "not covered",
+   "share": 0.0,
+   "neighbor": "Myrtle Beach - Socastee Metropolitan Planning Organization"
+  },
+  {
+   "fips": "04017",
+   "county": "Navajo County",
+   "state": "AZ",
+   "deaths": 200,
+   "rate": 36.9,
+   "status": "partly covered",
+   "share": 0.212,
+   "neighbor": "MetroPlan (Flagstaff Metropolitan Planning Organization)"
+  },
+  {
+   "fips": "35031",
+   "county": "McKinley County",
+   "state": "NM",
+   "deaths": 136,
+   "rate": 38.62,
+   "status": "partly covered",
+   "share": 0.0645,
+   "neighbor": "Mid-Region Council of Governments Metropolitan Planning Organization"
+  },
+  {
+   "fips": "04001",
+   "county": "Apache County",
+   "state": "AZ",
+   "deaths": 126,
+   "rate": 38.57,
+   "status": "partly covered",
+   "share": 0.3135,
+   "neighbor": ""
+  },
+  {
+   "fips": "45031",
+   "county": "Darlington County",
+   "state": "SC",
+   "deaths": 105,
+   "rate": 33.57,
+   "status": "not covered",
+   "share": 0.0,
+   "neighbor": ""
+  },
+  {
+   "fips": "37061",
+   "county": "Duplin County",
+   "state": "NC",
+   "deaths": 105,
+   "rate": 42.57,
+   "status": "not covered",
+   "share": 0.0,
+   "neighbor": "Wilmington Urban Area Metropolitan Planning Organization"
+  },
+  {
+   "fips": "37047",
+   "county": "Columbus County",
+   "state": "NC",
+   "deaths": 100,
+   "rate": 39.89,
+   "status": "not covered",
+   "share": 0.0,
+   "neighbor": "Myrtle Beach - Socastee Metropolitan Planning Organization; Wilmington Urban Area Metropolitan Planning Organization"
+  },
+  {
+   "fips": "37083",
+   "county": "Halifax County",
+   "state": "NC",
+   "deaths": 89,
+   "rate": 37.34,
+   "status": "not covered",
+   "share": 0.0,
+   "neighbor": ""
+  },
+  {
+   "fips": "28093",
+   "county": "Marshall County",
+   "state": "MS",
+   "deaths": 89,
+   "rate": 52.39,
+   "status": "not covered",
+   "share": 0.0,
+   "neighbor": "MidSouth Development District"
+  },
+  {
+   "fips": "37165",
+   "county": "Scotland County",
+   "state": "NC",
+   "deaths": 81,
+   "rate": 48.23,
+   "status": "not covered",
+   "share": 0.0,
+   "neighbor": "Triangle J Council of Governments"
+  }
+ ],
+ "deaths_rural_not_covered": 31090,
+ "n_states_with_gap": 32,
+ "n_gap_not_covered_with_neighbor": 115
+}

@@ -1,0 +1,272 @@
+regional_body,name_variants,state,recipient_type,fiscal_years,award_ids,n_awards,n_action_plan_awards,federal_funding_total,n_counties_plan_majority,n_rural_counties_plan_majority,n_high_fatality_rural_counties_plan_majority,deaths_2020_2024_in_plan_majority_counties,plan_majority_county_fips
+"Copper Valley Development Association, Inc.","Copper Valley Development Association, Inc.",AK,regional_council,2025,SS4A-FY25-0003,1,1,280380.0,2,2,1,7,02066;02068
+North Central Alabama Regional COG,North Central Alabama Regional COG,AL,regional_council,2025,SS4A-FY25-0021,1,1,200000.0,3,2,1,274,01043;01079;01103
+Northwest Alabama Council of Local Governments,Northwest Alabama Council of Local Governments,AL,regional_council,2024,SS4A-FY24-0027,1,1,240000.0,5,4,0,229,01033;01059;01077;01093;01133
+Regional Planning Commission of Greater Birmingham,Regional Planning Commission of Greater Birmingham,AL,regional_council,2022,SS4A-FY22-0013,1,1,310000.0,2,0,0,616,01073;01117
+South Alabama Regional Planning Commission,South Alabama Regional Planning Commission,AL,mpo,2024,SS4A-FY24-0028,1,1,400000.0,3,0,0,826,01003;01097;12033
+Top of Alabama Regional Council of Governments,Top of Alabama Regional Council of Governments,AL,regional_council,2022,SS4A-FY22-0015,1,1,400000.0,5,4,0,617,01049;01071;01083;01089;01095
+West Alabama Regional Commission,West Alabama Regional Commission,AL,regional_council,2025,SS4A-FY25-0027,1,1,743040.0,7,6,1,324,01007;01057;01063;01065;01075;01107;01125
+Metroplan (a Council of Local Governments in Arkansas),Metroplan; Metroplan (a Council of Local Governments in Arkansas),AR,mpo,2022;2024,SS4A-FY22-0019;SS4A-FY24-0042,2,1,1613690.0,6,3,0,718,05045;05053;05085;05105;05119;05125
+Northwest Arkansas Regional Planning Commission Metropolitan Planning Organization,Northwest Arkansas Regional Planning Commission Metropolitan Planning Organization,AR,mpo,2022,SS4A-FY22-0021,1,1,300000.0,2,0,0,293,05007;05143
+Bullhead City MPO,Bullhead City MPO,AZ,mpo,2025,SS4A-FY25-0034,1,1,1760000.0,0,0,0,0,
+Central Yavapai Metropolitan Planning Organization,Central Yavapai Metropolitan Planning Organization,AZ,mpo,2024,SS4A-FY24-0043,1,0,500000.0,0,0,0,0,
+MetroPlan (Flagstaff Metropolitan Planning Organization),MetroPlan (Flagstaff Metropolitan Planning Organization),AZ,mpo,2022,SS4A-FY22-0027,1,1,201360.0,1,0,0,268,04005
+MetroPlan Flagstaff,MetroPlan Flagstaff,AZ,mpo,2024,SS4A-FY24-0053,1,0,2140000.0,0,0,0,0,
+Yavapai Plan,Yavapai Plan,AZ,mpo,2026,SS4A-FY26-0024,1,0,700000.0,0,0,0,0,
+Yuma Metropolitan Planning Organization,Yuma Metropolitan Planning Organization,AZ,mpo,2024,SS4A-FY24-0059,1,1,400000.0,1,0,0,135,04027
+City/County Association of Governments of San Mateo County,City/County Association of Governments of San Mateo County,CA,regional_council,2024,SS4A-FY24-0116,1,0,433171.0,0,0,0,0,
+Fresno Council of Governments,Fresno Council of Governments,CA,mpo,2024;2025,SS4A-FY24-0121;SS4A-FY25-0076,2,1,800000.0,1,0,0,907,06019
+Humboldt County Association of Governments,Humboldt County Association of Governments,CA,regional_council,2023,SS4A-FY23-0084,1,1,480000.0,1,0,0,113,06023
+Lake County/City Area Planning Council,Lake County/City Area Planning Council,CA,regional_council,2023,SS4A-FY23-0086,1,0,120000.0,0,0,0,0,
+Mendocino Council of Governments (MCOG),Mendocino Council of Governments (MCOG),CA,regional_council,2023,SS4A-FY23-0087,1,1,80000.0,1,0,0,98,06045
+Metropolitan Transportation Commission,Metropolitan Transportation Commission,CA,mpo,2023,SS4A-FY23-0088,1,0,10000000.0,0,0,0,0,
+San Diego Association of Governments,San Diego Association of Governments,CA,regional_council,2022,SS4A-FY22-0074,1,1,2548000.0,1,0,0,1486,06073
+San Luis Obispo Council of Governments,San Luis Obispo Council of Governments,CA,regional_council,2022;2024,SS4A-FY22-0077;SS4A-FY24-0132,2,1,480000.0,1,0,0,134,06079
+South Bay Cities Council of Governments,South Bay Cities Council of Governments,CA,regional_council,2024,SS4A-FY24-0135,1,0,320000.0,0,0,0,0,
+Southern California Association of Governments,Southern California Association of Governments,CA,mpo,2023;2024,SS4A-FY23-0093;SS4A-FY24-0136,2,1,18000000.0,6,0,0,9278,06025;06037;06059;06065;06071;06111
+Denver Regional Council of Governments,Denver Regional Council of Governments,CO,mpo,2024,SS4A-FY24-0155,1,0,400000.0,0,0,0,0,
+Mesa County Regional Transportation Planning Office (Grand Valley Metropolitan Planning Organization),Mesa County Regional Transportation Planning Office; Mesa County Regional Transportation Planning Office (Grand Valley Metropolitan Planning Organization),CO,mpo,2022;2024,SS4A-FY22-0094;SS4A-FY24-0157,2,1,456000.0,1,0,0,95,08077
+Upper Arkansas Area Council of Governments,Upper Arkansas Area Council of Governments,CO,regional_council,2024,SS4A-FY24-0163,1,1,414504.0,4,1,1,72,08015;08027;08043;08065
+Capitol Region COG,Capitol Region COG; Capitol Region Council of Governments,CT,mpo,2022;2025;2026,SS4A-FY22-0100;SS4A-FY25-0094;SS4A-FY26-0044,3,0,4258000.0,0,0,0,0,
+Connecticut Metropolitan Council of Governments (MetroCOG),Connecticut Metropolitan Council of Governments (MetroCOG),CT,mpo,2024,SS4A-FY24-0166,1,1,1000000.0,0,0,0,0,
+Lower Connecticut River Valley Council of Governments,Lower Connecticut River Valley Council of Governments,CT,regional_council,2022,SS4A-FY22-0103,1,1,240000.0,1,0,0,72,09007
+Naugatuck Valley Council of Governments,Naugatuck Valley COG; Naugatuck Valley Council of Governments,CT,regional_council,2023;2026,SS4A-FY23-0119;SS4A-FY26-0045,2,1,2720064.0,0,0,0,0,
+Northeastern Connecticut Council of Governments,Northeastern Connecticut Council of Governments,CT,regional_council,2022,SS4A-FY22-0104,1,1,160000.0,1,1,0,80,09015
+Northwest Hills COG (NHCOG),Northwest Hills COG (NHCOG),CT,regional_council,2025,SS4A-FY25-0095,1,1,280000.0,1,0,0,104,09005
+Southeastern Connecticut Council of Governments,Southeastern Connecticut Council of Governments,CT,mpo,2023,SS4A-FY23-0120,1,0,140000.0,0,0,0,0,
+Western Connecticut Council of Governments,Western Connecticut Council of Governments,CT,regional_council,2023,SS4A-FY23-0128,1,0,3959346.0,0,0,0,0,
+Dover Kent County MPO,Dover Kent County MPO,DE,mpo,2023,SS4A-FY23-0130,1,1,160000.0,1,0,0,147,10001
+Dover Kent Metropolitian Planning Organization,Dover Kent Metropolitian Planning Organization,DE,mpo,2025,SS4A-FY25-0103,1,0,400000.0,0,0,0,0,
+New Castle County,New Castle County,DE,mpo,2026,SS4A-FY26-0046,1,1,1000000.0,1,0,0,336,10003
+Apalachee Regional Planning Council,Apalachee Regional Planning Council,FL,regional_council,2024,SS4A-FY24-0178,1,1,497839.0,9,8,2,469,12013;12037;12039;12045;12063;12065;12073;12077;12129
+Broward Metropolitan Planning Organization,Broward Metropolitan Planning Organization,FL,mpo,2022,SS4A-FY22-0109,1,1,5000000.0,1,0,0,1298,12011
+Capital Region Transportation Planning Agency (CRTPA),Capital Region Transportation Planning Agency (CRTPA),FL,mpo,2025,SS4A-FY25-0105,1,0,600000.0,0,0,0,0,
+Capital Region Transportation Planning Organization,Capital Region Transportation Planning Organization,FL,mpo,2024,SS4A-FY24-0180,1,0,198618.0,0,0,0,0,
+Central Florida Regional Planning Council,Central Florida Regional Planning Council,FL,regional_council,2022;2024,SS4A-FY22-0110;SS4A-FY24-0181,2,2,387200.0,7,2,2,1172,12027;12043;12049;12051;12055;12093;12105
+Charlotte County Punta Gorda MPO,Charlotte County Punta Gorda MPO,FL,mpo,2022,SS4A-FY22-0111,1,1,249500.0,1,0,0,156,12015
+Collier Metropolitan Planning Organization,Collier Metropolitan Planning Organization,FL,mpo,2022,SS4A-FY22-0127,1,1,200000.0,1,0,0,225,12021
+Emerald Coast Regional Council (West Florida Regional Planning Council),Emerald Coast Regional Council (West Florida Regional Planning Council),FL,regional_council,2024,SS4A-FY24-0201,1,0,10000000.0,0,0,0,0,
+Hillsborough County Metropolitan Planning Organization,Hillsborough County Metropolitan Planning Organization,FL,mpo,2023,SS4A-FY23-0152,1,0,2006798.0,0,0,0,0,
+Lee County Metropolitan Planning Organization,Lee County Metropolitan Planning Organization,FL,mpo,2022,SS4A-FY22-0132,1,1,300000.0,1,0,0,600,12071
+MetroPlan Orlando,MetroPlan Orlando,FL,mpo,2022;2024,SS4A-FY22-0134;SS4A-FY24-0206,2,2,5917577.6,3,0,0,1453,12095;12097;12117
+Pasco County MPO,Pasco County MPO,FL,mpo,2023,SS4A-FY23-0160,1,1,320000.0,1,0,0,520,12101
+Pinellas County Metropolitan Planning Organization,Pinellas County Metropolitan Planning Organization,FL,mpo,2024,SS4A-FY24-0211,1,1,400000.0,1,0,0,609,12103
+Pinellas Planning Council,Pinellas Planning Council,FL,mpo,2022,SS4A-FY22-0137,1,1,559074.03,1,0,0,609,12103
+River to Sea Transportation Planning Organization,River to Sea Transportation Planning Organization,FL,mpo,2022,SS4A-FY22-0139,1,1,320000.0,2,0,0,745,12035;12127
+Southwest Florida Regional Planning Council,Southwest Florida Regional Planning Council,FL,regional_council,2026,SS4A-FY26-0068,1,1,2378544.0,8,1,1,1796,12015;12021;12043;12051;12071;12081;12093;12115
+West Florida Regional Planning Council,West Florida Regional Planning Council,FL,regional_council,2022,SS4A-FY22-0143,1,1,400000.0,7,3,1,971,12005;12033;12059;12091;12113;12131;12133
+Atlanta Regional Commission,Atlanta Regional Commission,GA,mpo,2024,SS4A-FY24-0222,1,0,3031920.0,0,0,0,0,
+Cartersville-Bartow Metropolitan Planning Organization,Cartersville-Bartow Metropolitan Planning Organization,GA,mpo,2023,SS4A-FY23-0171,1,1,240000.0,1,0,0,136,13015
+"Liberty Consolidated Planning Commission, on behalf of the Hinesville Area Metropolitan Planning Organization","Liberty Consolidated Planning Commission, on behalf of the Hinesville Area Metropolitan Planning Organization",GA,mpo,2022,SS4A-FY22-0162,1,1,160000.0,1,0,0,68,13179
+Northeast Georgia Regional Commission,Northeast Georgia Regional Commission,GA,regional_council,2025,SS4A-FY25-0164,1,1,240000.0,0,0,0,0,
+River Valley Regional Commission,River Valley Regional Commission,GA,regional_council,2024,SS4A-FY24-0236,1,1,600000.0,16,12,6,340,13053;13061;13081;13093;13145;13193;13197;13215;13239;13243;13249;13259;13261;13263;13269;13307
+Maui MPO,Maui MPO,HI,mpo,2026,SS4A-FY26-0077,1,0,80000.0,0,0,0,0,
+Oahu Metropolitan Planning Organization,Oahu Metropolitan Planning Organization,HI,mpo,2024,SS4A-FY24-0241,1,1,400000.0,1,0,0,268,15003
+Ames Area Metropolitan Planning Organization,Ames Area Metropolitan Planning Organization,IA,mpo,2023,SS4A-FY23-0194,1,1,100000.0,1,0,0,21,19169
+Corridor Metropolitan Planning Organization,Corridor Metropolitan Planning Organization,IA,mpo,2022,SS4A-FY22-0165,1,1,280000.0,1,0,0,85,19113
+Des Moines Area MPO,Des Moines Area MPO,IA,mpo,2025;2026,SS4A-FY25-0169;SS4A-FY26-0079,2,0,19452000.0,0,0,0,0,
+Des Moines Area Metropolitan Planning Organization,Des Moines Area Metropolitan Planning Organization,IA,mpo,2022,SS4A-FY22-0166,1,1,1000000.0,2,0,0,242,19049;19153
+Dubuque Metropolitan Area Transportation Study,Dubuque Metropolitan Area Transportation Study,IA,mpo,2026,SS4A-FY26-0080,1,1,3443040.0,1,0,0,34,19061
+East Central Intergovernmental Association,East Central Intergovernmental Association,IA,regional_council,2022,SS4A-FY22-0167,1,1,394186.39,1,0,0,34,19061
+East Central Iowa Council of Governments,East Central Iowa Council of Governments,IA,regional_council,2023,SS4A-FY23-0200,1,1,144000.0,6,4,0,203,19011;19095;19103;19105;19113;19183
+Iowa Northland Regional Council of Governments,Iowa Northland Regional Council of Governments,IA,regional_council,2022,SS4A-FY22-0169,1,1,48000.0,1,0,0,53,19013
+Metropolitan Planning Organization of Johnson County MPO,Metropolitan Planning Organization of Johnson County MPO,IA,mpo,2023,SS4A-FY23-0201,1,1,300000.0,1,0,0,35,19103
+Omaha-Council Bluffs Metropolitan Area Planning Agency,Omaha-Council Bluffs Metropolitan Area Planning Agency,IA,mpo,2023,SS4A-FY23-0202,1,1,100000.0,15,8,2,454,19001;19003;19029;19071;19085;19129;19137;19145;19155;19159;19165;19173;19175;31055;31153
+Siouxland Interstate Metropolitan Planning Council,Siouxland Interstate Metropolitan Planning Council,IA,mpo,2022,SS4A-FY22-0170,1,1,40000.0,1,0,0,43,19193
+Southeast Iowa Regional Planning Commission,Southeast Iowa Regional Planning Commission,IA,regional_council,2022,SS4A-FY22-0171,1,1,64000.0,4,2,0,67,19057;19087;19111;19115
+Community Planning Association of Southwest Idaho,Community Planning Association of Southwest Idaho,ID,mpo,2024,SS4A-FY24-0248,1,0,276000.0,0,0,0,0,
+Lewis-Clark Valley Metropolitan Planning Organization,Lewis-Clark Valley Metropolitan Planning Organization,ID,mpo,2022,SS4A-FY22-0177,1,1,160000.0,2,0,0,49,16069;53003
+Bi-State Regional Commission,Bi-State Regional Commission,IL,regional_council,2022,SS4A-FY22-0178,1,1,160000.0,2,0,0,148,17161;19163
+Champaign County Regional Planning Commission,Champaign County Regional Planning Commission,IL,mpo,2023,SS4A-FY23-0208,1,0,945000.0,0,0,0,0,
+Chicago Metropolitan Agency for Planning,Chicago Metropolitan Agency for Planning,IL,mpo,2022,SS4A-FY22-0179,1,1,3896000.0,7,0,0,3103,17031;17043;17089;17093;17097;17111;17197
+McLean County Regional Planning Commission,McLean County Regional Planning Commission,IL,regional_council,2022,SS4A-FY22-0180,1,1,151592.5,1,0,0,78,17113
+Rockford Metropolitan Planning Organization,Rockford Metropolitan Planning Organization,IL,mpo,2022,SS4A-FY22-0181,1,1,400492.0,2,0,0,200,17007;17201
+Tri-County Regional Planning Commission,Tri-County Regional Planning Commission,IL,regional_council,2022,SS4A-FY22-0183,1,1,400000.0,2,0,0,172,17143;17179
+East Central Indiana Regional Planning District,East Central Indiana Regional Planning District,IN,regional_council,2023,SS4A-FY23-0224,1,1,400000.0,2,0,0,145,18035;18053
+Indianapolis Metropolitan Planning Organization,Indianapolis Metropolitan Planning Organization,IN,mpo,2024,SS4A-FY24-0275,1,1,480000.0,6,0,0,1013,18011;18057;18059;18063;18081;18097
+Kankakee Iroquois Regional Planning Commission,Kankakee Iroquois Regional Planning Commission,IN,regional_council,2023;2026,SS4A-FY23-0226;SS4A-FY26-0095,2,2,788860.0,8,8,1,197,18007;18015;18073;18111;18131;18149;18171;18181
+Madison County Council of Governments,Madison County Council of Governments,IN,mpo,2023,SS4A-FY23-0227,1,0,402248.0,0,0,0,0,
+Michiana Area Council of Governments,Michiana Area Council of Governments,IN,regional_council,2022,SS4A-FY22-0192,1,1,500000.0,4,1,0,421,18039;18085;18099;18141
+Northwestern Indiana Regional Planning Commission,Northwestern Indiana Regional Planning Commission,IN,mpo,2024,SS4A-FY24-0277,1,1,400000.0,3,0,0,482,18089;18091;18127
+Flint Hills Regional Council,Flint Hills Regional Council,KS,regional_council,2026,SS4A-FY26-0107,1,1,1360000.0,1,1,0,17,20149
+North Central Regional Planning Commission,North Central Regional Planning Commission,KS,regional_council,2023,SS4A-FY23-0252,1,1,1520000.0,12,9,3,139,20027;20029;20041;20053;20089;20105;20117;20123;20143;20157;20169;20201
+Southeast Kansas Regional Planning Commission,Southeast Kansas Regional Planning Commission,KS,regional_council,2022,SS4A-FY22-0204,1,1,800000.0,12,8,2,187,20001;20003;20011;20021;20031;20037;20099;20107;20125;20133;20205;20207
+Wichita Area Metropolitan Planning Organization,Wichita Area Metropolitan Planning Organization,KS,mpo,2023,SS4A-FY23-0255,1,0,940000.0,0,0,0,0,
+Barren River Area Development District,Barren River Area Development District,KY,regional_council,2022,SS4A-FY22-0206,1,1,283867.0,10,8,1,293,21003;21009;21031;21061;21099;21141;21169;21171;21213;21227
+Big Sandy Area Development District,Big Sandy Area Development District,KY,regional_council,2025,SS4A-FY25-0210,1,1,200632.0,5,5,0,177,21071;21115;21153;21159;21195
+Bluegrass Area Development District,Bluegrass Area Development District,KY,regional_council,2023,SS4A-FY23-0256,1,1,425344.0,16,7,0,533,21005;21017;21021;21049;21065;21067;21073;21079;21097;21113;21137;21151;21167;21181;21197;21209
+Cumberland Valley Area Development District,Cumberland Valley Area Development District,KY,regional_council,2024,SS4A-FY24-0301,1,1,265530.0,8,8,1,265,21013;21051;21095;21109;21121;21125;21203;21235
+FIVCO Area Development District,FIVCO Area Development District,KY,regional_council,2024,SS4A-FY24-0302,1,1,190324.0,5,3,0,84,21019;21043;21063;21089;21127
+Gateway Area Development District,Gateway Area Development District,KY,regional_council,2022,SS4A-FY22-0211,1,1,299614.0,5,5,1,95,21011;21165;21173;21175;21205
+Green River Area Development District,Green River Area Development District,KY,regional_council,2022,SS4A-FY22-0212,1,1,172812.8,7,5,0,174,21059;21091;21101;21149;21183;21225;21233
+Kentuckiana Regional Planning and Development Agency,Kentuckiana Regional Planning and Development Agency,KY,regional_council,2022,SS4A-FY22-0213,1,1,600000.0,9,4,0,896,18019;18043;21029;21103;21111;21185;21211;21215;21223
+Kentucky River Area Development District,Kentucky River Area Development District,KY,regional_council,2022,SS4A-FY22-0214,1,1,208265.0,8,8,2,147,21025;21119;21129;21131;21133;21189;21193;21237
+Lake Cumberland Area Development District,Lake Cumberland Area Development District,KY,regional_council,2022,SS4A-FY22-0215,1,1,237107.0,10,10,1,231,21001;21045;21053;21057;21087;21147;21199;21207;21217;21231
+Lincoln Trail Area Development District,Lincoln Trail Area Development District,KY,regional_council,2022,SS4A-FY22-0216,1,1,205779.0,8,7,1,332,21027;21085;21093;21123;21155;21163;21179;21229
+Northern Kentucky Area Development District,Northern Kentucky Area Development District,KY,regional_council,2022;2026,SS4A-FY22-0218;SS4A-FY26-0114,2,1,243238.0,8,4,1,206,21015;21037;21041;21077;21081;21117;21187;21191
+Pennyrile Area Development District,Pennyrile Area Development District,KY,regional_council,2022,SS4A-FY22-0219,1,1,268754.0,9,8,3,233,21033;21047;21055;21107;21139;21143;21177;21219;21221
+Purchase Area Development District,Purchase Area Development District,KY,regional_council,2022,SS4A-FY22-0220,1,1,200000.0,8,6,1,195,21007;21035;21039;21075;21083;21105;21145;21157
+Acadiana Planning Commission,Acadiana Planning Commission,LA,regional_council,2022,SS4A-FY22-0221,1,1,400009.0,7,5,0,527,22001;22039;22045;22055;22097;22099;22113
+Capital Region Planning Commission,Capital Region Planning Commission,LA,regional_council,2022;2025,SS4A-FY22-0222;SS4A-FY25-0216,2,1,1665662.0,5,1,0,779,22005;22033;22047;22063;22121
+New Orleans Regional Planning Commission,New Orleans Regional Planning Commission,LA,regional_council,2022,SS4A-FY22-0227,1,1,656000.0,3,0,0,390,22095;22103;22105
+"North Delta Regional Planning and Development District, Inc.","North Delta Regional Planning and Development District, Inc.",LA,regional_council,2022,SS4A-FY22-0228,1,1,319680.0,11,9,2,347,22021;22035;22041;22049;22065;22067;22073;22083;22107;22111;22123
+"Northwest Louisiana Council of Governments, Inc.","Northwest Louisiana Council of Governments, Inc.",LA,regional_council,2022,SS4A-FY22-0229,1,1,800000.0,4,1,1,381,22015;22017;22031;22119
+Rapides Area Planning Commission,Rapides Area Planning Commission,LA,mpo,2023,SS4A-FY23-0266,1,1,1480000.0,1,0,0,140,22079
+South Central Planning and Development Commission,South Central Planning and Development Commission,LA,regional_council,2022,SS4A-FY22-0230,1,1,400000.0,7,1,0,378,22007;22057;22089;22093;22095;22101;22109
+Berkshire Regional Planning Commission,Berkshire Regional Planning Commission,MA,regional_council,2022,SS4A-FY22-0233,1,1,198593.0,1,0,0,58,25003
+Boston Metropolitan Area Planning Council,Boston Metropolitan Area Planning Council,MA,mpo,2022,SS4A-FY22-0234,1,1,2160435.0,4,0,0,789,25009;25017;25021;25025
+Central Massachusetts Regional Planning Commission,Central Massachusetts Regional Planning Commission,MA,mpo,2023,SS4A-FY23-0268,1,1,480000.0,1,0,0,264,25027
+Franklin Regional Council of Governments,Franklin Regional Council of Governments,MA,mpo,2025,SS4A-FY25-0229,1,0,487200.0,0,0,0,0,
+Merrimack Valley Planning Commission,Merrimack Valley Planning Commission,MA,regional_council,2022;2025,SS4A-FY22-0240;SS4A-FY25-0231,2,1,1271873.0,0,0,0,0,
+Metroplanning Area Planning Council,Metroplanning Area Planning Council,MA,mpo,2025,SS4A-FY25-0232,1,0,5000000.0,0,0,0,0,
+Metropolitan Area Planning Council,Metropolitan Area Planning Council,MA,mpo,2024,SS4A-FY24-0327,1,1,7509376.0,4,0,0,789,25009;25017;25021;25025
+Montachusett Regional Planning Commission,Montachusett Regional Planning Commission,MA,regional_council,2022,SS4A-FY22-0241,1,1,750000.0,0,0,0,0,
+Old Colony Planning Council,Old Colony Planning Council,MA,regional_council,2022,SS4A-FY22-0242,1,1,320000.0,1,0,0,185,25023
+Pioneer Valley Planning Commission,Pioneer Valley Planning Commission,MA,mpo,2023,SS4A-FY23-0281,1,1,1000000.0,2,0,0,278,25013;25015
+Southeastern Regional Planning and Economic Development District,Southeastern Regional Planning and Economic Development District,MA,regional_council,2022;2025,SS4A-FY22-0243;SS4A-FY25-0233,2,1,3280000.0,1,0,0,210,25005
+Androscoggin Valley Council of Governments,Androscoggin Valley Council of Governments,ME,regional_council,2022,SS4A-FY22-0258,1,1,200000.0,1,0,0,58,23001
+Bangor Area Comprehensive Transportation System,Bangor Area Comprehensive Transportation System,ME,mpo,2023,SS4A-FY23-0299,1,1,400000.0,0,0,0,0,
+Greater Portland Council of Governments,Greater Portland Council of Governments,ME,regional_council,2022;2023;2024,SS4A-FY22-0260;SS4A-FY23-0301;SS4A-FY24-0347,3,1,1000154.0,2,1,0,217,23005;23031
+Midcoast COG,Midcoast COG,ME,regional_council,2025,SS4A-FY25-0246,1,1,467877.0,1,1,0,22,23013
+Genesee County Metropolitan Planning Commission,Genesee County Metropolitan Planning Commission,MI,mpo,2022,SS4A-FY22-0268,1,1,412000.0,1,0,0,280,26049
+Grand Valley Metropolitan Council,Grand Valley Metropolitan Council,MI,mpo,2022,SS4A-FY22-0269,1,1,240000.0,1,0,0,303,26081
+Macatawa Area Coordinating Council,Macatawa Area Coordinating Council,MI,mpo,2023,SS4A-FY23-0313,1,1,240000.0,0,0,0,0,
+Southeast Michigan Council of Governments,Southeast Michigan Council of Governments,MI,regional_council,2022;2023,SS4A-FY22-0273;SS4A-FY23-0315,2,0,10585587.2,0,0,0,0,
+Tri-County Regional Planning Commission MI,Tri-County Regional Planning Commission MI,MI,mpo,2025,SS4A-FY25-0254,1,1,400000.0,3,1,0,242,26037;26045;26065
+Duluth-Superior Metropolitan Interstate Council,Duluth-Superior Metropolitan Interstate Council,MN,mpo,2023,SS4A-FY23-0320,1,1,250000.0,1,0,0,38,55031
+Region Nine Development Commission,Region Nine Development Commission,MN,regional_council,2024,SS4A-FY24-0379,1,1,340000.0,9,6,0,117,27013;27015;27043;27079;27091;27103;27143;27161;27165
+Rochester-Olmsted Council of Governments,Rochester-Olmsted Council of Governments,MN,regional_council,2022,SS4A-FY22-0286,1,1,276800.0,1,0,0,42,27109
+SaintCloudAPO,SaintCloudAPO,MN,mpo,2023,SS4A-FY23-0324,1,1,120000.0,2,0,0,91,27009;27145
+Boonslick Regional Planning Commission,Boonslick Regional Planning Commission,MO,regional_council,2025,SS4A-FY25-0262,1,1,98400.0,3,3,0,105,29113;29139;29219
+Bootheel Regional Planning Commission,Bootheel Regional Planning Commission,MO,regional_council,2024,SS4A-FY24-0383,1,1,124363.0,6,5,2,175,29069;29133;29143;29155;29201;29207
+East-West Gateway Council of Governments,East-West Gateway Council of Governments,MO,regional_council,2022,SS4A-FY22-0295,1,1,580551.92,8,1,0,1658,17119;17133;17163;29071;29099;29183;29189;29510
+Harry S Truman Coordinating Council,Harry S Truman Coordinating Council,MO,regional_council,2023;2025,SS4A-FY23-0340;SS4A-FY25-0266,2,1,560000.0,4,3,1,253,29011;29097;29119;29145
+Kaysinger Basin Regional Planning Commission,Kaysinger Basin Regional Planning Commission,MO,regional_council,2024,SS4A-FY24-0389,1,1,96702.0,7,7,2,138,29013;29015;29039;29083;29085;29185;29217
+Mark Twain Regional Council of Governments,Mark Twain Regional COG; Mark Twain Regional Council of Governments,MO,regional_council,2024;2025,SS4A-FY24-0390;SS4A-FY25-0267,2,2,160000.0,8,7,1,126,29007;29121;29127;29137;29163;29173;29175;29205
+Meramec Regional Planning Commission,Meramec Regional Planning Commission,MO,regional_council,2023,SS4A-FY23-0341,1,1,200000.0,8,7,2,214,29055;29065;29073;29125;29151;29161;29169;29221
+Mid-America Regional Council,Mid-America Regional Council,MO,mpo,2023;2025,SS4A-FY23-0342;SS4A-FY25-0268,2,1,773436.0,8,1,0,1148,20091;20103;20121;20209;29037;29047;29095;29165
+Mo-Kan Regional Council,Mo-Kan Regional Council,MO,regional_council,2023,SS4A-FY23-0343,1,1,80000.0,6,4,0,133,20005;20043;29003;29021;29049;29063
+Northeast Missouri Regional Planning Commission,Northeast Missouri Regional Planning Commission,MO,regional_council,2022,SS4A-FY22-0296,1,1,200000.0,7,5,0,80,17001;29001;29045;29103;29111;29197;29199
+Northwest Missouri Regional COG,Northwest Missouri Regional COG; Northwest Missouri Regional Council of Governments,MO,regional_council,2023;2025;2026,SS4A-FY23-0344;SS4A-FY25-0269;SS4A-FY26-0146,3,1,1131563.0,5,4,1,31,29005;29075;29087;29147;29227
+Ozark Foothills Regional Planning Commission,Ozark Foothills Regional Planning Commission,MO,regional_council,2024,SS4A-FY24-0391,1,1,116000.0,5,5,2,122,29023;29035;29179;29181;29223
+Ozarks Transportation Organization,Ozarks Transportation Organization,MO,mpo,2022,SS4A-FY22-0297,1,1,228800.0,2,0,0,266,29043;29077
+South Central Ozarks Council of Governments,South Central Ozarks Council of Governments,MO,regional_council,2025,SS4A-FY25-0272,1,1,160000.0,7,7,3,166,29067;29091;29149;29153;29203;29215;29229
+Southwest Missouri Council of Governments,Southwest Missouri Council of Governments,MO,regional_council,2023,SS4A-FY23-0345,1,1,200000.0,10,7,1,596,29009;29043;29057;29059;29077;29109;29167;29209;29213;29225
+St. Joseph Area Transportation Study Organization,St. Joseph Area Transportation Study Organization,MO,mpo,2023,SS4A-FY23-0346,1,1,160000.0,2,1,0,89,29003;29021
+"Central Mississippi Planning and Development District, Inc.","Central Mississippi Planning and Development District, Inc.",MS,regional_council,2022,SS4A-FY22-0298,1,1,400000.0,3,0,0,463,28049;28089;28121
+Gulf Regional Planning Commission,Gulf Regional Planning Commission,MS,mpo,2024,SS4A-FY24-0398,1,0,275000.0,0,0,0,0,
+Missoula MPO,Missoula MPO,MT,mpo,2023,SS4A-FY23-0360,1,0,308000.0,0,0,0,0,
+Burlington-Graham MPO,Burlington-Graham MPO,NC,mpo,2023,SS4A-FY23-0362,1,0,139264.0,0,0,0,0,
+Charlotte Regional Transportation Planning Organization,Charlotte Regional Transportation Planning Organization,NC,mpo,2024,SS4A-FY24-0408,1,1,3150000.0,3,0,0,788,37097;37119;37179
+City of Greensboro (NC),City of Greensboro (NC),NC,mpo,2023,SS4A-FY23-0364,1,0,370280.0,0,0,0,0,
+Foothills Regional Commission,Foothills Regional Commission,NC,mpo,2023;2026,SS4A-FY23-0367;SS4A-FY26-0167,2,1,1963300.0,4,4,0,227,37045;37111;37149;37161
+Greenville Urban Area Metropolitan Planning Organization,Greenville Urban Area Metropolitan Planning Organization,NC,mpo,2023,SS4A-FY23-0368,1,1,400000.0,1,0,0,150,37147
+"Land of Sky Regional Council, encompassing the French Broad River Metropolitan Planning Organization and the Land of Sky Rural Planning Organization","Land of Sky Regional Council, encompassing the French Broad River Metropolitan Planning Organization and the Land of Sky Rural Planning Organization",NC,mpo,2022,SS4A-FY22-0313,1,1,320000.0,3,0,0,309,37021;37087;37089
+Piedmont Triad Regional Council,Piedmont Triad Regional Council,NC,regional_council,2023,SS4A-FY23-0369,1,1,500000.0,12,8,1,1339,37001;37033;37057;37059;37067;37081;37123;37151;37157;37169;37171;37197
+Triangle J Council of Governments,Triangle J Council of Governments,NC,regional_council,2022,SS4A-FY22-0317,1,1,250000.0,7,2,0,1102,37037;37063;37101;37105;37125;37135;37183
+Wilmington Urban Area Metropolitan Planning Organization,Wilmington Urban Area Metropolitan Planning Organization,NC,mpo,2023,SS4A-FY23-0377,1,1,400000.0,2,1,0,164,37129;37141
+Fargo-Moorhead Metropolitan Council of Governments,Fargo-Moorhead Metropolitan Council of Governments,ND,mpo,2022;2025,SS4A-FY22-0320;SS4A-FY25-0290,2,1,1160000.0,2,0,0,81,27027;38017
+Grand Forks/East Grand Forks Metropolitan Planning Organization,Grand Forks/East Grand Forks Metropolitan Planning Organization,ND,mpo,2022,SS4A-FY22-0321,1,1,400000.0,1,0,0,28,38035
+Omaha-Council Bluffs Metropolitan Area Planning Agency,Omaha-Council Bluffs Metropolitan Area Planning Agency,NE,mpo,2022;2026,SS4A-FY22-0331;SS4A-FY26-0181,2,1,1861200.0,3,0,0,331,19155;31055;31153
+Rockingham Planning Commission,Rockingham Planning Commission,NH,regional_council,2022,SS4A-FY22-0334,1,1,220000.0,3,0,0,320,33011;33015;33017
+Upper Valley Lake Sunapee RPC,Upper Valley Lake Sunapee RPC,NH,regional_council,2026,SS4A-FY26-0184,1,1,1173000.0,1,1,0,19,33019
+Eastern Plains Council of Governments,Eastern Plains Council of Governments,NM,regional_council,2025,SS4A-FY25-0306,1,1,732000.0,6,4,2,110,35011;35019;35021;35037;35041;35059
+Mid-Region Council of Governments Metropolitan Planning Organization,Mid-Region Council of Governments Metropolitan Planning Organization,NM,mpo,2022,SS4A-FY22-0351,1,1,136000.0,3,0,0,729,35001;35043;35061
+North Central New Mexico Economic Development District,North Central New Mexico Economic Development District; North Central New Mexico Economic Development District (NCNMEDD),NM,regional_council,2024;2025,SS4A-FY24-0441;SS4A-FY25-0307,2,1,1331342.0,3,2,0,219,35039;35049;35055
+Regional Transportation Commission Washoe County,Regional Transportation Commission Washoe County,NV,mpo,2024,SS4A-FY24-0447,1,1,1200000.0,1,0,0,251,32031
+Regional Transportation Commission of Southern Nevada,Regional Transportation Commission of Southern Nevada,NV,regional_council,2022;2023,SS4A-FY22-0353;SS4A-FY23-0415,2,1,3192000.0,1,0,0,1245,32003
+Regional Transportation Commission of Washoe County,Regional Transportation Commission of Washoe County,NV,mpo,2023,SS4A-FY23-0416,1,0,8963112.0,0,0,0,0,
+Binghamton Metropolitan Transportation Study,Binghamton Metropolitan Transportation Study,NY,mpo,2023,SS4A-FY23-0419,1,1,480000.0,2,1,0,99,36007;36107
+Capital District Transportation Committee,Capital District Transportation Committee,NY,mpo,2022,SS4A-FY22-0354,1,0,1150000.0,0,0,0,0,
+Genesee Transportation Council,Genesee Transportation Council,NY,mpo,2023,SS4A-FY23-0426,1,1,1747686.0,3,1,0,367,36055;36069;36117
+Lake Champlain - Lake George Regional Planning Board,Lake Champlain - Lake George Regional Planning Board,NY,regional_council,2022,SS4A-FY22-0358,1,1,320000.0,5,4,0,134,36019;36031;36041;36113;36115
+Buckeye Hills Regional Council,Buckeye Hills Regional Council,OH,regional_council,2025,SS4A-FY25-0327,1,1,320000.0,8,7,0,210,39009;39073;39105;39111;39115;39121;39127;39167
+Eastgate Regional Council of Governments,Eastgate Regional Council of Governments,OH,regional_council,2022,SS4A-FY22-0375,1,1,259200.0,2,0,0,211,39099;39155
+Licking County Area Transportation Study,Licking County Area Transportation Study,OH,mpo,2023,SS4A-FY23-0454,1,1,216000.0,1,0,0,99,39089
+Maumee Valley Planning Organization,Maumee Valley Planning Organization,OH,regional_council,2023,SS4A-FY23-0455,1,1,200000.0,5,5,0,143,39039;39051;39069;39125;39171
+Miami Valley Regional Planning Commission,Miami Valley Regional Planning Commission,OH,mpo,2023,SS4A-FY23-0456,1,1,480000.0,3,0,0,467,39057;39109;39113
+Mid-Ohio Regional Planning Commission,Mid-Ohio Regional Planning Commission,OH,regional_council,2022;2023;2024;2025,SS4A-FY22-0378;SS4A-FY23-0457;SS4A-FY24-0491;SS4A-FY25-0336,4,2,8152000.0,9,4,0,993,39041;39045;39049;39083;39097;39101;39117;39129;39159
+Ohio Valley Regional Development Commission,Ohio Valley Regional Development Commission,OH,regional_council,2022,SS4A-FY22-0379,1,1,200000.0,12,9,0,444,39001;39015;39025;39047;39053;39071;39079;39087;39131;39141;39145;39163
+Toledo Metropolitan Area Council of Governments,Toledo Metropolitan Area Council of Governments,OH,mpo,2025,SS4A-FY25-0337,1,0,80000.0,0,0,0,0,
+West Central Ohio Rural Planning Organization,West Central Ohio Rural Planning Organization,OH,regional_council,2025,SS4A-FY25-0342,1,1,230400.0,7,5,0,189,39011;39063;39065;39107;39137;39161;39175
+Association of Central Oklahoma Governments,Association of Central Oklahoma Governments,OK,regional_council,2022,SS4A-FY22-0382,1,1,192000.0,5,2,0,810,40017;40027;40083;40087;40109
+Grand Gateway Department of Economic and Community Development,Grand Gateway Department of Economic and Community Development,OK,regional_council,2022,SS4A-FY22-0385,1,1,291700.5,7,5,0,310,40035;40041;40097;40105;40115;40131;40147
+Indian Nations Council of Governments,Indian Nations Council of Governments,OK,regional_council,2022,SS4A-FY22-0386,1,0,21200000.0,0,0,0,0,
+Bend Metropolitan Planning Organization,Bend Metropolitan Planning Organization,OR,mpo,2023,SS4A-FY23-0466,1,1,200000.0,1,0,0,113,41017
+Metro,Metro,OR,mpo,2024,SS4A-FY24-0515,1,0,1110000.0,0,0,0,0,
+Oregon Cascades West COG,Oregon Cascades West COG,OR,regional_council,2025,SS4A-FY25-0356,1,1,397383.0,0,0,0,0,
+Centre Region Council of Governments,Centre Region COG; Centre Region Council of Governments,PA,mpo,2024;2025,SS4A-FY24-0524;SS4A-FY25-0360,2,1,264000.0,1,0,0,64,42027
+DVRPC,DVRPC,PA,mpo,2024,SS4A-FY24-0533,1,0,1520000.0,0,0,0,0,
+Delaware Valley Regional Planning Commission,Delaware Valley Regional Planning Commission,PA,regional_council,2022;2025,SS4A-FY22-0399;SS4A-FY25-0364,2,1,2512000.0,9,0,0,2283,34005;34007;34015;34021;42017;42029;42045;42091;42101
+Lancaster County Metropolitan Planning Organization,Lancaster County Metropolitan Planning Organization,PA,mpo,2022,SS4A-FY22-0401,1,1,200000.0,1,0,0,280,42071
+Lehigh Valley Planning Commission,Lehigh Valley Planning Commission,PA,mpo,2025,SS4A-FY25-0365,1,1,800000.0,2,0,0,246,42077;42095
+North Central PA Regional Planning & Development Commission,North Central PA Regional Planning & Development Commission,PA,regional_council,2022,SS4A-FY22-0402,1,1,240000.0,6,6,0,136,42023;42033;42047;42065;42083;42105
+SEDA-Council of Governments (on behalf of the City of Shamokin),SEDA-Council of Governments (on behalf of the City of Shamokin),PA,regional_council,2022,SS4A-FY22-0403,1,1,160000.0,8,5,0,242,42035;42037;42067;42087;42093;42097;42109;42119
+Southwestern Pennsylvania Commission,Southwestern Pennsylvania Commission,PA,mpo,2023,SS4A-FY23-0486,1,1,520000.0,10,4,0,1028,42003;42005;42007;42019;42051;42059;42063;42073;42125;42129
+Tri-County Regional Planning Commission,Tri-County Regional Planning Commission,PA,mpo,2022;2024;2025,SS4A-FY22-0404;SS4A-FY24-0542;SS4A-FY25-0368,3,1,869000.0,3,1,0,279,42041;42043;42099
+Berkeley-Charleston-Dorchester Council of Governments,Berkeley-Charleston-Dorchester Council of Governments,SC,mpo,2023,SS4A-FY23-0492,1,1,362560.0,3,0,0,713,45015;45019;45035
+Grand Strand Area Transportation Study,Grand Strand Area Transportation Study,SC,mpo,2024,SS4A-FY24-0559,1,0,800000.0,0,0,0,0,
+Lowcountry Council of Governments,Lowcountry Council of Governments,SC,regional_council,2022,SS4A-FY22-0411,1,1,280000.0,4,3,3,368,45013;45029;45049;45053
+Myrtle Beach - Socastee Metropolitan Planning Organization,Myrtle Beach - Socastee Metropolitan Planning Organization,SC,mpo,2022,SS4A-FY22-0412,1,1,575000.0,2,0,0,431,45043;45051
+Waccamaw Regional Council of Governments and Grand Strand Area Transportation Study,Waccamaw Regional Council of Governments and Grand Strand Area Transportation Study,SC,mpo,2025,SS4A-FY25-0381,1,0,8206104.0,0,0,0,0,
+South Eastern Council of Governments,South Eastern Council of Governments,SD,regional_council,2024,SS4A-FY24-0568,1,1,340890.0,2,0,0,124,46083;46099
+Clarksville Montgomery County Regional Planning Commission,Clarksville Montgomery County Regional Planning Commission,TN,regional_council,2022,SS4A-FY22-0420,1,1,200000.0,1,0,0,149,47125
+East Tennessee Development District,East Tennessee Development District,TN,regional_council,2025,SS4A-FY25-0398,1,1,80000.0,0,0,0,0,
+First Tennessee Development District,First Tennessee Development District,TN,regional_council,2024,SS4A-FY24-0585,1,1,140000.0,0,0,0,0,
+Greater Nashville Regional Council,Greater Nashville Regional Council,TN,mpo,2024,SS4A-FY24-0587,1,0,5155000.0,0,0,0,0,
+Knoxville Regional Transportation Planning Organization,Knoxville Regional Transportation Planning Organization,TN,mpo,2023,SS4A-FY23-0519,1,0,24000.0,0,0,0,0,
+MidSouth Development District,MidSouth Development District,TN,regional_council,2024;2025,SS4A-FY24-0592;SS4A-FY25-0404,2,1,3662670.0,6,3,0,1520,05035;28033;47047;47097;47157;47167
+Bryan-College Station Metropolitan Planning Organization,Bryan-College Station Metropolitan Planning Organization,TX,mpo,2022,SS4A-FY22-0429,1,1,210000.0,1,0,0,77,48041
+Capital Area Metropolitan Planning Organization,Capital Area Metropolitan Planning Organization,TX,mpo,2022,SS4A-FY22-0430,1,1,2320000.0,6,3,0,1471,48021;48053;48055;48209;48453;48491
+Central Texas Council of Governments,Central Texas Council of Governments,TX,regional_council,2022;2025,SS4A-FY22-0431;SS4A-FY25-0416,2,2,2418803.0,7,5,3,437,48027;48099;48193;48281;48331;48333;48411
+Coastal Bend Council of Governments,Coastal Bend Council of Governments,TX,regional_council,2025,SS4A-FY25-0441,1,1,200000.0,12,7,4,535,48007;48025;48047;48131;48249;48261;48273;48297;48311;48355;48391;48409
+Concho Valley Council of Governments,Concho Valley Council of Governments,TX,regional_council,2024,SS4A-FY24-0632,1,1,1000000.0,13,11,8,222,48081;48095;48105;48235;48267;48307;48319;48327;48383;48413;48431;48435;48451
+Deep East Texas Council of Governments,Deep East Texas Council of Governments,TX,regional_council,2025,SS4A-FY25-0442,1,1,960000.0,11,10,8,529,48005;48225;48347;48351;48373;48403;48405;48407;48419;48455;48457
+East Texas Council of Governments,East Texas Council of Governments,TX,regional_council,2023,SS4A-FY23-0545,1,1,768000.0,14,12,3,1215,48001;48063;48073;48183;48203;48213;48315;48365;48379;48401;48423;48459;48467;48499
+El Paso Metropolitan Planning Organization,El Paso Metropolitan Planning Organization,TX,mpo,2022,SS4A-FY22-0445,1,1,600000.0,1,0,0,451,48141
+Grayson County Metropolitan Planning Organization,Grayson County Metropolitan Planning Organization,TX,mpo,2025,SS4A-FY25-0445,1,1,400000.0,1,0,0,132,48181
+Houston-Galveston Area Council,Houston-Galveston Area Council,TX,regional_council,2022,SS4A-FY22-0446,1,1,4000000.0,8,3,0,3945,48039;48071;48157;48167;48201;48291;48339;48473
+North Central Texas Council of Governments,North Central Texas COG; North Central Texas Council of Governments,TX,mpo,2023;2024;2026,SS4A-FY23-0548;SS4A-FY24-0638;SS4A-FY26-0261,3,0,17000000.0,0,0,0,0,
+Panhandle Regional Planning Commission,Panhandle Regional Planning Commission,TX,regional_council,2024,SS4A-FY24-0640,1,1,1200000.0,26,16,7,530,48011;48045;48065;48069;48075;48087;48111;48117;48129;48179;48191;48195;48205;48211;48233;48295;48341;48357;48359;48369;48375;48381;48393;48421;48437;48483
+Permian Basin Regional Planning Commission,Permian Basin Regional Planning Commission,TX,regional_council,2022,SS4A-FY22-0448,1,1,600000.0,2,0,0,444,48135;48329
+Rio Grande Valley Metropolitan Planning Organization,Rio Grande Valley Metropolitan Planning Organization,TX,mpo,2022,SS4A-FY22-0451,1,1,200000.0,2,0,0,520,48061;48215
+South Plains Association of Governments,South Plains Association of Governments,TX,regional_council,2023;2025,SS4A-FY23-0549;SS4A-FY25-0453,2,1,2825843.0,15,10,6,450,48017;48079;48107;48125;48153;48169;48189;48219;48269;48279;48303;48305;48345;48445;48501
+Texarkana Metropolitian Planning Organization,Texarkana Metropolitian Planning Organization,TX,mpo,2025,SS4A-FY25-0454,1,1,360000.0,2,0,0,137,05091;48037
+Waco MPO,Waco MPO,TX,mpo,2026,SS4A-FY26-0264,1,0,4000000.0,0,0,0,0,
+Waco Metropolitan Planning Organization,Waco Metropolitan Planning Organization,TX,mpo,2022;2024,SS4A-FY22-0453;SS4A-FY24-0648,2,1,1360000.0,1,0,0,167,48309
+"Waco Metropolitan Planning Organization, City of Waco","Waco Metropolitan Planning Organization, City of Waco",TX,mpo,2023,SS4A-FY23-0550,1,0,1200000.0,0,0,0,0,
+West Central Texas COG,West Central Texas COG,TX,regional_council,2025,SS4A-FY25-0459,1,1,1250648.0,19,13,6,457,48049;48059;48083;48093;48133;48151;48207;48253;48263;48275;48335;48353;48399;48415;48417;48429;48433;48441;48447
+Wichita Falls MPO and City of Wichita Falls,Wichita Falls MPO and City of Wichita Falls,TX,mpo,2025,SS4A-FY25-0460,1,1,240000.0,1,0,0,83,48485
+Cache Metropolitan Planning Organization,Cache Metropolitan Planning Organization,UT,mpo,2022,SS4A-FY22-0455,1,1,320000.0,1,0,0,51,49005
+Five County Association of Governments,Five County Association of Governments,UT,regional_council,2022,SS4A-FY22-0458,1,1,1000000.0,1,0,0,89,49053
+Mountainland Association of Governments,Mountainland Association of Governments,UT,regional_council,2022;2024,SS4A-FY22-0459;SS4A-FY24-0655,2,1,1200000.0,1,0,0,177,49049
+Wasatch Front Regional Council,Wasatch Front Regional Council,UT,regional_council,2022;2024,SS4A-FY22-0460;SS4A-FY24-0658,2,1,999200.0,3,0,0,580,49011;49035;49057
+Accomack-Northampton Planning District Commission,Accomack-Northampton Planning District Commission,VA,regional_council,2024,SS4A-FY24-0659,1,1,160000.0,2,2,1,59,51001;51131
+Central Virginia Planning District Commission,Central Virginia Planning District Commission,VA,regional_council,2022,SS4A-FY22-0461,1,1,280000.0,5,4,0,188,51009;51011;51019;51031;51680
+Danville MPO,Danville MPO,VA,mpo,2025,SS4A-FY25-0471,1,0,640000.0,0,0,0,0,
+George Washington Regional Commission,George Washington Regional Commission,VA,regional_council,2022;2024,SS4A-FY22-0469;SS4A-FY24-0665,2,1,240942.0,5,2,0,228,51033;51099;51177;51179;51630
+Thomas Jefferson Planning District Commission,Thomas Jefferson Planning District Commission,VA,regional_council,2022,SS4A-FY22-0475,1,1,857600.0,6,4,1,192,51003;51065;51079;51109;51125;51540
+West Piedmont Planning District Commission / Danville Metropolitan Planning Organization,West Piedmont Planning District Commission / Danville Metropolitan Planning Organization,VA,mpo,2022,SS4A-FY22-0477,1,1,160000.0,1,0,0,30,51590
+WinFred Metropolitan Planning Organization (with Northern Shenandoah Valley Regional Commission as the fiscal agent),WinFred Metropolitan Planning Organization (with Northern Shenandoah Valley Regional Commission as the fiscal agent),VA,mpo,2022,SS4A-FY22-0478,1,1,240000.0,6,4,0,162,51043;51069;51139;51171;51187;51840
+Central Vermont Regional Planning Commission,Central Vermont Regional Planning Commission,VT,regional_council,2023,SS4A-FY23-0570,1,1,120000.0,1,1,0,25,50023
+Lamoille County Planning Commission,Lamoille County Planning Commission,VT,regional_council,2023,SS4A-FY23-0571,1,1,107348.0,1,1,0,12,50015
+Mount Ascutney Regional Commission,Mount Ascutney Regional Commission,VT,regional_council,2022,SS4A-FY22-0479,1,1,80000.0,0,0,0,0,
+Benton Franklin Council of Governments,Benton Franklin Council of Governments,WA,mpo,2023,SS4A-FY23-0573,1,0,320000.0,0,0,0,0,
+Cowlitz-Wahkiakum Council of Governments,Cowlitz-Wahkiakum Council of Governments,WA,regional_council,2022,SS4A-FY22-0485,1,1,200000.0,1,0,0,73,53015
+Island Regional Planning Organization,Island Regional Planning Organization,WA,regional_council,2022,SS4A-FY22-0487,1,1,403200.0,1,0,0,37,53029
+Northeast Washington Regional Transportation Planning Organization,Northeast Washington Regional Transportation Planning Organization,WA,mpo,2022,SS4A-FY22-0490,1,1,352000.0,3,3,1,62,53019;53051;53065
+Puget Sound Regional Council,Puget Sound Regional Council,WA,regional_council,2022;2023,SS4A-FY22-0491;SS4A-FY23-0595,2,2,7730363.0,4,0,0,1538,53033;53035;53053;53061
+Skagit Council of Governments,Skagit Council of Governments,WA,mpo,2023,SS4A-FY23-0596,1,1,300000.0,1,0,0,81,53057
+Southwest Washington Regional Transportation Council,Southwest Washington Regional Transportation Council,WA,regional_council,2022;2023,SS4A-FY22-0492;SS4A-FY23-0597,2,2,600000.0,3,2,0,229,53011;53039;53059
+Spokane Regional Transportation Council,Spokane Regional Transportation Council,WA,regional_council,2022;2024,SS4A-FY22-0493;SS4A-FY24-0687,2,1,788000.0,1,0,0,265,53063
+Thurston Regional Planning Council,Thurston Regional Planning Council,WA,mpo,2023,SS4A-FY23-0598,1,1,332520.0,1,0,0,121,53067
+Whatcom Council of Governments,Whatcom Council of Governments,WA,regional_council,2022,SS4A-FY22-0496,1,1,200000.0,1,0,0,75,53073
+Yakima Valley Conference of Governments,Yakima Valley Conference of Governments,WA,mpo,2023,SS4A-FY23-0600,1,1,350000.0,1,0,0,236,53077
+East Central Wisconsin Regional Planning Commission,East Central Wisconsin Regional Planning Commission,WI,regional_council,2025,SS4A-FY25-0499,1,0,842876.0,0,0,0,0,
+Greater Madison MPO and City of Madison,Greater Madison MPO and City of Madison,WI,mpo,2024,SS4A-FY24-0692,1,1,1000000.0,0,0,0,0,
+La Crosse Area Planning Committee,La Crosse Area Planning Committee,WI,mpo,2024,SS4A-FY24-0693,1,1,280000.0,1,0,0,31,55063
+Belomar Regional Council,Belomar Regional Council,WV,mpo,2024,SS4A-FY24-0697,1,1,240000.0,4,2,0,72,39013;54051;54069;54103
+"Fayette-Raleigh Metropolitan Planning Organization, Inc.","Fayette-Raleigh Metropolitan Planning Organization, Inc.",WV,mpo,2022,SS4A-FY22-0509,1,1,199200.0,2,1,0,93,54019;54081
+KYOVA Interstate Planning Commission,KYOVA Interstate Planning Commission,WV,regional_council,2022,SS4A-FY22-0510,1,1,640000.0,5,1,0,157,21019;21089;39087;54011;54099
+Regional Intergovernmental Council,Regional Intergovernmental Council,WV,mpo,2025;2026,SS4A-FY25-0511;SS4A-FY26-0294,2,1,976000.0,4,2,0,188,54005;54015;54039;54079
+Cheyenne Metropolitan Planning Organization,Cheyenne Metropolitan Planning Organization,WY,mpo,2024,SS4A-FY24-0703,1,1,200000.0,1,0,0,71,56021

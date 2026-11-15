@@ -1,0 +1,485 @@
+{
+ "rounds": {
+  "2022": {
+   "urban": {
+    "pct_counties_covered": 34.5,
+    "pct_pop_covered": 52.1
+   },
+   "other_rural": {
+    "pct_counties_covered": 16.1,
+    "pct_pop_covered": 19.5
+   },
+   "hf_rural": {
+    "pct_counties_covered": 6.9,
+    "pct_pop_covered": 8.5
+   }
+  },
+  "2023": {
+   "urban": {
+    "pct_counties_covered": 47.3,
+    "pct_pop_covered": 63.7
+   },
+   "other_rural": {
+    "pct_counties_covered": 25.0,
+    "pct_pop_covered": 31.0
+   },
+   "hf_rural": {
+    "pct_counties_covered": 14.3,
+    "pct_pop_covered": 17.4
+   }
+  },
+  "2024": {
+   "urban": {
+    "pct_counties_covered": 55.5,
+    "pct_pop_covered": 71.5
+   },
+   "other_rural": {
+    "pct_counties_covered": 31.5,
+    "pct_pop_covered": 37.7
+   },
+   "hf_rural": {
+    "pct_counties_covered": 23.4,
+    "pct_pop_covered": 24.0
+   }
+  },
+  "2025": {
+   "urban": {
+    "pct_counties_covered": 60.8,
+    "pct_pop_covered": 74.4
+   },
+   "other_rural": {
+    "pct_counties_covered": 36.3,
+    "pct_pop_covered": 42.2
+   },
+   "hf_rural": {
+    "pct_counties_covered": 32.4,
+    "pct_pop_covered": 34.2
+   }
+  },
+  "2026": {
+   "urban": {
+    "pct_counties_covered": 62.5,
+    "pct_pop_covered": 75.4
+   },
+   "other_rural": {
+    "pct_counties_covered": 37.4,
+    "pct_pop_covered": 43.4
+   },
+   "hf_rural": {
+    "pct_counties_covered": 35.3,
+    "pct_pop_covered": 36.9
+   }
+  }
+ },
+ "urban_rural_gap_pp": {
+  "2022": 20.4,
+  "2026": 25.6
+ },
+ "pipeline": {
+  "urban": {
+   "n_early_covered": 536,
+   "pct_later_impl_any": 27.2
+  },
+  "other_rural": {
+   "n_early_covered": 390,
+   "pct_later_impl_any": 7.4
+  },
+  "hf_rural": {
+   "n_early_covered": 64,
+   "pct_later_impl_any": 3.1
+  },
+  "rural_all": {
+   "n_early_covered": 454,
+   "pct_later_impl_any": 6.8
+  },
+  "urban_all": {
+   "n_early_covered": 536,
+   "pct_later_impl_any": 27.2
+  },
+  "recipients": {
+   "n": 900,
+   "pct_later_impl": 6.6,
+   "n_rural": 503,
+   "pct_rural_later_impl": 7.8,
+   "n_urban": 397,
+   "pct_urban_later_impl": 5.0,
+   "pct_city_later_impl": 7.8,
+   "n_city": 510,
+   "pct_county_later_impl": 10.0,
+   "n_county": 170,
+   "pct_regional_council_later_impl": 0.0,
+   "n_regional_council": 94,
+   "pct_mpo_later_impl": 0.0,
+   "n_mpo": 68,
+   "pct_tribe_later_impl": 0.0,
+   "n_tribe": 27,
+   "chi2": 2.25,
+   "p": 0.1339319907903199
+  }
+ },
+ "dollars": {
+  "urban": {
+   "n": 1133,
+   "pop": 284529463,
+   "deaths": 153242,
+   "dollars": 4377070507.55718,
+   "plan": 1310806437.5609329,
+   "impl": 3066264069.9962473,
+   "per_res": 15.38,
+   "per_death": 28563.0,
+   "plan_per_death": 8554.0,
+   "impl_per_death": 20009.0,
+   "pct_deaths": 74.7,
+   "pct_dollars": 88.8
+  },
+  "other_rural": {
+   "n": 1562,
+   "pop": 41268457,
+   "deaths": 39103,
+   "dollars": 457051742.6805734,
+   "plan": 184418260.06749856,
+   "impl": 272633482.61307484,
+   "per_res": 11.08,
+   "per_death": 11688.0,
+   "plan_per_death": 4716.0,
+   "impl_per_death": 6972.0,
+   "pct_deaths": 19.1,
+   "pct_dollars": 9.3
+  },
+  "hf_rural": {
+   "n": 448,
+   "pop": 5651361,
+   "deaths": 12880,
+   "dollars": 96996956.30204654,
+   "plan": 64088455.571368575,
+   "impl": 32908500.730677955,
+   "per_res": 17.16,
+   "per_death": 7531.0,
+   "plan_per_death": 4976.0,
+   "impl_per_death": 2555.0,
+   "pct_deaths": 6.3,
+   "pct_dollars": 2.0
+  },
+  "gap": {
+   "n": 290,
+   "pop": 3665158,
+   "deaths": 8361,
+   "dollars": 33974085.49390392,
+   "plan": 18139574.763225973,
+   "impl": 15834510.730677951,
+   "per_res": 9.27,
+   "per_death": 4063.0,
+   "plan_per_death": 2170.0,
+   "impl_per_death": 1894.0,
+   "pct_deaths": 4.1,
+   "pct_dollars": 0.7
+  },
+  "allocated_total": 4931119206.539801,
+  "unallocated": 3452528.9999990463
+ },
+ "roads": {
+  "urban": {
+   "deaths": 153242,
+   "owner": {
+    "state": 53.9,
+    "county": 12.4,
+    "city_town": 20.6,
+    "federal_tribal": 0.2,
+    "other": 0.1,
+    "unknown": 12.7
+   },
+   "class": {
+    "interstate_fwy": 19.2,
+    "arterial": 54.7,
+    "collector": 15.9,
+    "local": 9.7,
+    "unknown": 0.6
+   }
+  },
+  "other_rural": {
+   "deaths": 39103,
+   "owner": {
+    "state": 68.5,
+    "county": 16.9,
+    "city_town": 6.6,
+    "federal_tribal": 0.2,
+    "other": 0.1,
+    "unknown": 7.6
+   },
+   "class": {
+    "interstate_fwy": 9.7,
+    "arterial": 45.4,
+    "collector": 29.9,
+    "local": 14.4,
+    "unknown": 0.6
+   }
+  },
+  "hf_rural": {
+   "deaths": 12880,
+   "owner": {
+    "state": 69.2,
+    "county": 9.5,
+    "city_town": 2.2,
+    "federal_tribal": 1.3,
+    "other": 0.1,
+    "unknown": 17.7
+   },
+   "class": {
+    "interstate_fwy": 15.5,
+    "arterial": 47.0,
+    "collector": 26.9,
+    "local": 10.0,
+    "unknown": 0.6
+   }
+  },
+  "gap": {
+   "deaths": 8361,
+   "owner": {
+    "state": 72.7,
+    "county": 9.9,
+    "city_town": 2.3,
+    "federal_tribal": 1.6,
+    "other": 0.0,
+    "unknown": 13.5
+   },
+   "class": {
+    "interstate_fwy": 15.8,
+    "arterial": 46.0,
+    "collector": 26.9,
+    "local": 10.7,
+    "unknown": 0.6
+   }
+  },
+  "hf_covered": {
+   "deaths": 4519,
+   "owner": {
+    "state": 62.8,
+    "county": 8.8,
+    "city_town": 2.1,
+    "federal_tribal": 0.8,
+    "other": 0.2,
+    "unknown": 25.4
+   },
+   "class": {
+    "interstate_fwy": 15.0,
+    "arterial": 49.1,
+    "collector": 26.8,
+    "local": 8.7,
+    "unknown": 0.5
+   }
+  }
+ },
+ "reg_n": 3134,
+ "reg_dropped": 9,
+ "reg": {
+  "m1_logit_region": {
+   "log_pop": {
+    "b": 0.2241731760910936,
+    "se": 0.12762237924360653,
+    "p": 0.07899710040806512,
+    "or": 1.2512876937780544
+   },
+   "rural10": {
+    "b": -0.09912132604683065,
+    "se": 0.030785619376890647,
+    "p": 0.001283122020181257,
+    "or": 0.9056328245073394
+   },
+   "rate10": {
+    "b": 0.04121272057507147,
+    "se": 0.03697039144920226,
+    "p": 0.2649578382243436,
+    "or": 1.0420737524981085
+   },
+   "pov": {
+    "b": -0.00856224892552468,
+    "se": 0.023199452416073317,
+    "p": 0.7120746812330436,
+    "or": 0.9914743027319504
+   },
+   "log_mhi": {
+    "b": -0.0020988046481009437,
+    "se": 0.5815939812042445,
+    "p": 0.9971206713887751,
+    "or": 0.997903396302317
+   }
+  },
+  "m2_lpm_state": {
+   "log_pop": {
+    "b": 0.06173143973636325,
+    "se": 0.01795005422059813,
+    "p": 0.0005837226740296769
+   },
+   "rural10": {
+    "b": -0.018099628178338496,
+    "se": 0.004892097578423297,
+    "p": 0.00021579628378273153
+   },
+   "rate10": {
+    "b": 0.00775469124014911,
+    "se": 0.003983101036448529,
+    "p": 0.05154697054513332
+   },
+   "pov": {
+    "b": 0.0006003586378428543,
+    "se": 0.0035951013080630354,
+    "p": 0.8673751441968673
+   },
+   "log_mhi": {
+    "b": 0.0851555321368477,
+    "se": 0.09404296669641919,
+    "p": 0.36520266695710224
+   }
+  },
+  "m3_fraclogit_region": {
+   "log_pop": {
+    "b": 0.26130184312255195,
+    "se": 0.12890196108840152,
+    "p": 0.0426484764995627,
+    "or": 1.2986195856722464
+   },
+   "rural10": {
+    "b": -0.08766178454747704,
+    "se": 0.030145529105370248,
+    "p": 0.0036380290412952447,
+    "or": 0.9160706535853573
+   },
+   "rate10": {
+    "b": 0.0459865751062055,
+    "se": 0.03583529317629744,
+    "p": 0.19939536445080763,
+    "or": 1.0470603541885306
+   },
+   "pov": {
+    "b": -0.007791334837859226,
+    "se": 0.022148758481564834,
+    "p": 0.725008521692678,
+    "or": 0.9922389389360263
+   },
+   "log_mhi": {
+    "b": 0.03946705812223916,
+    "se": 0.5582069986564088,
+    "p": 0.9436339211490519,
+    "or": 1.0402562303269463
+   }
+  },
+  "m4_logit_rural": {
+   "log_pop": {
+    "b": 0.1696217481696623,
+    "se": 0.19024334987399558,
+    "p": 0.37260517904780255,
+    "or": 1.1848565923735734
+   },
+   "rural10": {
+    "b": -0.014574252724976857,
+    "se": 0.04219058619963601,
+    "p": 0.7297647391400588,
+    "or": 0.9855314376206739
+   },
+   "rate10": {
+    "b": 0.022970880263865658,
+    "se": 0.03950740611247164,
+    "p": 0.5609491632071564,
+    "or": 1.0232367427294307
+   },
+   "pov": {
+    "b": -0.003380447444582299,
+    "se": 0.0263299883694978,
+    "p": 0.8978421406309182,
+    "or": 0.9966252598350164
+   },
+   "log_mhi": {
+    "b": 0.047464881215899146,
+    "se": 0.8320782186750789,
+    "p": 0.9545103258929208,
+    "or": 1.048609374588405
+   }
+  },
+  "n": {
+   "m1": 3134,
+   "m2": 3134,
+   "m3": 3134,
+   "m4": 2007
+  },
+  "ame_m1": {
+   "log_pop": 0.05132405815616933,
+   "rural10": -0.022693627754815628,
+   "rate10": 0.009435574189149826,
+   "pov": -0.0019603102862537315,
+   "log_mhi": -0.00048051726535221077
+  },
+  "ame_m4": {
+   "log_pop": 0.039051334153003575,
+   "rural10": -0.0033553638132321753,
+   "rate10": 0.005288483654642564,
+   "pov": -0.000778265126986644,
+   "log_mhi": 0.01092763202959292
+  },
+  "r2_m2": 0.3035940474491071,
+  "pseudo_r2_m1": 0.058562207995780824
+ },
+ "state_r2_rural": 0.324,
+ "moran_share": {
+  "I": 0.397,
+  "p_sim": 0.001,
+  "n_islands": 8
+ },
+ "moran_gap": {
+  "I": 0.15,
+  "p_sim": 0.001
+ },
+ "lisa": {
+  "ns": 2051,
+  "HH": 527,
+  "LL": 430,
+  "HL": 72,
+  "LH": 55,
+  "island": 8
+ },
+ "lisa_gap": {
+  "ns": 204,
+  "LL": 78,
+  "LH": 8
+ },
+ "lisa_ll_rural_pct": 82.6,
+ "pct_gap_in_ll": 26.9,
+ "scan_states": {
+  "states": [
+   "AL",
+   "GA",
+   "IL",
+   "MI",
+   "MN",
+   "NJ",
+   "WA"
+  ],
+  "rural_covered_scan": 20.6,
+  "rural_covered_other": 40.4,
+  "n_rural_scan": 354,
+  "n_rural_other": 1656,
+  "hf_gap_pct_scan": 75.5,
+  "hf_gap_pct_other": 63.3,
+  "n_hf_scan": 53,
+  "by_state": {
+   "AL": 52.0,
+   "GA": 18.0,
+   "IL": 6.2,
+   "MI": 5.5,
+   "MN": 24.6,
+   "NJ": 0.0,
+   "WA": 40.0
+  },
+  "chi2": 48.14,
+  "p": 3.970114067137667e-12
+ },
+ "state_rural_cov_range": {
+  "min": 0.0,
+  "max": 100.0,
+  "n_states_zero": 4,
+  "n_states_ge75": 4,
+  "iqr": [
+   13.8,
+   50.5
+  ]
+ }
+}

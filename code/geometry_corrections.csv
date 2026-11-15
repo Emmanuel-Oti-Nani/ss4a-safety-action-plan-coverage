@@ -1,0 +1,4 @@
+fiscal_year,uei_or_name,state,census_layer,census_geoid,reason
+2024,City of Rutledge,TN,place,4765820,"DOT FY2024 map layer draws Rutledge GA; DOT FY2024 award list places the award in TN (UEI JJBYQ5PLMQX3)"
+2025,Town of Charlestown,NH,cousub,3301911380,"DOT FY2025 map layer draws Springfield VT; DOT FY2025 award list and project text name Town of Charlestown NH (UEI JRNTGTXMACN9)"
+2026,Beaverhead County,MT,county,30001,"DOT FY2026 map layer draws Beaufort County SC with its population; DOT FY2026 award list gives Beaverhead County MT a countywide action plan (UEI RY9MN7MKA1Z9)"

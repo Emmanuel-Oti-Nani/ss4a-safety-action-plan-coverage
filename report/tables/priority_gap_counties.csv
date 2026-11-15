@@ -1,0 +1,291 @@
+fips,state,county_name,pop2020_census,pct_rural_2020,rural_county,deaths_2020_2024,deaths_rural_2020_2024,person_years_2020_2024,death_rate_per100k_yr,rate_rank_among_rural,high_fatality_rural,share_action_plan_area_fy22_26,share_action_plan_area_fy22_25,share_action_plan_area_conservative_fy22_26,share_any_ss4a_area_fy22_26,share_regional_body_action_plan_fy22_26,coverage_status,coverage_status_fy22_25,coverage_status_conservative,covered_any_ss4a_fy22_26,first_fy_action_plan_majority,gap_flag,n_action_plan_awards_touching,action_plan_award_ids,action_plan_recipients,regional_body_action_plan_recipients,neighbor_regional_body_plans,n_any_ss4a_awards_touching
+37155,NC,Robeson County,116530,76.01,True,293,268,584510,50.13,170,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Myrtle Beach - Socastee Metropolitan Planning Organization,0
+04017,AZ,Navajo County,106717,64.25,True,200,165,542077,36.9,358,True,0.212,0.1772,0.1772,0.3927,0.0,partly covered,partly covered,partly covered,False,,True,3,SS4A-FY23-0023;SS4A-FY24-0049;SS4A-FY26-0022,City of Holbrook; City of Show Low; Kayenta Township,,MetroPlan (Flagstaff Metropolitan Planning Organization),4
+35031,NM,McKinley County,72902,66.46,True,136,121,352156,38.62,314,True,0.0645,0.0645,0.0645,0.2011,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY23-0024,Navajo Division of Transportation,,Mid-Region Council of Governments Metropolitan Planning Organization,2
+04001,AZ,Apache County,66021,100.0,True,126,106,326704,38.57,316,True,0.3135,0.3135,0.3135,0.7333,0.0,partly covered,partly covered,partly covered,True,,True,1,SS4A-FY23-0024,Navajo Division of Transportation,,,2
+45031,SC,Darlington County,62905,57.11,True,105,85,312792,33.57,431,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+37061,NC,Duplin County,48715,100.0,True,105,105,246673,42.57,257,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Wilmington Urban Area Metropolitan Planning Organization,0
+37047,NC,Columbus County,50623,89.7,True,100,95,250700,39.89,297,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Myrtle Beach - Socastee Metropolitan Planning Organization; Wilmington Urban Area Metropolitan Planning Organization,0
+37083,NC,Halifax County,48622,56.06,True,89,81,238374,37.34,341,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+28093,MS,Marshall County,33752,83.53,True,89,81,169894,52.39,150,True,0.0,0.0,0.0,0.0365,0.0,not covered,not covered,not covered,False,,True,0,,,,MidSouth Development District,1
+37165,NC,Scotland County,34174,52.52,True,81,69,167949,48.23,188,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Triangle J Council of Governments,0
+35006,NM,Cibola County,27172,63.3,True,76,69,134227,56.62,120,True,0.3626,0.0952,0.3626,0.3626,0.0,partly covered,partly covered,partly covered,False,,True,2,SS4A-FY23-0412;SS4A-FY26-0187,Ramah Navajo Chapter; University of New Mexico School of Medicine,,Mid-Region Council of Governments Metropolitan Planning Organization,3
+48217,TX,Hill County,35874,77.51,True,76,72,186640,40.72,286,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Waco Metropolitan Planning Organization,0
+40089,OK,McCurtain County,30814,82.08,True,75,70,154317,48.6,180,True,0.1955,0.1955,0.1955,0.1955,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY25-0344,City of Idabel,,Texarkana Metropolitian Planning Organization,1
+06093,CA,Siskiyou County,44076,70.91,True,73,62,217328,33.59,429,True,0.0888,0.0888,0.0888,0.0888,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY23-0053,City of Mt Shasta,,Humboldt County Association of Governments,1
+48147,TX,Fannin County,35662,78.13,True,73,72,186631,39.11,308,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Grayson County Metropolitan Planning Organization,0
+28123,MS,Scott County,27990,100.0,True,71,69,138589,51.23,161,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"Central Mississippi Planning and Development District, Inc.",0
+48185,TX,Grimes County,29268,74.52,True,68,66,156702,43.39,243,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bryan-College Station Metropolitan Planning Organization; Houston-Galveston Area Council,0
+45033,SC,Dillon County,28292,70.01,True,66,59,139312,47.38,199,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Myrtle Beach - Socastee Metropolitan Planning Organization,0
+45023,SC,Chester County,32294,73.34,True,66,63,160909,41.02,282,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48317,TX,Martin County,5237,100.0,True,65,65,26090,249.14,7,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Permian Basin Regional Planning Commission,0
+28107,MS,Panola County,33208,81.11,True,65,62,164040,39.62,300,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+35053,NM,Socorro County,16595,51.06,True,64,57,81000,79.01,54,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Mid-Region Council of Governments Metropolitan Planning Organization,0
+48149,TX,Fayette County,24435,79.46,True,64,61,125208,51.11,162,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Capital Area Metropolitan Planning Organization,0
+48289,TX,Leon County,15719,100.0,True,62,62,81315,76.25,60,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bryan-College Station Metropolitan Planning Organization; Deep East Texas Council of Governments; East Texas Council of Governments,0
+45039,SC,Fairfield County,20948,77.28,True,61,54,102749,59.37,106,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+45069,SC,Marlboro County,26667,65.23,True,60,54,129875,46.2,205,True,0.2058,0.2058,0.2058,0.2058,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY25-0377,City of Bennettsville,,,1
+45027,SC,Clarendon County,31144,85.48,True,59,56,154931,38.08,328,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Berkeley-Charleston-Dorchester Council of Governments,0
+48161,TX,Freestone County,19435,100.0,True,59,59,100245,58.86,108,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,East Texas Council of Governments,0
+01013,AL,Butler County,19051,69.43,True,58,55,93148,62.27,90,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+41057,OR,Tillamook County,27390,60.66,True,57,52,137479,41.46,274,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Cowlitz-Wahkiakum Council of Governments; Oregon Cascades West COG,0
+48067,TX,Cass County,28454,80.56,True,57,52,142842,39.9,296,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"East Texas Council of Governments; Northwest Louisiana Council of Governments, Inc.; Texarkana Metropolitian Planning Organization",0
+48241,TX,Jasper County,32980,77.86,True,55,48,163633,33.61,428,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Deep East Texas Council of Governments,0
+37017,NC,Bladen County,29606,100.0,True,54,53,147829,36.53,365,True,0.2788,0.2788,0.2788,0.2788,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY23-0374,Town of Elizabethtown,,Wilmington Urban Area Metropolitan Planning Organization,1
+35057,NM,Torrance County,15045,100.0,True,54,54,77451,69.72,71,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Eastern Plains Council of Governments; Mid-Region Council of Governments Metropolitan Planning Organization; North Central New Mexico Economic Development District,0
+47115,TN,Marion County,28837,91.34,True,54,53,146250,36.92,357,True,0.0379,0.0379,0.0379,0.0379,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY25-0413,Town of Jasper,,Top of Alabama Regional Council of Governments,1
+45067,SC,Marion County,29183,59.11,True,52,47,143319,36.28,372,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Myrtle Beach - Socastee Metropolitan Planning Organization,0
+45089,SC,Williamsburg County,31026,83.08,True,52,48,151410,34.34,409,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Berkeley-Charleston-Dorchester Council of Governments; Myrtle Beach - Socastee Metropolitan Planning Organization,0
+28031,MS,Covington County,18340,100.0,True,52,50,90742,57.31,116,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+28029,MS,Copiah County,28368,82.17,True,52,49,139273,37.34,341,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,"Central Mississippi Planning and Development District, Inc.",1
+48177,TX,Gonzales County,19653,64.62,True,51,49,99257,51.38,159,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Capital Area Metropolitan Planning Organization,0
+40133,OK,Seminole County,23556,73.33,True,50,48,117471,42.56,258,True,0.0777,0.0777,0.0777,0.0777,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY23-0463,Muscogee (Creek) Nation,,,1
+48089,TX,Colorado County,20557,100.0,True,50,50,105029,47.61,196,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48165,TX,Gaines County,21598,67.27,True,48,45,111162,43.18,245,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,South Plains Association of Governments,0
+28043,MS,Grenada County,21629,52.49,True,48,38,106087,45.25,220,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+17075,IL,Iroquois County,27077,82.75,True,47,47,132244,35.54,389,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Kankakee Iroquois Regional Planning Commission,0
+13055,GA,Chattooga County,24965,59.03,True,46,37,125182,36.75,361,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Top of Alabama Regional Council of Governments,0
+48051,TX,Burleson County,17642,100.0,True,45,45,94284,47.73,195,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bryan-College Station Metropolitan Planning Organization; Central Texas Council of Governments,0
+48229,TX,Hudspeth County,3202,100.0,True,44,44,17016,258.58,6,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,El Paso Metropolitan Planning Organization,0
+01087,AL,Macon County,19532,53.91,True,44,37,93456,47.08,202,True,0.4659,0.4659,0.4659,0.4659,0.0,partly covered,partly covered,partly covered,False,,True,2,SS4A-FY24-0020;SS4A-FY25-0016,City of Tuskegee,,,2
+16049,ID,Idaho County,16541,100.0,True,44,44,87159,50.48,167,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Lewis-Clark Valley Metropolitan Planning Organization,0
+01019,AL,Cherokee County,24971,100.0,True,43,43,127213,33.8,424,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Top of Alabama Regional Council of Governments,0
+28051,MS,Holmes County,17000,100.0,True,43,40,80954,53.12,145,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"Central Mississippi Planning and Development District, Inc.",0
+37007,NC,Anson County,22055,77.77,True,43,40,111443,38.58,315,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Charlotte Regional Transportation Planning Organization; Piedmont Triad Regional Council,0
+05111,AR,Poinsett County,22965,68.5,True,43,42,112713,38.15,325,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,MidSouth Development District,0
+13321,GA,Worth County,20784,70.43,True,42,40,102255,41.07,280,True,0.2175,0.2175,0.2175,0.2175,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY22-0155,City of Sylvester,,River Valley Regional Commission,1
+28079,MS,Leake County,21275,100.0,True,41,36,106597,38.46,319,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"Central Mississippi Planning and Development District, Inc.",0
+13119,GA,Franklin County,23424,100.0,True,41,41,121169,33.84,423,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05075,AR,Lawrence County,16216,59.67,True,41,40,81188,50.5,165,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+28133,MS,Sunflower County,25971,64.03,True,41,34,121666,33.7,426,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+12047,FL,Hamilton County,14004,100.0,True,41,41,68080,60.22,97,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13075,GA,Cook County,17229,59.17,True,40,34,87658,45.63,215,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+06105,CA,Trinity County,16112,100.0,True,40,40,79300,50.44,168,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Humboldt County Association of Governments; Mendocino Council of Governments (MCOG),0
+48163,TX,Frio County,18385,50.7,True,39,34,92909,41.98,264,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+22043,LA,Grant Parish,22169,100.0,True,39,39,110477,35.3,395,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Rapides Area Planning Commission,0
+01085,AL,Lowndes County,10311,100.0,True,38,38,49165,77.29,58,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05047,AR,Franklin County,17097,100.0,True,38,38,86631,43.86,238,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+51025,VA,Brunswick County,15849,100.0,True,38,38,79203,47.98,191,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,,1
+12029,FL,Dixie County,16759,100.0,True,38,38,85288,44.55,228,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+49027,UT,Millard County,12975,100.0,True,38,38,66576,57.08,118,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+37185,NC,Warren County,18642,100.0,True,37,37,93975,39.37,305,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13241,GA,Rabun County,16883,100.0,True,37,37,86560,42.74,255,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+37131,NC,Northampton County,17471,88.35,True,37,33,84655,43.71,241,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05057,AR,Hempstead County,20065,55.87,True,37,30,97541,37.93,333,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Texarkana Metropolitian Planning Organization,0
+01029,AL,Cleburne County,15056,100.0,True,37,37,77130,47.97,192,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48239,TX,Jackson County,14988,60.57,True,36,36,75759,47.52,197,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+51183,VA,Sussex County,10829,100.0,True,36,36,53825,66.88,78,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,,1
+05019,AR,Clark County,21446,52.97,True,36,34,105625,34.08,419,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+29141,MO,Morgan County,21006,100.0,True,36,36,108585,33.15,447,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Kaysinger Basin Regional Planning Commission,0
+28131,MS,Stone County,18333,100.0,True,36,36,94472,38.11,326,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48145,TX,Falls County,16968,68.2,True,35,31,86455,40.48,289,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Central Texas Council of Governments; Waco Metropolitan Planning Organization,0
+49037,UT,San Juan County,14518,100.0,True,35,35,72414,48.33,187,True,0.0,0.0,0.0,0.4186,0.0,not covered,not covered,not covered,False,,True,0,,,,Mesa County Regional Transportation Planning Office (Grand Valley Metropolitan Planning Organization); MetroPlan (Flagstaff Metropolitan Planning Organization),1
+48283,TX,La Salle County,6664,100.0,True,35,35,33189,105.46,37,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Coastal Bend Council of Governments,0
+01091,AL,Marengo County,19323,67.77,True,35,33,94256,37.13,347,True,0.0584,0.0584,0.0584,0.0584,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY24-0017,City of Linden,,West Alabama Regional Commission,1
+22077,LA,Pointe Coupee Parish,20758,67.27,True,35,31,101087,34.62,404,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Acadiana Planning Commission; Capital Region Planning Commission,0
+28153,MS,Wayne County,19779,100.0,True,35,35,98588,35.5,390,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48395,TX,Robertson County,16757,100.0,True,34,34,85835,39.61,301,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bryan-College Station Metropolitan Planning Organization; Central Texas Council of Governments,0
+37091,NC,Hertford County,21552,77.45,True,34,32,99541,34.16,414,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+28111,MS,Perry County,11511,100.0,True,34,34,57245,59.39,105,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+46102,SD,Oglala Lakota County,13672,100.0,True,33,33,67456,48.92,178,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48255,TX,Karnes County,14710,100.0,True,33,33,74841,44.09,232,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Coastal Bend Council of Governments,0
+28061,MS,Jasper County,16367,100.0,True,33,33,80296,41.1,278,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+40085,OK,Love County,10146,100.0,True,32,32,51307,62.37,89,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Grayson County Metropolitan Planning Organization,0
+16015,ID,Boise County,7610,100.0,True,32,32,41363,77.36,57,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05049,AR,Fulton County,12075,100.0,True,32,32,61510,52.02,153,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,South Central Ozarks Council of Governments,0
+05087,AR,Madison County,16521,100.0,True,32,32,86646,36.93,356,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Northwest Arkansas Regional Planning Commission Metropolitan Planning Organization,0
+01035,AL,Conecuh County,11597,100.0,True,32,32,56374,56.76,119,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+22091,LA,St. Helena Parish,10920,100.0,True,31,31,54292,57.1,117,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Capital Region Planning Commission; New Orleans Regional Planning Commission,0
+48387,TX,Red River County,11587,100.0,True,31,31,58057,53.4,141,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Texarkana Metropolitian Planning Organization,0
+38079,ND,Rolette County,12187,100.0,True,31,31,59621,52.0,154,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+28065,MS,Jefferson Davis County,11321,100.0,True,30,23,55586,53.97,135,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48313,TX,Madison County,13455,100.0,True,30,30,68241,43.96,235,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bryan-College Station Metropolitan Planning Organization; Deep East Texas Council of Governments,0
+01023,AL,Choctaw County,12665,100.0,True,30,30,61901,48.46,183,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+45017,SC,Calhoun County,14119,100.0,True,30,30,70911,42.31,261,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13191,GA,McIntosh County,10975,100.0,True,30,30,56562,53.04,146,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"Liberty Consolidated Planning Commission, on behalf of the Hinesville Area Metropolitan Planning Organization",0
+40023,OK,Choctaw County,14204,64.85,True,29,29,71487,40.57,288,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13319,GA,Wilkinson County,8877,100.0,True,29,29,43736,66.31,79,True,0.3162,0.3162,0.3162,0.3162,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY25-0162,Georgia State University,,,1
+08073,CO,Lincoln County,5675,100.0,True,28,28,27750,100.9,39,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05133,AR,Sevier County,15839,62.79,True,28,24,78561,35.64,382,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48109,TX,Culberson County,2188,100.0,True,27,27,10977,245.97,8,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,El Paso Metropolitan Planning Organization,0
+47007,TN,Bledsoe County,14913,100.0,True,27,27,75162,35.92,376,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05021,AR,Clay County,14552,100.0,True,27,27,71400,37.82,336,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bootheel Regional Planning Commission; Ozark Foothills Regional Planning Commission,0
+51037,VA,Charlotte County,11529,100.0,True,26,26,57111,45.53,217,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,Central Virginia Planning District Commission,1
+38053,ND,McKenzie County,14704,54.52,True,26,25,71600,36.31,370,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,,1
+26011,MI,Arenac County,15002,87.54,True,25,24,75386,33.16,446,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+17189,IL,Washington County,13761,99.32,True,25,25,68137,36.69,362,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,East-West Gateway Council of Governments,0
+20115,KS,Marion County,11823,100.0,True,25,25,58769,42.54,259,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,North Central Regional Planning Commission,0
+28041,MS,Greene County,13530,100.0,True,24,24,68076,35.25,396,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,South Alabama Regional Planning Commission,0
+40007,OK,Beaver County,5049,100.0,True,24,24,25140,95.47,44,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Panhandle Regional Planning Commission,0
+47033,TN,Crockett County,13911,100.0,True,24,24,69719,34.42,407,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,MidSouth Development District,0
+22127,LA,Winn Parish,13755,66.04,True,24,18,67336,35.64,382,True,0.3262,0.3262,0.3262,0.3262,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY24-0309,City of Winnfield,,"North Delta Regional Planning and Development District, Inc.",1
+13043,GA,Candler County,10981,100.0,True,23,23,55215,41.66,272,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+35033,NM,Mora County,4189,100.0,True,23,23,20745,110.87,34,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,Eastern Plains Council of Governments; North Central New Mexico Economic Development District,1
+30089,MT,Sanders County,12400,100.0,True,23,23,66427,34.62,404,True,0.1593,0.1593,0.1593,0.1593,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY22-0305,Confederated Salish and Kootenai Tribes,,,2
+48343,TX,Morris County,11973,100.0,True,23,23,60379,38.09,327,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,East Texas Council of Governments; Texarkana Metropolitian Planning Organization,0
+28005,MS,Amite County,12720,100.0,True,23,23,62825,36.61,364,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,New Orleans Regional Planning Commission,0
+28021,MS,Claiborne County,9135,100.0,True,23,22,42910,53.6,140,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"Central Mississippi Planning and Development District, Inc.; North Delta Regional Planning and Development District, Inc.",0
+48425,TX,Somervell County,9205,100.0,True,23,23,48453,47.47,198,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,,1
+48077,TX,Clay County,10218,100.0,True,23,23,52473,43.83,239,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Wichita Falls MPO and City of Wichita Falls,0
+28103,MS,Noxubee County,10285,100.0,True,22,20,50124,43.89,237,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,West Alabama Regional Commission,0
+30009,MT,Carbon County,10473,100.0,True,22,22,55579,39.58,303,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+40069,OK,Johnston County,10272,100.0,True,22,22,51392,42.81,250,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+32017,NV,Lincoln County,4499,100.0,True,22,22,22024,99.89,41,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bullhead City MPO; Five County Association of Governments; Regional Transportation Commission of Southern Nevada,0
+13289,GA,Twiggs County,8022,100.0,True,22,22,39013,56.39,121,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+49025,UT,Kane County,7667,100.0,True,22,22,40848,53.86,137,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bullhead City MPO; Five County Association of Governments; MetroPlan (Flagstaff Metropolitan Planning Organization),0
+01037,AL,Coosa County,10387,100.0,True,21,21,51502,40.78,285,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Regional Planning Commission of Greater Birmingham,0
+51081,VA,Greensville County,11391,87.78,True,21,19,56376,37.25,345,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,,1
+28157,MS,Wilkinson County,8587,100.0,True,21,18,40810,51.46,158,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05127,AR,Scott County,9836,100.0,True,21,21,49078,42.79,252,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08063,CO,Kit Carson County,7087,100.0,True,21,21,35113,59.81,99,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13023,GA,Bleckley County,12583,51.05,True,21,20,62150,33.79,425,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48103,TX,Crane County,4675,100.0,True,21,21,23049,91.11,48,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Concho Valley Council of Governments; Permian Basin Regional Planning Commission,0
+40103,OK,Noble County,10924,59.31,True,21,20,54483,38.54,318,True,0.1123,0.1123,0.1123,0.1123,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY25-0349,Otoe Missouria Tribe of Oklahoma,,Association of Central Oklahoma Governments,1
+22013,LA,Bienville Parish,12981,100.0,True,21,21,63184,33.24,443,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"North Delta Regional Planning and Development District, Inc.; Northwest Louisiana Council of Governments, Inc.",0
+35007,NM,Colfax County,12387,54.56,True,21,20,61609,34.09,417,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,Eastern Plains Council of Governments; North Central New Mexico Economic Development District,1
+32009,NV,Esmeralda County,729,100.0,True,20,20,3663,546.0,2,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+40127,OK,Pushmataha County,10812,100.0,True,20,20,53949,37.07,350,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13109,GA,Evans County,10774,100.0,True,20,20,53783,37.19,346,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"Liberty Consolidated Planning Commission, on behalf of the Hinesville Area Metropolitan Planning Organization",0
+13301,GA,Warren County,5215,100.0,True,20,20,25851,77.37,56,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+37073,NC,Gates County,10478,100.0,True,20,19,51880,38.55,317,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+20013,KS,Brown County,9508,100.0,True,20,20,46715,42.81,250,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Mo-Kan Regional Council; St. Joseph Area Transportation Study Organization,0
+05095,AR,Monroe County,6799,100.0,True,20,20,32944,60.71,95,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+29017,MO,Bollinger County,10567,100.0,True,20,20,52793,37.88,334,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bootheel Regional Planning Commission; Ozark Foothills Regional Planning Commission,0
+49015,UT,Emery County,9825,100.0,True,20,20,50229,39.82,298,True,0.0948,0.0948,0.0948,0.0948,0.0,partly covered,partly covered,partly covered,False,,True,2,SS4A-FY22-0457;SS4A-FY25-0462,City of Green River,,,2
+41037,OR,Lake County,8160,100.0,True,19,19,41334,45.97,211,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bend Metropolitan Planning Organization; Regional Transportation Commission Washoe County,0
+51036,VA,Charles City County,6773,100.0,True,19,19,33136,57.34,114,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,,1
+48301,TX,Loving County,64,100.0,True,19,18,264,7196.97,1,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05097,AR,Montgomery County,8484,100.0,True,19,19,42766,44.43,229,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+26135,MI,Oscoda County,8219,100.0,True,19,19,42125,45.1,221,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08017,CO,Cheyenne County,1748,100.0,True,19,19,8649,219.68,12,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48237,TX,Jack County,8472,100.0,True,19,19,44409,42.78,254,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Wichita Falls MPO and City of Wichita Falls,0
+48009,TX,Archer County,8560,87.36,True,19,19,44337,42.85,248,True,0.1831,0.1831,0.1831,0.1831,0.1831,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY25-0460,Wichita Falls MPO and City of Wichita Falls,Wichita Falls MPO and City of Wichita Falls,West Central Texas COG; Wichita Falls MPO and City of Wichita Falls,1
+46067,SD,Hutchinson County,7427,100.0,True,19,19,37018,51.33,160,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05017,AR,Chicot County,10208,100.0,True,18,18,48825,36.87,359,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"North Delta Regional Planning and Development District, Inc.",0
+05101,AR,Newton County,7225,100.0,True,18,18,35561,50.62,163,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05129,AR,Searcy County,7828,100.0,True,18,18,39297,45.81,213,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05117,AR,Prairie County,8282,100.0,True,18,18,40318,44.65,225,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Metroplan (a Council of Local Governments in Arkansas),0
+38061,ND,Mountrail County,9809,100.0,True,18,18,47537,37.87,335,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,,2
+13309,GA,Wheeler County,7471,100.0,True,18,18,36673,49.08,177,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+31121,NE,Merrick County,7668,100.0,True,18,18,38618,46.61,204,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+56031,WY,Platte County,8605,100.0,True,18,18,43059,41.8,269,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,Cheyenne Metropolitan Planning Organization,1
+08121,CO,Washington County,4817,100.0,True,18,18,24153,74.52,65,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13165,GA,Jenkins County,8674,100.0,True,18,18,43557,41.33,276,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+06049,CA,Modoc County,8700,100.0,True,18,18,42999,41.86,266,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,Regional Transportation Commission Washoe County,1
+51097,VA,King and Queen County,6608,100.0,True,18,18,33475,53.77,138,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,George Washington Regional Commission,0
+51119,VA,Middlesex County,10625,100.0,True,18,18,54234,33.19,445,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+40093,OK,Major County,7782,100.0,True,17,17,38139,44.57,227,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+30095,MT,Stillwater County,8963,100.0,True,17,17,45909,37.03,352,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13273,GA,Terrell County,9185,100.0,True,17,17,44251,38.42,320,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,River Valley Regional Commission,0
+28009,MS,Benton County,7646,100.0,True,17,16,37945,44.8,224,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,MidSouth Development District,0
+28063,MS,Jefferson County,7260,100.0,True,17,17,35342,48.1,190,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"North Delta Regional Planning and Development District, Inc.",0
+28053,MS,Humphreys County,7785,100.0,True,17,17,36973,45.98,210,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48385,TX,Real County,2758,100.0,True,17,17,14012,121.32,27,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05025,AR,Cleveland County,7550,100.0,True,17,17,37267,45.62,216,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Metroplan (a Council of Local Governments in Arkansas),0
+54017,WV,Doddridge County,7808,100.0,True,17,17,38554,44.09,232,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Belomar Regional Council,0
+13141,GA,Hancock County,8735,100.0,True,17,17,43251,39.31,306,True,0.1154,0.1154,0.1154,0.1154,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY25-0159,City of Sparta,,,1
+01131,AL,Wilcox County,10600,100.0,True,17,17,50858,33.43,436,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08109,CO,Saguache County,6368,100.0,True,17,17,32901,51.67,156,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Upper Arkansas Area Council of Governments,0
+46047,SD,Fall River County,6973,100.0,True,16,16,36291,44.09,232,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+46033,SD,Custer County,8318,100.0,True,16,16,44461,35.99,375,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+32027,NV,Pershing County,6650,100.0,True,16,16,32435,49.33,175,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Regional Transportation Commission Washoe County,0
+28119,MS,Quitman County,6176,100.0,True,16,14,28867,55.43,129,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48377,TX,Presidio County,6131,100.0,True,15,15,29652,50.59,164,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05099,AR,Nevada County,8310,100.0,True,15,15,40795,36.77,360,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+28019,MS,Choctaw County,8246,100.0,True,15,13,40590,36.95,355,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+17003,IL,Alexander County,5240,96.95,True,15,15,24376,61.54,92,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bootheel Regional Planning Commission; Purchase Area Development District,0
+32033,NV,White Pine County,9080,50.94,True,15,15,43676,34.34,409,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48461,TX,Upton County,3308,100.0,True,15,15,15957,94.0,45,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Concho Valley Council of Governments; Permian Basin Regional Planning Commission,0
+32021,NV,Mineral County,4554,100.0,True,15,15,22711,66.05,81,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13315,GA,Wilcox County,8766,100.0,True,15,15,43989,34.1,416,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,River Valley Regional Commission,0
+13265,GA,Taliaferro County,1559,100.0,True,15,15,7946,188.77,17,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+16063,ID,Lincoln County,5127,100.0,True,15,15,26790,55.99,124,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+05013,AR,Calhoun County,4739,100.0,True,14,14,23522,59.52,103,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+40025,OK,Cimarron County,2296,100.0,True,14,14,11088,126.26,24,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Eastern Plains Council of Governments; Panhandle Regional Planning Commission,0
+48173,TX,Glasscock County,1116,100.0,True,14,14,5704,245.44,9,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Concho Valley Council of Governments; Permian Basin Regional Planning Commission,0
+08079,CO,Mineral County,865,100.0,True,14,14,4584,305.41,5,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+41023,OR,Grant County,7233,100.0,True,14,13,36047,38.84,310,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+17169,IL,Schuyler County,6902,100.0,True,14,14,33935,41.26,277,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Northeast Missouri Regional Planning Commission,0
+20073,KS,Greenwood County,6016,100.0,True,14,14,29593,47.31,200,True,0.4081,0.4081,0.4081,0.4081,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY23-0236,"City of Eureka, KS",,Southeast Kansas Regional Planning Commission,1
+13181,GA,Lincoln County,7690,100.0,True,14,14,39271,35.65,381,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+30073,MT,Pondera County,5898,100.0,True,13,13,30173,43.08,247,True,0.1419,0.1419,0.1419,0.1419,0.0,partly covered,partly covered,partly covered,False,,True,2,SS4A-FY22-0301;SS4A-FY24-0402,Blackfeet Tribe of the Blackfeet Indian Reservation; Blackfeet Tribe of the Blackfeet Reservation,,,2
+05039,AR,Dallas County,6482,100.0,True,13,13,31208,41.66,272,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Metroplan (a Council of Local Governments in Arkansas),0
+08057,CO,Jackson County,1379,100.0,True,13,13,6639,195.81,16,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48175,TX,Goliad County,7012,100.0,True,13,13,35705,36.41,369,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Coastal Bend Council of Governments,0
+46071,SD,Jackson County,2806,100.0,True,13,13,14012,92.78,47,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+35023,NM,Hidalgo County,4178,100.0,True,13,13,20205,64.34,84,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+31105,NE,Kimball County,3434,100.0,True,13,13,16781,77.47,55,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Cheyenne Metropolitan Planning Organization,0
+32015,NV,Lander County,5734,100.0,True,13,13,28851,45.06,222,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+49001,UT,Beaver County,7072,100.0,True,13,13,36367,35.75,379,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+30039,MT,Granite County,3309,100.0,True,13,13,17309,75.11,64,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+31021,NE,Burt County,6722,100.0,True,12,12,33687,35.62,385,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Omaha-Council Bluffs Metropolitan Area Planning Agency,0
+31003,NE,Antelope County,6295,100.0,True,12,12,31523,38.07,329,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+40043,OK,Dewey County,4484,100.0,True,12,12,21799,55.05,131,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+31173,NE,Thurston County,6773,100.0,True,12,12,33134,36.22,373,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Siouxland Interstate Metropolitan Planning Council,0
+30015,MT,Chouteau County,5895,100.0,True,12,12,29530,40.64,287,True,0.2309,0.2309,0.0,0.2309,0.0,partly covered,partly covered,not covered,False,,True,1,SS4A-FY24-0407,"Montana State University, Western Transportation Institute",,,1
+20063,KS,Gove County,2718,100.0,True,12,12,13598,88.25,50,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+20197,KS,Wabaunsee County,6877,100.0,True,12,12,35047,34.24,412,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Flint Hills Regional Council,0
+38049,ND,McHenry County,5345,100.0,True,11,11,26035,42.25,262,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+31123,NE,Morrill County,4555,100.0,True,11,11,22672,48.52,182,True,0.3293,0.3293,0.3293,0.3293,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY24-0426,City of Bridgeport,,,1
+20097,KS,Kiowa County,2460,100.0,True,11,11,12110,90.83,49,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+20185,KS,Stafford County,4072,100.0,True,11,11,19892,55.3,130,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+32029,NV,Storey County,4104,89.13,True,11,11,20698,53.15,144,True,0.2795,0.2795,0.2795,0.2795,0.2795,partly covered,partly covered,partly covered,False,,True,2,SS4A-FY24-0447;SS4A-FY24-0448,Regional Transportation Commission Washoe County; Washoe County,Regional Transportation Commission Washoe County,Regional Transportation Commission Washoe County,3
+32011,NV,Eureka County,1855,100.0,True,11,11,9399,117.03,30,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08091,CO,Ouray County,4874,100.0,True,11,11,25436,43.25,244,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+46087,SD,McCook County,5682,100.0,True,11,11,28754,38.26,323,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,South Eastern Council of Governments,0
+30065,MT,Musselshell County,4730,100.0,True,11,11,25676,42.84,249,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08009,CO,Baca County,3506,100.0,True,11,11,17138,64.18,85,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Eastern Plains Council of Governments,0
+46123,SD,Tripp County,5624,100.0,True,10,10,28056,35.64,382,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+17175,IL,Stark County,5400,100.0,True,10,10,26542,37.68,338,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bi-State Regional Commission; Tri-County Regional Planning Commission,0
+13201,GA,Miller County,6000,100.0,True,10,10,29248,34.19,413,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+51017,VA,Bath County,4209,100.0,True,9,9,20500,43.9,236,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+28055,MS,Issaquena County,1338,100.0,True,9,9,6502,138.42,20,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,"North Delta Regional Planning and Development District, Inc.",0
+55037,WI,Florence County,4558,100.0,True,9,9,23229,38.74,311,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+46085,SD,Lyman County,3718,100.0,True,9,9,18619,48.34,186,True,0.4341,0.4341,0.4341,0.4341,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY25-0384,Lower Brule Sioux Tribe and Crow Creek Sioux Tribe,,,1
+30097,MT,Sweet Grass County,3678,100.0,True,9,9,18602,48.38,184,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+46075,SD,Jones County,917,100.0,True,9,9,4405,204.31,14,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+46031,SD,Corson County,3902,100.0,True,9,9,19030,47.29,201,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+40067,OK,Jefferson County,5337,100.0,True,9,9,26901,33.46,434,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+20077,KS,Harper County,5485,100.0,True,9,9,26998,33.34,438,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+16023,ID,Butte County,2574,100.0,True,9,9,13422,67.05,77,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+37177,NC,Tyrrell County,3245,100.0,True,9,8,17113,52.59,149,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48443,TX,Terrell County,760,100.0,True,8,8,3584,223.21,11,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Concho Valley Council of Governments,0
+13007,GA,Baker County,2876,100.0,True,8,8,13952,57.34,114,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08023,CO,Costilla County,3499,100.0,True,8,8,18034,44.36,231,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,North Central New Mexico Economic Development District,0
+31049,NE,Deuel County,1838,100.0,True,8,8,9353,85.53,51,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+17151,IL,Pope County,3763,100.0,True,8,8,18696,42.79,252,True,0.2618,0.2618,0.2618,0.2618,0.2618,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY22-0219,Pennyrile Area Development District,Pennyrile Area Development District,Pennyrile Area Development District,1
+51091,VA,Highland County,2232,100.0,True,8,8,11482,69.67,72,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+49033,UT,Rich County,2510,100.0,True,8,8,13154,60.82,94,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Cache Metropolitan Planning Organization; Wasatch Front Regional Council,0
+30045,MT,Judith Basin County,2023,100.0,True,8,8,10356,77.25,59,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+35003,NM,Catron County,3579,100.0,True,8,8,18716,42.74,255,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08115,CO,Sedgwick County,2404,100.0,True,8,8,11573,69.13,73,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+46003,SD,Aurora County,2747,100.0,True,8,8,13801,57.97,112,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+20199,KS,Wallace County,1512,100.0,True,8,8,7489,106.82,35,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+28125,MS,Sharkey County,3800,100.0,True,7,6,17498,40.0,293,True,0.1461,0.1461,0.1461,0.1461,0.0,partly covered,partly covered,partly covered,False,,True,1,SS4A-FY24-0400,Town of Anguilla,,,1
+48137,TX,Edwards County,1422,100.0,True,7,7,7047,99.33,42,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Concho Valley Council of Governments,0
+31073,NE,Gosper County,1893,100.0,True,7,7,9199,76.1,61,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48023,TX,Baylor County,3465,100.0,True,7,7,17426,40.17,291,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,West Central Texas COG; Wichita Falls MPO and City of Wichita Falls,0
+56027,WY,Niobrara County,2467,100.0,True,7,7,11840,59.12,107,True,0.0,0.0,0.0,1.0,0.0,not covered,not covered,not covered,True,,True,0,,,,,1
+20179,KS,Sheridan County,2447,100.0,True,7,7,12128,57.72,113,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+46007,SD,Bennett County,3381,100.0,True,7,7,16725,41.85,268,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+20165,KS,Rush County,2956,100.0,True,7,7,14471,48.37,185,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+40045,OK,Ellis County,3749,100.0,True,7,7,18417,38.01,331,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Panhandle Regional Planning Commission,0
+40129,OK,Roger Mills County,3442,100.0,True,7,7,16794,41.68,270,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Panhandle Regional Planning Commission,0
+46055,SD,Haakon County,1872,100.0,True,6,6,9224,65.05,82,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08033,CO,Dolores County,2326,100.0,True,6,6,12159,49.35,174,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+31165,NE,Sioux County,1135,100.0,True,6,6,5667,105.88,36,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+38043,ND,Kidder County,2394,100.0,True,6,6,11883,50.49,166,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+31087,NE,Hitchcock County,2616,100.0,True,6,6,12844,46.71,203,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+41021,OR,Gilliam County,1995,100.0,True,6,6,10044,59.74,100,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Southwest Washington Regional Transportation Council,0
+30059,MT,Meagher County,1927,100.0,True,5,5,10034,49.83,172,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+30037,MT,Golden Valley County,823,100.0,True,5,5,4205,118.91,28,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+21201,KY,Robertson County,2193,100.0,True,5,5,11413,43.81,240,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,Bluegrass Area Development District,0
+49055,UT,Wayne County,2486,100.0,True,5,5,12922,38.69,312,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+20023,KS,Cheyenne County,2616,100.0,True,5,5,13140,38.05,330,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+16033,ID,Clark County,790,100.0,True,5,5,3994,125.19,25,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+31133,NE,Pawnee County,2544,100.0,True,5,5,12651,39.52,304,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,North Central Regional Planning Commission,0
+31163,NE,Sherman County,2959,100.0,True,5,5,14836,33.7,426,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08053,CO,Hinsdale County,788,100.0,True,5,5,3840,130.21,22,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+08111,CO,San Juan County,705,100.0,True,5,5,3860,129.53,23,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+13125,GA,Glascock County,2884,100.0,True,5,5,14660,34.11,415,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
+48243,TX,Jeff Davis County,1996,100.0,True,5,5,9481,52.74,147,True,0.0,0.0,0.0,0.0,0.0,not covered,not covered,not covered,False,,True,0,,,,,0
