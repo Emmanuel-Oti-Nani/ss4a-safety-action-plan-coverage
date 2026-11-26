@@ -1,6 +1,6 @@
 # Safety Action Plan Coverage in Rural America: SS4A Awards Dataset, FY2022-FY2026: Data Note
 
-Emmanuel Oti Nani, Independent Researcher, Springfield, Missouri, USA
+Emmanuel Oti Nani, Independent Researcher, Springfield, Missouri, USA; Sedinam Annie Barney, Independent Researcher
 
 ## Purpose
 

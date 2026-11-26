@@ -1,16 +1,21 @@
 {
  "title": "Safety Action Plan Coverage in Rural America: SS4A Awards Dataset, FY2022-FY2026",
  "upload_type": "dataset",
- "version": "1.0.2",
+ "version": "1.1.0",
  "license": "cc-by-4.0",
  "creators": [
   {
    "name": "Nani, Emmanuel Oti",
    "orcid": "0009-0009-4175-8962",
    "affiliation": "Independent Researcher, Springfield, Missouri, USA"
+  },
+  {
+   "name": "Barney, Sedinam Annie",
+   "affiliation": "Independent Researcher",
+   "orcid": "0009-0001-1017-6451"
   }
  ],
- "description": "<p>An open, geocoded table of every Safe Streets and Roads for All (SS4A) award from fiscal year 2022 through fiscal year 2026, compiled from U.S. Department of Transportation award map layers and checked against DOT's published totals. Each award is coded by recipient type (city, county, tribe, regional council, metropolitan planning organization, other) and grant type (action plan, supplemental planning, demonstration, implementation), and matched to the counties and Census places its area covers. A county coverage gap table compares funded action plan coverage with county traffic deaths from the U.S. Rural Road Fatality County Panel (doi:10.5281/zenodo.23547649), with tables by regional body and state.</p>",
+ "description": "<p>An open, geocoded table of every Safe Streets and Roads for All (SS4A) award from fiscal year 2022 through fiscal year 2026, compiled from U.S. Department of Transportation award map layers and checked against DOT's published totals. Each award is coded by recipient type (city, county, tribe, regional council, metropolitan planning organization, other) and grant type (action plan, supplemental planning, demonstration, implementation), and matched to the counties and Census places its area covers. A county coverage gap table compares funded action plan coverage with county traffic deaths from the U.S. Rural Road Fatality County Panel (doi:10.5281/zenodo.23547649), with tables by regional body and state. Version 1.1.0 adds DOT's lists of eligible but unfunded applications (FY2022-FY2024) placed in counties, county vehicle-miles traveled from HPMS 2024 with deaths per 100 million vehicle-miles, and a second author.</p>",
  "keywords": [
   "Safe Streets and Roads for All",
   "SS4A",
@@ -33,5 +38,5 @@
    "scheme": "url"
   }
  ],
- "publication_date": "2026-11-15"
+ "publication_date": "2026-11-26"
 }

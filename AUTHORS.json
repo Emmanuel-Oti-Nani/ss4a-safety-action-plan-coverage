@@ -13,11 +13,29 @@
         "Conceptualization",
         "Methodology",
         "Data curation",
+        "Formal analysis",
+        "Investigation",
         "Validation",
         "Writing - original draft",
         "Writing - review and editing"
       ],
       "corresponding": true
+    },
+    {
+      "name": "Sedinam Annie Barney",
+      "family": "Barney",
+      "given": "Sedinam Annie",
+      "orcid": "0009-0001-1017-6451",
+      "email": "",
+      "github": "",
+      "affiliation": "Independent Researcher",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Literature review",
+        "Writing - review and editing"
+      ],
+      "corresponding": false
     }
   ],
   "collaborators": []

@@ -66,3 +66,12 @@ The paper was expanded into a full research article with six further analyses (`
 1. **Author's text.** The article text was rewritten by the author. It was then rebuilt from the same template, so that the numbers linked to the data are still filled from `report/stats.json` and `report/analysis.json`, and the build's claim checks still pass.
 2. **Independent recomputation.** `tools/audit_paper_numbers.py` recomputes 46 headline figures straight from the released CSV files, without using the statistics files the paper is built from. All 46 match the compiled article. Among them are the award and dollar totals, coverage by county group, the chi-square tests, the gap county counts and deaths, the states with the most gap counties, and dollars per death. The few numbers that are typed in the text, rather than filled from the data, were checked by hand against `report/analysis.json`: the Moran permutation p-values, the share of gap-county deaths on state-owned roads, and the urban–rural gap in the first and last rounds.
 3. **DOT's rural share.** DOT's own rural or urban label gives a rural share of 49 to 52 percent of awards in each round. This supports the article's statement that about half of each round's awards went to communities DOT classes as rural.
+
+## Version 1.1.0 additions (November 19 to 26, 2026)
+
+1. **Unfunded applications.** DOT's three "Other Applicants" lists (FY22, FY23, FY24) were read in a web browser, and the 630 rows were transferred with a matching fingerprint (FNV-1a F4228914781). 538 applicants were placed automatically by name and 92 were handled by hand, with a reason and certainty for each: 90 placed, 2 could not be placed. Hand placements are listed in `data/raw/applicant_county_overrides.csv` with their reasons.
+2. **Funding-rate comparison.** Funded implementation awards for FY2022–FY2024 reconcile to the award table (155, of which 3 went to regional bodies).
+3. **Travel data.** HPMS 2024 county vehicle-miles cover 3,141 of 3,143 counties and total about 2.9 trillion vehicle-miles a year. That is roughly 90% of national travel, because most local roads have no traffic counts.
+4. **Independent recomputation.** `tools/audit_paper_numbers.py` recomputes 53 figures from the released CSV files, including 7 figures from the new analyses. All match the draft article.
+5. **Defect found in v1.0.2.** The published article's abstract ends with the keywords line twice. The line came over from the Word file when the author's text was ported. It is fixed in version 1.1.0.
+

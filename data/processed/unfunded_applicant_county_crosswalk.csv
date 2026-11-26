@@ -1,0 +1,699 @@
+app_id,round,applicant,state,grant,pd_activity,dot_rural_urban,applicant_type,fiscal_year,seeks_action_plan,county_fips,pop_share,match_method
+OA-0001,FY22,"City & Borough of Yakutat, Alaska",AK,IG,,Rural,County,2022,False,02282,1.0,manual (sure)
+OA-0002,FY22,City of Huntsville,AL,IG,,Urban,City,2022,False,01089,0.9845,place name
+OA-0003,FY22,"City of Troy, Alabama",AL,IG,,Rural,City,2022,False,01109,1.0,place name
+OA-0004,FY22,City of Dardanelle,AR,IG,,Rural,City,2022,False,05149,1.0,place name
+OA-0005,FY22,"City of Jonesboro, AR",AR,IG,,Rural,City,2022,False,05031,1.0,place name
+OA-0006,FY22,City of Tempe,AZ,IG,,Urban,City,2022,False,04013,1.0,place name
+OA-0007,FY22,Town of Gilbert,AZ,IG,,Urban,City,2022,False,04013,1.0,place name
+OA-0008,FY22,Cahuilla Band of Indians,CA,IG,,Rural,Tribe,2022,False,06065,1.0,manual (sure)
+OA-0009,FY22,City of Azusa,CA,IG,,Urban,City,2022,False,06037,1.0,place name
+OA-0010,FY22,City of Berkeley,CA,IG,,Urban,City,2022,False,06001,1.0,place name
+OA-0011,FY22,City of Concord,CA,IG,,Urban,City,2022,False,06013,1.0,place name
+OA-0012,FY22,City of Corona,CA,IG,,Urban,City,2022,False,06065,1.0,place name
+OA-0013,FY22,City of Culver City,CA,IG,,Urban,City,2022,False,06037,1.0,place name
+OA-0014,FY22,City of Daly City,CA,IG,,Urban,City,2022,False,06081,1.0,place name
+OA-0015,FY22,City of Dublin,CA,IG,,Urban,City,2022,False,06001,1.0,place name
+OA-0016,FY22,City of El Monte,CA,IG,,Urban,City,2022,False,06037,1.0,place name
+OA-0017,FY22,City of Encinitas,CA,IG,,Urban,City,2022,False,06073,1.0,place name
+OA-0018,FY22,City of Escondido,CA,IG,,Urban,City,2022,False,06073,1.0,place name
+OA-0019,FY22,City of Fontana,CA,IG,,Urban,City,2022,False,06071,1.0,place name
+OA-0020,FY22,City of Glendale,CA,IG,,Urban,City,2022,False,06037,1.0,place name
+OA-0021,FY22,City of Indio,CA,IG,,Urban,City,2022,False,06065,1.0,place name
+OA-0022,FY22,City of King City,CA,IG,,Rural,City,2022,False,06053,1.0,place name
+OA-0023,FY22,City of Lancaster,CA,IG,,Urban,City,2022,False,06037,1.0,place name
+OA-0024,FY22,City of Livermore,CA,IG,,Rural,City,2022,False,06001,1.0,place name
+OA-0025,FY22,City of Long Beach,CA,IG,,Urban,City,2022,False,06037,1.0,place name
+OA-0026,FY22,City of Manhattan Beach,CA,IG,,Urban,City,2022,False,06037,1.0,place name
+OA-0027,FY22,City of Menifee,CA,IG,,Urban,City,2022,False,06065,1.0,place name
+OA-0028,FY22,City of Oakland,CA,IG,,Urban,City,2022,False,06001,1.0,place name
+OA-0029,FY22,City of Orland,CA,IG,,Rural,City,2022,False,06021,1.0,place name
+OA-0030,FY22,City of Perris,CA,IG,,Urban,City,2022,False,06065,1.0,place name
+OA-0031,FY22,City of Pomona,CA,IG,,Urban,City,2022,False,06037,1.0,place name
+OA-0032,FY22,City of Riverside,CA,IG,,Urban,City,2022,False,06065,1.0,place name
+OA-0033,FY22,City of Sacramento,CA,IG,,Urban,City,2022,False,06067,1.0,place name
+OA-0034,FY22,City of Salinas,CA,IG,,Rural,City,2022,False,06053,1.0,place name
+OA-0035,FY22,City of San Buenaventura,CA,IG,,Urban,City,2022,False,06111,1.0,manual (sure)
+OA-0036,FY22,City of San Jose,CA,IG,,Urban,City,2022,False,06085,1.0,place name
+OA-0037,FY22,City of San Luis Obispo,CA,IG,,Rural,City,2022,False,06079,1.0,place name
+OA-0038,FY22,City of San Rafael,CA,IG,,Urban,City,2022,False,06041,1.0,place name
+OA-0039,FY22,City of Santa Rosa,CA,IG,,Urban,City,2022,False,06097,1.0,place name
+OA-0040,FY22,City of Shasta Lake,CA,IG,,Rural,City,2022,False,06089,1.0,place name
+OA-0041,FY22,City of Simi Valley,CA,IG,,Rural,City,2022,False,06111,1.0,place name
+OA-0042,FY22,County of Contra Costa,CA,IG,,Urban,County,2022,False,06013,1.0,county name
+OA-0043,FY22,County of Lake,CA,IG,,Rural,County,2022,False,06033,1.0,county name
+OA-0044,FY22,County of San Diego,CA,IG,,Urban,County,2022,False,06073,1.0,county name
+OA-0045,FY22,County of Tulare,CA,IG,,Urban,County,2022,False,06107,1.0,county name
+OA-0046,FY22,Fresno Council of Governments,CA,IG,,Urban,Regional,2022,False,06019,1.0,manual (regional)
+OA-0047,FY22,San Bernardino County,CA,IG,,Urban,County,2022,False,06071,1.0,county name
+OA-0048,FY22,Solano Transportation Authority,CA,IG,,Rural,Other,2022,False,06095,1.0,manual (regional)
+OA-0049,FY22,Town of Truckee,CA,IG,,Rural,City,2022,False,06057,1.0,place name
+OA-0050,FY22,City of Fort Collins,CO,IG,,Urban,City,2022,False,08069,1.0,place name
+OA-0051,FY22,City of Louisville,CO,IG,,Rural,City,2022,False,08013,1.0,place name
+OA-0052,FY22,Connecticut Metropolitan Council of Governments,CT,IG,,Urban,Regional,2022,False,09001,1.0,manual (regional)
+OA-0053,FY22,Naugatuck Valley Council of Governments,CT,IG,,Rural,Regional,2022,False,09009,1.0,manual (regional)
+OA-0053,FY22,Naugatuck Valley Council of Governments,CT,IG,,Rural,Regional,2022,False,09005,1.0,manual (regional)
+OA-0054,FY22,Southeastern Connecticut Council of Governments,CT,IG,,Urban,Regional,2022,False,09011,1.0,manual (regional)
+OA-0055,FY22,Town of East Haven,CT,IG,,Urban,City,2022,False,09009,1.0,place name
+OA-0056,FY22,Town of Farmington,CT,IG,,Urban,Other,2022,False,09003,1.0,county subdivision name
+OA-0057,FY22,Town of Litchfield,CT,IG,,Rural,City,2022,False,09005,1.0,place name
+OA-0058,FY22,Western Connecticut Council of Governments,CT,IG,,Rural,Regional,2022,False,09001,1.0,manual (regional)
+OA-0059,FY22,City of Clearwater,FL,IG,,Urban,City,2022,False,12103,1.0,place name
+OA-0060,FY22,City of Orlando,FL,IG,,Urban,City,2022,False,12095,1.0,place name
+OA-0061,FY22,City of Port St. Lucie,FL,IG,,Urban,City,2022,False,12111,1.0,place name
+OA-0062,FY22,City of St Petersburg,FL,IG,,Urban,City,2022,False,12103,1.0,place name
+OA-0063,FY22,Miami-Dade County,FL,IG,,Urban,County,2022,False,12086,1.0,county name
+OA-0064,FY22,City of Milton,GA,IG,,Urban,City,2022,False,13121,1.0,place name
+OA-0065,FY22,City of Savannah,GA,IG,,Urban,City,2022,False,13051,1.0,place name
+OA-0066,FY22,Macon-Bibb County,GA,IG,,Rural,County,2022,False,13021,1.0,manual (sure)
+OA-0067,FY22,City and County of Honolulu,HI,IG,,Urban,County,2022,False,15003,1.0,manual (sure)
+OA-0068,FY22,County of Maui,HI,IG,,Rural,County,2022,False,15009,1.0,county name
+OA-0069,FY22,"City of Clinton, Iowa",IA,IG,,Rural,City,2022,False,19045,1.0,place name
+OA-0070,FY22,City of Davenport,IA,IG,,Urban,City,2022,False,19163,1.0,place name
+OA-0071,FY22,Champaign County Regional Planning Commission,IL,IG,,Rural,County,2022,False,17019,1.0,manual (regional)
+OA-0072,FY22,City of Chicago,IL,IG,,Urban,City,2022,False,17031,1.0,place name
+OA-0073,FY22,City of Evanston,IL,IG,,Urban,City,2022,False,17031,1.0,place name
+OA-0074,FY22,"City of Quincy, Illinois",IL,IG,,Rural,City,2022,False,17001,1.0,place name
+OA-0075,FY22,Village of Niles,IL,IG,,Urban,City,2022,False,17031,1.0,place name
+OA-0076,FY22,Area Plan Commission of Tippecanoe County,IN,IG,,Rural,County,2022,False,18157,1.0,manual (regional)
+OA-0077,FY22,City of Carmel,IN,IG,,Urban,City,2022,False,18057,1.0,place name
+OA-0078,FY22,City of Fishers,IN,IG,,Urban,City,2022,False,18057,1.0,place name
+OA-0079,FY22,"City Of New Albany, Indiana",IN,IG,,Urban,City,2022,False,18043,0.978,place name
+OA-0080,FY22,City of Westfield,IN,IG,,Urban,City,2022,False,18057,1.0,place name
+OA-0081,FY22,County of Boone,IN,IG,,Rural,County,2022,False,18011,1.0,county name
+OA-0082,FY22,County of Hancock,IN,IG,,Urban,County,2022,False,18059,1.0,county name
+OA-0083,FY22,"Hamilton County, Indiana",IN,IG,,Urban,County,2022,False,18057,1.0,county name
+OA-0084,FY22,Indianapolis Public Transportation Corporation (IndyGo),IN,IG,,Urban,Other,2022,False,18097,1.0,manual (sure)
+OA-0085,FY22,City of Manhattan,KS,IG,,Rural,City,2022,False,20161,1.0,place name
+OA-0086,FY22,Boone County Fiscal Court,KY,IG,,Urban,County,2022,False,21015,1.0,county name
+OA-0087,FY22,City of Paducah,KY,IG,,Rural,City,2022,False,21145,1.0,place name
+OA-0088,FY22,Henderson County Fiscal Court,KY,IG,,Urban,County,2022,False,21101,1.0,county name
+OA-0089,FY22,Village of Natchez,LA,IG,,Rural,City,2022,False,22069,1.0,place name
+OA-0090,FY22,City of Everett,MA,IG,,Urban,City,2022,False,25017,1.0,place name
+OA-0091,FY22,"City of Quincy, MA",MA,IG,,Urban,City,2022,False,25021,1.0,place name
+OA-0092,FY22,Baltimore County,MD,IG,,Urban,County,2022,False,24005,1.0,county name
+OA-0093,FY22,City of Rockville,MD,IG,,Urban,City,2022,False,24031,1.0,place name
+OA-0094,FY22,Howard County of Maryland (Inc),MD,IG,,Urban,County,2022,False,24027,1.0,county name
+OA-0095,FY22,"Montgomery County, Maryland",MD,IG,,Urban,County,2022,False,24031,1.0,county name
+OA-0096,FY22,Bay Mills Indian Community,MI,IG,,Rural,Tribe,2022,False,26033,1.0,manual (sure)
+OA-0097,FY22,Beltrami County Hwy Dept,MN,IG,,Rural,County,2022,False,27007,1.0,county name
+OA-0098,FY22,Carver County,MN,IG,,Urban,County,2022,False,27019,1.0,county name
+OA-0099,FY22,"City of Burnsville, MN_x000D_",MN,IG,,Urban,City,2022,False,27037,1.0,place name
+OA-0100,FY22,City of Minneapolis,MN,IG,,Urban,City,2022,False,27053,1.0,place name
+OA-0101,FY22,"City of Independence, Missouri",MO,IG,,Urban,City,2022,False,29095,1.0,place name
+OA-0102,FY22,"Jefferson County, MO",MO,IG,,Rural,County,2022,False,29099,1.0,county name
+OA-0103,FY22,St. Charles County,MO,IG,,Urban,County,2022,False,29183,1.0,county name
+OA-0104,FY22,"Wright City, MO",MO,IG,,Rural,City,2022,False,29219,1.0,manual (sure)
+OA-0105,FY22,George County Board of Supervisors,MS,IG,,Rural,County,2022,False,28039,1.0,county name
+OA-0106,FY22,Town of Apex,NC,IG,,Urban,City,2022,False,37183,1.0,place name
+OA-0107,FY22,"South Sioux City, City of",NE,IG,,Rural,City,2022,False,31043,1.0,manual (sure)
+OA-0108,FY22,City of Jersey City,NJ,IG,,Urban,City,2022,False,34017,1.0,place name
+OA-0109,FY22,City of Newark,NJ,IG,,Urban,City,2022,False,34013,1.0,place name
+OA-0110,FY22,Lacey Township,NJ,IG,,Rural,City,2022,False,34029,1.0,county subdivision name
+OA-0111,FY22,Middlesex County,NJ,IG,,Urban,County,2022,False,34023,1.0,county name
+OA-0112,FY22,"STAFFORD, TOWNSHIP OF",NJ,IG,,Urban,City,2022,False,34029,1.0,county subdivision name
+OA-0113,FY22,Town of Hammonton,NJ,IG,,Rural,City,2022,False,34001,1.0,place name
+OA-0114,FY22,Albuquerque Public Schools,NM,IG,,Urban,SpecialDistrict,2022,False,35001,1.0,manual (sure)
+OA-0115,FY22,City of Farmington,NM,IG,,Rural,City,2022,False,35045,1.0,place name
+OA-0116,FY22,Carson City Regional Transportation Commission,NV,IG,,Rural,City,2022,False,32510,1.0,manual (sure)
+OA-0117,FY22,Regional Transportation Commission of Washoe County,NV,IG,,Urban,Regional,2022,False,32031,1.0,manual (regional)
+OA-0118,FY22,Chemung County,NY,IG,,Rural,County,2022,False,36015,1.0,county name
+OA-0119,FY22,Town of Mamaroneck,NY,IG,,Urban,City,2022,False,36119,1.0,place name
+OA-0120,FY22,City of Athens,OH,IG,,Rural,City,2022,False,39009,1.0,place name
+OA-0121,FY22,City of Cleveland,OH,IG,,Urban,City,2022,False,39035,1.0,place name
+OA-0122,FY22,City of Hilliard,OH,IG,,Urban,City,2022,False,39049,1.0,place name
+OA-0123,FY22,City of Portsmouth,OH,IG,,Rural,City,2022,False,39145,1.0,place name
+OA-0124,FY22,Franklin County Engineer's Office,OH,IG,,Urban,County,2022,False,39049,1.0,county name
+OA-0125,FY22,"Sycamore Township, Ohio",OH,IG,,Urban,City,2022,False,39175,1.0,place name
+OA-0126,FY22,The City of Upper Arlington,OH,IG,,Urban,City,2022,False,39049,1.0,place name
+OA-0127,FY22,City of Edmond,OK,IG,,Urban,City,2022,False,40109,1.0,place name
+OA-0128,FY22,"Lincoln County, Oklahoma",OK,IG,,Rural,County,2022,False,40081,1.0,county name
+OA-0129,FY22,"City of Bend, Oregon",OR,IG,,Rural,City,2022,False,41017,1.0,place name
+OA-0130,FY22,City of Forest Grove,OR,IG,,Urban,City,2022,False,41067,1.0,place name
+OA-0131,FY22,Clackamas County,OR,IG,,Urban,County,2022,False,41005,1.0,county name
+OA-0132,FY22,"County of Deschutes, Oregon",OR,IG,,Rural,County,2022,False,41017,1.0,county name
+OA-0133,FY22,City of Bethlehem,PA,IG,,Urban,City,2022,False,42077,0.2609,place name
+OA-0133,FY22,City of Bethlehem,PA,IG,,Urban,City,2022,False,42095,0.7391,place name
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42003,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42005,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42007,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42019,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42051,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42059,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42063,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42073,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42125,1.0,manual (regional)
+OA-0134,FY22,Southwestern Pennsylvania Commission,PA,IG,,Urban,Nonprofit,2022,False,42129,1.0,manual (regional)
+OA-0135,FY22,City Of Newport,RI,IG,,Urban,City,2022,False,44005,1.0,place name
+OA-0136,FY22,City of Pawtucket,RI,IG,,Urban,City,2022,False,44007,1.0,place name
+OA-0137,FY22,City of Goose Creek,SC,IG,,Urban,City,2022,False,45015,1.0,place name
+OA-0138,FY22,City of West Columbia,SC,IG,,Urban,City,2022,False,45063,1.0,place name
+OA-0139,FY22,Metropolitan Government of Nashville and Davidson County,TN,IG,,Urban,City,2022,False,47037,1.0,manual (sure)
+OA-0140,FY22,Cameron County,TX,IG,,Urban,County,2022,False,48061,1.0,county name
+OA-0141,FY22,City of Boerne,TX,IG,,Rural,City,2022,False,48259,1.0,place name
+OA-0142,FY22,"Harris County, Texas",TX,IG,,Urban,County,2022,False,48201,1.0,county name
+OA-0143,FY22,Los Fresnos,TX,IG,,Urban,City,2022,False,48061,1.0,manual (sure)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48085,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48113,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48121,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48139,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48143,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48221,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48231,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48251,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48257,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48349,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48363,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48367,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48397,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48425,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48439,1.0,manual (regional)
+OA-0144,FY22,North Central Texas Council of Governments,TX,IG,,Urban,SpecialDistrict,2022,False,48497,1.0,manual (regional)
+OA-0145,FY22,Primera,TX,IG,,Rural,City,2022,False,48061,1.0,place name
+OA-0146,FY22,San Benito,TX,IG,,Rural,City,2022,False,48061,1.0,place name
+OA-0147,FY22,Town of Trophy Club,TX,IG,,Urban,City,2022,False,48121,1.0,place name
+OA-0148,FY22,"City of Vernal, UT",UT,IG,,Rural,City,2022,False,49047,1.0,place name
+OA-0149,FY22,"Grand County, Utah",UT,IG,,Rural,County,2022,False,49019,1.0,county name
+OA-0150,FY22,Provo City,UT,IG,,Urban,City,2022,False,49049,1.0,place name
+OA-0151,FY22,Arlington County Division of Transportation,VA,IG,,Urban,County,2022,False,51013,1.0,county name
+OA-0152,FY22,City of Virginia Beach,VA,IG,,Urban,City,2022,False,51810,1.0,place name
+OA-0153,FY22,"County of Fairfax, Virginia",VA,IG,,Urban,County,2022,False,51059,1.0,county name
+OA-0154,FY22,County of James City,VA,IG,,Rural,County,2022,False,51095,1.0,county name
+OA-0155,FY22,City of Burlington,VT,IG,,Rural,City,2022,False,50007,1.0,place name
+OA-0156,FY22,City of Bellevue,WA,IG,,Urban,City,2022,False,53033,1.0,place name
+OA-0157,FY22,City of College Place,WA,IG,,Rural,City,2022,False,53071,1.0,place name
+OA-0158,FY22,City of SeaTac,WA,IG,,Urban,City,2022,False,53033,1.0,place name
+OA-0159,FY22,City of Walla Walla,WA,IG,,Rural,City,2022,False,53071,1.0,place name
+OA-0160,FY22,"Vancouver, WA",WA,IG,,Urban,City,2022,False,53011,1.0,place name
+OA-0161,FY22,City of West Bend,WI,IG,,Rural,City,2022,False,55131,1.0,place name
+OA-0162,FY22,Morgantown Monongalia Transportation Planning Organization,WV,IG,,Rural,Regional,2022,False,54061,1.0,manual (regional)
+OA-0163,FY22,City of Lander,WY,IG,,Rural,City,2022,False,56013,1.0,place name
+OA-0164,FY23,City of Huntsville,AL,IG,,Urban,City,2023,False,01089,0.9845,place name
+OA-0165,FY23,"City of Troy, Alabama",AL,IG,,Rural,City,2023,False,01109,1.0,place name
+OA-0166,FY23,City of Bentonville,AR,IG,,Urban,City,2023,False,05007,1.0,place name
+OA-0167,FY23,City of Rogers,AR,IG,,Urban,City,2023,False,05007,1.0,place name
+OA-0168,FY23,"City of Tempe, Arizona",AR,IG,,Urban,City,2023,False,04013,1.0,manual (sure)
+OA-0169,FY23,Alameda County Transportation Commission,CA,IG,,Urban,OtherSubdivision,2023,False,06001,1.0,county name
+OA-0170,FY23,City of Alameda,CA,IG,,Urban,City,2023,False,06001,1.0,place name
+OA-0171,FY23,City of Azusa,CA,IG,,Urban,City,2023,False,06037,1.0,place name
+OA-0172,FY23,City of Bakersfield,CA,IG,,Urban,City,2023,False,06029,1.0,place name
+OA-0173,FY23,City of Carlsbad,CA,IG,,Urban,City,2023,False,06073,1.0,place name
+OA-0174,FY23,City of Corona,CA,IG,,Urban,City,2023,False,06065,1.0,place name
+OA-0175,FY23,City of Costa Mesa,CA,IG,,Urban,City,2023,False,06059,1.0,place name
+OA-0176,FY23,City of Encinitas,CA,IG,,Urban,City,2023,False,06073,1.0,place name
+OA-0177,FY23,City of Escondido,CA,IG,,Urban,City,2023,False,06073,1.0,place name
+OA-0178,FY23,"City of Glendale, California",CA,IG,,Urban,City,2023,False,06037,1.0,place name
+OA-0179,FY23,City of Indio,CA,IG,,Urban,City,2023,False,06065,1.0,place name
+OA-0180,FY23,City of Inglewood,CA,IG,,Urban,City,2023,False,06037,1.0,place name
+OA-0181,FY23,City of La Verne,CA,IG,,Urban,City,2023,False,06037,1.0,place name
+OA-0182,FY23,City of Lake Elsinore,CA,IG,,Urban,City,2023,False,06065,1.0,place name
+OA-0183,FY23,City of Long Beach,CA,IG,,Urban,City,2023,False,06037,1.0,place name
+OA-0184,FY23,"City of Los Angeles, Department of Public Works",CA,IG,,Urban,City,2023,False,06037,1.0,place name
+OA-0185,FY23,City of Monrovia,CA,IG,,Urban,City,2023,False,06037,1.0,place name
+OA-0186,FY23,"City of Oakland, Department of Transportation",CA,IG,,Urban,City,2023,False,06001,1.0,place name
+OA-0187,FY23,City of Pacifica,CA,IG,,Urban,City,2023,False,06081,1.0,place name
+OA-0188,FY23,City of Palmdale,CA,IG,,Urban,City,2023,False,06037,1.0,place name
+OA-0189,FY23,City of Sacramento,CA,IG,,Urban,City,2023,False,06067,1.0,place name
+OA-0190,FY23,City of San Bruno,CA,IG,,Urban,City,2023,False,06081,1.0,place name
+OA-0191,FY23,City of Santa Maria,CA,IG,,Rural,City,2023,False,06083,1.0,place name
+OA-0192,FY23,City of Simi Valley,CA,IG,,Rural,City,2023,False,06111,1.0,place name
+OA-0193,FY23,City of South San Francisco,CA,IG,,Urban,City,2023,False,06081,1.0,place name
+OA-0194,FY23,Contra Costa County,CA,IG,,Urban,County,2023,False,06013,1.0,county name
+OA-0195,FY23,County of Lake,CA,IG,,Rural,County,2023,False,06033,1.0,county name
+OA-0196,FY23,County of San Mateo Department of Public Works,CA,IG,,Urban,County,2023,False,06081,1.0,manual (sure)
+OA-0197,FY23,Sacramento County Department of Transportation,CA,IG,,Urban,County,2023,False,06067,1.0,county name
+OA-0198,FY23,San Benito County,CA,IG,,Rural,County,2023,False,06069,1.0,county name
+OA-0199,FY23,Town of Paradise,CA,IG,,Rural,City,2023,False,06007,1.0,county subdivision name
+OA-0200,FY23,Tulare County Resource Management Agency,CA,IG,,Rural,County,2023,False,06107,1.0,county name
+OA-0201,FY23,Boulder County_1,CO,IG,,Rural,County,2023,False,08013,1.0,county name
+OA-0202,FY23,City and County of Denver,CO,IG,,Urban,City,2023,False,08031,1.0,manual (sure)
+OA-0203,FY23,City of Louisville,CO,IG,,Urban,City,2023,False,08013,1.0,place name
+OA-0204,FY23,Town of Silverton,CO,IG,,Rural,City,2023,False,08111,1.0,place name
+OA-0205,FY23,City of Norwalk Redevelopment Agency,CT,IG,,Urban,City,2023,False,09001,1.0,place name
+OA-0206,FY23,"Stamford CT, Strawberry Hill Avenue Safety Improvement Project",CT,IG,,Urban,City,2023,False,09001,1.0,place name
+OA-0207,FY23,Town of Southington,CT,IG,,Urban,City,2023,False,09003,1.0,county subdivision name
+OA-0208,FY23,Town of Stratford,CT,IG,,Urban,Multijurisdictional,2023,False,09001,1.0,county subdivision name
+OA-0209,FY23,"Town of Trumbull, CT",CT,IG,,Urban,City,2023,False,09001,1.0,county subdivision name
+OA-0210,FY23,City of Milford,DE,IG,,Rural,City,2023,False,10001,0.4231,place name
+OA-0210,FY23,City of Milford,DE,IG,,Rural,City,2023,False,10005,0.5769,place name
+OA-0211,FY23,City of Port St. Lucie,FL,IG,,Urban,City,2023,False,12111,1.0,place name
+OA-0212,FY23,City of Tallahassee,FL,IG,,Urban,City,2023,False,12073,1.0,place name
+OA-0213,FY23,County of Manatee Board of County Commissioners,FL,IG,,Urban,County,2023,False,12081,1.0,manual (sure)
+OA-0214,FY23,Leon County,FL,IG,,Urban,County,2023,False,12073,1.0,county name
+OA-0215,FY23,Buckhead Community Improvement District,GA,IG,,Urban,Multijurisdictional,2023,False,13121,1.0,manual (sure)
+OA-0216,FY23,City of Savannah,GA,IG,,Urban,City,2023,False,13051,1.0,place name
+OA-0217,FY23,Cobb County Board of Commissioners,GA,IG,,Urban,County,2023,False,13067,1.0,county name
+OA-0218,FY23,"City of Davenport, Iowa",IA,IG,,Urban,City,2023,False,19163,1.0,place name
+OA-0219,FY23,City of Des Moines,IA,IG,,Urban,City,2023,False,19153,1.0,place name
+OA-0220,FY23,City of Maquoketa,IA,IG,,Rural,City,2023,False,19097,1.0,place name
+OA-0221,FY23,Crawford County Iowa,IA,IG,,Rural,County,2023,False,19047,1.0,county name
+OA-0222,FY23,Linn County Secondary Road Department,IA,IG,,Rural,County,2023,False,19113,1.0,county name
+OA-0223,FY23,"Lucas County, Iowa",IA,IG,,Rural,County,2023,False,19117,1.0,county name
+OA-0224,FY23,Winneshiek County Iowa,IA,IG,,Rural,County,2023,False,19191,1.0,county name
+OA-0225,FY23,Valley County,ID,IG,,Rural,County,2023,False,16085,1.0,county name
+OA-0226,FY23,City of Danville,IL,IG,,Rural,City,2023,False,17183,1.0,place name
+OA-0227,FY23,County of Schuyler,IL,IG,,Rural,County,2023,False,17169,1.0,county name
+OA-0228,FY23,City of Noblesville,IN,IG,,Urban,City,2023,False,18057,1.0,place name
+OA-0229,FY23,Madison County,IN,IG,,Rural,County,2023,False,18095,1.0,county name
+OA-0230,FY23,Boone County (KY),KY,IG,,Urban,County,2023,False,21015,1.0,county name
+OA-0231,FY23,Town of Lexington,MA,IG,,Urban,City,2023,False,25017,1.0,place name
+OA-0232,FY23,Anne Arundel County,MD,IG,,Urban,County,2023,False,24003,1.0,county name
+OA-0233,FY23,Calvert County Department of Public Safety,MD,IG,,Rural,County,2023,False,24009,1.0,county name
+OA-0234,FY23,"Salisbury, Maryland",MD,IG,,Rural,City,2023,False,24045,1.0,place name
+OA-0235,FY23,City of Bay City,MI,IG,,Rural,City,2023,False,26017,1.0,place name
+OA-0236,FY23,Tri-County Regional Planning Commission (MPO),MI,IG,,Urban,MPO,2023,False,26037,1.0,manual (regional)
+OA-0236,FY23,Tri-County Regional Planning Commission (MPO),MI,IG,,Urban,MPO,2023,False,26045,1.0,manual (regional)
+OA-0236,FY23,Tri-County Regional Planning Commission (MPO),MI,IG,,Urban,MPO,2023,False,26065,1.0,manual (regional)
+OA-0237,FY23,Washtenaw County Road Commission,MI,IG,,Urban,County,2023,False,26161,1.0,county name
+OA-0238,FY23,Beltrami County,MN,IG,,Rural,County,2023,False,27007,1.0,county name
+OA-0239,FY23,Carver County,MN,IG,,Urban,County,2023,False,27019,1.0,county name
+OA-0240,FY23,City of Saint Paul,MN,IG,,Urban,City,2023,False,27123,1.0,place name
+OA-0241,FY23,"City of Kansas City, Missouri",MO,IG,,Urban,City,2023,False,29047,0.2658,place name
+OA-0241,FY23,"City of Kansas City, Missouri",MO,IG,,Urban,City,2023,False,29095,0.6254,place name
+OA-0241,FY23,"City of Kansas City, Missouri",MO,IG,,Urban,City,2023,False,29165,0.1081,place name
+OA-0242,FY23,"Independence, Missouri",MO,IG,,Urban,City,2023,False,29095,1.0,place name
+OA-0243,FY23,St. Charles County,MO,IG,,Urban,County,2023,False,29183,1.0,county name
+OA-0244,FY23,"Wright City, MO",MO,IG,,Rural,City,2023,False,29219,1.0,manual (sure)
+OA-0245,FY23,George County Board of Supervisors,MS,IG,,Rural,County,2023,False,28039,1.0,county name
+OA-0246,FY23,Middlesex County,NJ,IG,,Urban,County,2023,False,34023,1.0,county name
+OA-0247,FY23,Township of Stafford,NJ,IG,,Urban,City,2023,False,34029,1.0,county subdivision name
+OA-0248,FY23,Chemung County,NY,IG,,Rural,County,2023,False,36015,1.0,county name
+OA-0249,FY23,"City of Kingston, NY",NY,IG,,Rural,City,2023,False,36111,1.0,place name
+OA-0250,FY23,Town of Mamaroneck,NY,IG,,Urban,City,2023,False,36119,1.0,place name
+OA-0251,FY23,City of Canal Winchester,OH,IG,,Urban,City,2023,False,39045,0.2857,place name
+OA-0251,FY23,City of Canal Winchester,OH,IG,,Urban,City,2023,False,39049,0.7143,place name
+OA-0252,FY23,City of Green,OH,IG,,Urban,City,2023,False,39153,1.0,place name
+OA-0253,FY23,City of Reynoldsburg,OH,IG,,Urban,City,2023,False,39049,0.7394,place name
+OA-0253,FY23,City of Reynoldsburg,OH,IG,,Urban,City,2023,False,39089,0.2302,place name
+OA-0254,FY23,INCOG,OK,IG,,Urban,MPO,2023,False,40143,1.0,manual (regional)
+OA-0254,FY23,INCOG,OK,IG,,Urban,MPO,2023,False,40037,1.0,manual (regional)
+OA-0254,FY23,INCOG,OK,IG,,Urban,MPO,2023,False,40113,1.0,manual (regional)
+OA-0255,FY23,Tulsa County,OK,IG,,Urban,County,2023,False,40143,1.0,county name
+OA-0256,FY23,City of Forest Grove,OR,IG,,Urban,City,2023,False,41067,1.0,place name
+OA-0257,FY23,"City of Newberg, Oregon",OR,IG,,Rural,City,2023,False,41071,1.0,place name
+OA-0258,FY23,City of Rogue River,OR,IG,,Rural,City,2023,False,41029,1.0,place name
+OA-0259,FY23,Upper Macungie Township,PA,IG,,Urban,City,2023,False,42077,1.0,county subdivision name
+OA-0260,FY23,City of Newport,RI,IG,,Urban,City,2023,False,44005,1.0,place name
+OA-0261,FY23,"Pawtucket, RI",RI,IG,,Urban,City,2023,False,44007,1.0,place name
+OA-0262,FY23,"City of Greenville, South Carolina",SC,IG,,Urban,City,2023,False,45045,1.0,place name
+OA-0263,FY23,City of Chattanooga,TN,IG,,Urban,Multijurisdictional,2023,False,47065,1.0,place name
+OA-0264,FY23,Wilson County Highway Department,TN,IG,,Urban,OtherSubdivision,2023,False,47189,1.0,county name
+OA-0265,FY23,Cameron County,TX,IG,,Urban,County,2023,False,48061,1.0,county name
+OA-0266,FY23,City of San Antonio,TX,IG,,Urban,City,2023,False,48029,1.0,place name
+OA-0267,FY23,Harris County,TX,IG,,Urban,County,2023,False,48201,1.0,county name
+OA-0268,FY23,Provo City,UT,IG,,Urban,City,2023,False,49049,1.0,place name
+OA-0269,FY23,Vernal City,UT,IG,,Rural,City,2023,False,49047,1.0,place name
+OA-0270,FY23,"Arlington County, Virginia",VA,IG,,Urban,County,2023,False,51013,1.0,county name
+OA-0271,FY23,"City of Alexandria, Virginia",VA,IG,,Urban,City,2023,False,51510,1.0,place name
+OA-0272,FY23,Virginia Commonwealth University,VA,IG,,Urban,OtherSubdivision,2023,False,51760,1.0,manual (sure)
+OA-0273,FY23,San Juan County,WA,IG,,Rural,County,2023,False,53055,1.0,county name
+OA-0274,FY23,"Kenosha County, WI",WI,IG,,Urban,County,2023,False,55059,1.0,county name
+OA-0275,FY23,Sussex County Council,DE,PD,,Rural,County,2023,False,10005,1.0,county name
+OA-0276,FY23,City of Danielsville,GA,PD,,Rural,City,2023,False,13195,1.0,place name
+OA-0277,FY23,Town of Huntersville,NC,PD,,Urban,City,2023,False,37119,1.0,place name
+OA-0278,FY23,Bledsoe County Highway Department,TN,PD,,Rural,County,2023,False,47007,1.0,county name
+OA-0279,FY23,Fentress County Highway,TN,PD,,Rural,County,2023,False,47049,1.0,county name
+OA-0280,FY23,Metro Moore County Highway Dept.,TN,PD,,Rural,County,2023,False,47127,1.0,county name
+OA-0281,FY23,Montgomery County Highway Department,TN,PD,,Urban,County,2023,False,47125,1.0,county name
+OA-0282,FY24R2,Native Village of Chenega,AK,IG,,Urban,Tribe,2024,False,02063,1.0,manual (sure)
+OA-0283,FY24R2,"City of Troy, Alabama",AL,IG,,Rural,City,2024,False,01109,1.0,place name
+OA-0284,FY24R2,Benton County,AR,IG,,Urban,County,2024,False,05007,1.0,county name
+OA-0285,FY24R2,City of Benton,AR,IG,,Urban,City,2024,False,05125,1.0,place name
+OA-0286,FY24R2,County of Washington,AR,IG,,Urban,County,2024,False,05143,1.0,county name
+OA-0287,FY24R2,Northwest Arkansas Regional Planning Commission,AR,IG,,Urban,MPO,2024,False,05007,1.0,manual (regional)
+OA-0287,FY24R2,Northwest Arkansas Regional Planning Commission,AR,IG,,Urban,MPO,2024,False,05143,1.0,manual (regional)
+OA-0288,FY24R2,Alameda County Transportation Commission,CA,IG,,Urban,OtherSubdivision,2024,False,06001,1.0,county name
+OA-0289,FY24R2,City of Artesia,CA,IG,,Urban,City,2024,False,06037,1.0,place name
+OA-0290,FY24R2,City of Camarillo,CA,IG,,Rural,City,2024,False,06111,1.0,place name
+OA-0291,FY24R2,City of Carlsbad,CA,IG,,Urban,City,2024,False,06073,1.0,place name
+OA-0292,FY24R2,City of Carpinteria,CA,IG,,Urban,City,2024,False,06083,1.0,place name
+OA-0293,FY24R2,City of Clearlake,CA,IG,,Rural,City,2024,False,06033,1.0,place name
+OA-0294,FY24R2,City of Concord,CA,IG,,Urban,City,2024,False,06013,1.0,place name
+OA-0295,FY24R2,City of Culver City,CA,IG,,Urban,City,2024,False,06037,1.0,place name
+OA-0296,FY24R2,City of Encinitas,CA,IG,,Urban,City,2024,False,06073,1.0,place name
+OA-0297,FY24R2,City of Escondido,CA,IG,,Urban,City,2024,False,06073,1.0,place name
+OA-0298,FY24R2,City of Glendale,CA,IG,,Urban,City,2024,False,06037,1.0,place name
+OA-0299,FY24R2,City of Manteca,CA,IG,,Rural,City,2024,False,06077,1.0,place name
+OA-0300,FY24R2,City of Menlo Park,CA,IG,,Urban,City,2024,False,06081,1.0,place name
+OA-0301,FY24R2,City of Patterson,CA,IG,,Rural,City,2024,False,06099,1.0,place name
+OA-0302,FY24R2,City of Redwood City CA,CA,IG,,Urban,City,2024,False,06081,1.0,place name
+OA-0303,FY24R2,"City of San Diego, Transportation Department",CA,IG,,Urban,City,2024,False,06073,1.0,place name
+OA-0304,FY24R2,City of San Gabriel,CA,IG,,Urban,City,2024,False,06037,1.0,place name
+OA-0305,FY24R2,City of Santa Monica,CA,IG,,Urban,City,2024,False,06037,1.0,place name
+OA-0306,FY24R2,City of Santa Rosa,CA,IG,,Urban,City,2024,False,06097,1.0,place name
+OA-0307,FY24R2,City of Sunnyvale,CA,IG,,Urban,City,2024,False,06085,1.0,place name
+OA-0308,FY24R2,Contra Costa County - El Sobrante/Richmond Area,CA,IG,,Urban,County,2024,False,06013,1.0,county name
+OA-0309,FY24R2,Placer County,CA,IG,,Urban,County,2024,False,06061,1.0,county name
+OA-0310,FY24R2,San Francisco Municipal Transportation Agency,CA,IG,,Urban,City,2024,False,06075,1.0,manual (sure)
+OA-0311,FY24R2,San Joaquin County,CA,IG,,Urban,County,2024,False,06077,1.0,county name
+OA-0312,FY24R2,Town of Los Gatos SS4A Implementation Grant,CA,IG,,Urban,City,2024,False,06085,1.0,place name
+OA-0313,FY24R2,City of Durango,CO,IG,,Rural,City,2024,False,08067,1.0,place name
+OA-0314,FY24R2,City of Waterbury - Engineering Department,CT,IG,,Rural,City,2024,False,09009,1.0,place name
+OA-0315,FY24R2,Stamford Connecticut,CT,IG,,Urban,City,2024,False,09001,1.0,place name
+OA-0316,FY24R2,"Town of Manchester, CT",CT,IG,,Urban,City,2024,False,09003,1.0,place name
+OA-0317,FY24R2,Town of Southington,CT,IG,,Urban,City,2024,False,09003,1.0,county subdivision name
+OA-0318,FY24R2,Eastern Shawnee Tribe of Oklahoma,Eastern Shawnee Tribe of Oklahoma,IG,,Rural,Tribe?,2024,False,40115,1.0,manual (sure)
+OA-0319,FY24R2,Leon County,FL,IG,,Urban,County,2024,False,12073,1.0,county name
+OA-0320,FY24R2,Martin County Board of County Commissioners,FL,IG,,Urban,County,2024,False,12085,1.0,county name
+OA-0321,FY24R2,City of Atlanta,GA,IG,,Urban,City,2024,False,13121,0.9251,place name
+OA-0322,FY24R2,City Of Dunwoody,GA,IG,,Urban,City,2024,False,13089,1.0,place name
+OA-0323,FY24R2,City of Marietta,GA,IG,,Urban,City,2024,False,13067,1.0,place name
+OA-0324,FY24R2,Cobb County Board of Commissioners,GA,IG,,Urban,County,2024,False,13067,1.0,county name
+OA-0325,FY24R2,County of Hawaii,HI,IG,,Rural,County,2024,False,15001,1.0,county name
+OA-0326,FY24R2,County of Maui,HI,IG,,Rural,County,2024,False,15009,1.0,county name
+OA-0327,FY24R2,City of Davenport,IA,IG,,Urban,City,2024,False,19163,1.0,place name
+OA-0328,FY24R2,City of Maquoketa,IA,IG,,Rural,City,2024,False,19097,1.0,place name
+OA-0329,FY24R2,"Linn County, Iowa",IA,IG,,Rural,County,2024,False,19113,1.0,county name
+OA-0330,FY24R2,Webster County Secondary Roads Department,IA,IG,,Rural,County,2024,False,19187,1.0,county name
+OA-0331,FY24R2,"City of Anderson, Indiana",IN,IG,,Rural,City,2024,False,18095,1.0,place name
+OA-0332,FY24R2,City of Greenwood,IN,IG,,Urban,City,2024,False,18081,1.0,place name
+OA-0333,FY24R2,City of Hammond,IN,IG,,Urban,City,2024,False,18089,1.0,place name
+OA-0334,FY24R2,City of Noblesville,IN,IG,,Urban,City,2024,False,18057,1.0,place name
+OA-0335,FY24R2,Unified Government of Wyandotte County,KS,IG,,Urban,County,2024,False,20209,1.0,manual (sure)
+OA-0336,FY24R2,"City of West Monroe, LA",LA,IG,,Rural,City,2024,False,22073,1.0,place name
+OA-0337,FY24R2,Lafayette City-Parish Consolidated Government,LA,IG,,Urban,County,2024,False,22055,1.0,place name
+OA-0338,FY24R2,Brockton,MA,IG,,Urban,City,2024,False,25023,1.0,place name
+OA-0339,FY24R2,Anne Arundel County,MD,IG,,Urban,County,2024,False,24003,1.0,county name
+OA-0340,FY24R2,"frederick county, md",MD,IG,,Rural,County,2024,False,24021,1.0,county name
+OA-0341,FY24R2,Bay Mills Indian Community,MI,IG,,Rural,Tribe,2024,False,26033,1.0,manual (sure)
+OA-0342,FY24R2,Muskegon County Road Commission,MI,IG,,Rural,County,2024,False,26121,1.0,county name
+OA-0343,FY24R2,Carver County,MN,IG,,Urban,County,2024,False,27019,1.0,county name
+OA-0344,FY24R2,City of Independence,MO,IG,,Urban,City,2024,False,29095,1.0,place name
+OA-0345,FY24R2,"City of Joplin, MO",MO,IG,,Rural,City,2024,False,29097,0.8626,place name
+OA-0345,FY24R2,"City of Joplin, MO",MO,IG,,Rural,City,2024,False,29145,0.1374,place name
+OA-0346,FY24R2,St. Charles County,MO,IG,,Urban,County,2024,False,29183,1.0,county name
+OA-0347,FY24R2,"City of Gulfport, MS - Department of Engineering",MS,IG,,Urban,City,2024,False,28047,1.0,place name
+OA-0348,FY24R2,City of Charlotte,NC,IG,,Urban,City,2024,False,37119,1.0,place name
+OA-0349,FY24R2,City of Williston,ND,IG,,Rural,City,2024,False,38105,1.0,place name
+OA-0350,FY24R2,Standing Rock Sioux Tribe,ND,IG,,Rural,Tribe,2024,False,38085,1.0,manual (regional)
+OA-0350,FY24R2,Standing Rock Sioux Tribe,ND,IG,,Rural,Tribe,2024,False,46031,1.0,manual (regional)
+OA-0351,FY24R2,City of Atlantic City,NJ,IG,,Urban,City,2024,False,34001,1.0,place name
+OA-0352,FY24R2,"City of Newark, NJ",NJ,IG,,Urban,City,2024,False,34013,1.0,place name
+OA-0353,FY24R2,Cranbury Township Police Department,NJ,IG,,Urban,City,2024,False,34023,1.0,manual (sure)
+OA-0354,FY24R2,Township of Stafford,NJ,IG,,Urban,City,2024,False,34029,1.0,county subdivision name
+OA-0355,FY24R2,Albuquerque Public Schools,NM,IG,,Urban,OtherSubdivision,2024,False,35001,1.0,manual (sure)
+OA-0356,FY24R2,City of Santa Fe/Santa Fe,NM,IG,,Rural,City,2024,False,35049,1.0,place name
+OA-0357,FY24R2,Tahoe Transportation District,NV,IG,,Rural,OtherSubdivision,2024,False,32005,1.0,manual (regional)
+OA-0357,FY24R2,Tahoe Transportation District,NV,IG,,Rural,OtherSubdivision,2024,False,32031,1.0,manual (regional)
+OA-0357,FY24R2,Tahoe Transportation District,NV,IG,,Rural,OtherSubdivision,2024,False,06017,1.0,manual (regional)
+OA-0357,FY24R2,Tahoe Transportation District,NV,IG,,Rural,OtherSubdivision,2024,False,06061,1.0,manual (regional)
+OA-0358,FY24R2,"City of New Rochelle, NY",NY,IG,,Urban,City,2024,False,36119,1.0,place name
+OA-0359,FY24R2,City of Lakewood,OH,IG,,Urban,City,2024,False,39035,1.0,place name
+OA-0360,FY24R2,Columbiana County Engineer,OH,IG,,Rural,County,2024,False,39029,1.0,county name
+OA-0361,FY24R2,"The City of Reynoldsburg, Ohio",OH,IG,,Urban,City,2024,False,39049,0.7394,place name
+OA-0361,FY24R2,"The City of Reynoldsburg, Ohio",OH,IG,,Urban,City,2024,False,39089,0.2302,place name
+OA-0362,FY24R2,"City of Independence, OR",OR,IG,,Rural,City,2024,False,41053,1.0,place name
+OA-0363,FY24R2,City of Rogue River,OR,IG,,Rural,City,2024,False,41029,1.0,place name
+OA-0364,FY24R2,City of Salem Oregon,OR,IG,,Urban,City,2024,False,41047,0.8365,place name
+OA-0364,FY24R2,City of Salem Oregon,OR,IG,,Urban,City,2024,False,41053,0.1635,place name
+OA-0365,FY24R2,Montgomery County,TN,IG,,Urban,County,2024,False,47125,1.0,county name
+OA-0366,FY24R2,Cameron County,TX,IG,,Urban,County,2024,False,48061,1.0,county name
+OA-0367,FY24R2,City of La Marque,TX,IG,,Rural,City,2024,False,48167,1.0,place name
+OA-0368,FY24R2,"Coryell County, TX",TX,IG,,Rural,County,2024,False,48099,1.0,county name
+OA-0369,FY24R2,"Harris County, TX",TX,IG,,Urban,County,2024,False,48201,1.0,county name
+OA-0370,FY24R2,Layton City,UT,IG,,Urban,City,2024,False,49011,1.0,place name
+OA-0371,FY24R2,"Sandy City, UT",UT,IG,,Urban,City,2024,False,49035,1.0,place name
+OA-0372,FY24R2,"Arlington County, Virginia",VA,IG,,Urban,County,2024,False,51013,1.0,county name
+OA-0373,FY24R2,City of Virginia Beach,VA,IG,,Urban,City,2024,False,51810,1.0,place name
+OA-0374,FY24R2,Fairfax County Department of Transportation,VA,IG,,Urban,County,2024,False,51059,1.0,county name
+OA-0375,FY24R2,James City County,VA,IG,,Rural,County,2024,False,51095,1.0,county name
+OA-0376,FY24R2,"City of Kenmore, WA",WA,IG,,Urban,City,2024,False,53033,1.0,place name
+OA-0377,FY24R2,CITY OF MONTESANO,WA,IG,,Rural,City,2024,False,53027,1.0,place name
+OA-0378,FY24R3,City of Fort Payne,AL,PD,AP+SUP,Rural,City,2024,True,01049,1.0,place name
+OA-0379,FY24R3,City of Montgomery,AL,PD,AP+SUP,Urban,City,2024,True,01101,1.0,place name
+OA-0380,FY24R3,Lee County Commission,AL,PD,AP_NEW,Urban,County,2024,True,01081,1.0,county name
+OA-0381,FY24R3,City of Bentonville,AR,PD,AP+SUP,Urban,City,2024,True,05007,1.0,place name
+OA-0382,FY24R3,City of Rogers,AR,PD,SUP,Urban,City,2024,False,05007,1.0,place name
+OA-0383,FY24R3,City of Apache Junction,AZ,PD,AP_NEW,Urban,City,2024,True,04021,1.0,place name
+OA-0384,FY24R3,City Of Bisbee,AZ,PD,SUP,Rural,City,2024,False,04003,1.0,place name
+OA-0385,FY24R3,City of Flagstaff,AZ,PD,SUP,Rural,City,2024,False,04005,1.0,place name
+OA-0386,FY24R3,City of Kingman,AZ,PD,AP+SUP,Rural,City,2024,True,04015,1.0,place name
+OA-0387,FY24R3,Santa Cruz County,AZ,PD,SUP,Rural,County,2024,False,04023,1.0,county name
+OA-0388,FY24R2,BEAR VALLEY,CA,PD,AP_NEW,Rural,OtherSubdivision,2024,True,06029,1.0,manual (uncertain)
+OA-0389,FY24R3,Calipatria,CA,PD,AP_NEW,Rural,City,2024,True,06025,1.0,place name
+OA-0390,FY24R3,City of Alhambra,CA,PD,AP+SUP,Urban,City,2024,True,06037,1.0,place name
+OA-0391,FY24R3,City of Aliso Viejo,CA,PD,AP_NEW,Urban,City,2024,True,06059,1.0,place name
+OA-0392,FY24R3,City of Brea,CA,PD,AP+SUP,Urban,City,2024,True,06059,1.0,place name
+OA-0393,FY24R3,City of Claremont,CA,PD,SUP,Urban,City,2024,False,06037,1.0,place name
+OA-0394,FY24R3,City of El Cajon,CA,PD,SUP,Urban,City,2024,False,06073,1.0,place name
+OA-0395,FY24R3,City of Industry,CA,PD,AP_NEW,Urban,City,2024,True,06037,1.0,place name
+OA-0396,FY24R3,City of Lemon Grove,CA,PD,AP_NEW,Urban,City,2024,True,06073,1.0,place name
+OA-0397,FY24R3,City of Lemoore,CA,PD,AP_UPD,Rural,City,2024,True,06031,1.0,place name
+OA-0398,FY24R3,City of Manhattan Beach,CA,PD,AP_UPD,Urban,City,2024,True,06037,1.0,place name
+OA-0399,FY24R3,City of Murrieta,CA,PD,SUP,Urban,City,2024,False,06065,1.0,place name
+OA-0400,FY24R3,City of Paso Robles,CA,PD,AP_UPD,Rural,City,2024,True,06079,1.0,county subdivision name
+OA-0401,FY24R3,City of San Bruno,CA,PD,AP+SUP,Urban,City,2024,True,06081,1.0,place name
+OA-0402,FY24R1,City of San Leandro,CA,PD,SUP,Urban,City,2024,False,06001,1.0,place name
+OA-0403,FY24R3,City of San Rafael,CA,PD,AP+SUP,Urban,City,2024,True,06041,1.0,place name
+OA-0404,FY24R3,City of Solvang,CA,PD,AP_UPD,Rural,City,2024,True,06083,1.0,place name
+OA-0405,FY24R3,City of South Pasadena,CA,PD,AP+SUP,Urban,City,2024,True,06037,1.0,place name
+OA-0406,FY24R3,City of Torrance,CA,PD,AP_NEW,Urban,City,2024,True,06037,1.0,place name
+OA-0407,FY24R3,City of Visalia,CA,PD,AP_NEW,Rural,City,2024,True,06107,1.0,place name
+OA-0408,FY24R3,City of Vista,CA,PD,SUP,Urban,City,2024,False,06073,1.0,place name
+OA-0409,FY24R3,CSU Fullerton Auxiliary Services Corporation,CA,PD,AP+SUP,Urban,OtherSubdivision,2024,True,06059,1.0,manual (sure)
+OA-0410,FY24R3,Eastern Contra Costa Transit Authority,CA,PD,AP+SUP,Urban,OtherSubdivision,2024,True,06013,1.0,manual (sure)
+OA-0411,FY24R3,Ebbetts Pass Fire District,CA,PD,AP+SUP,Rural,OtherSubdivision,2024,True,06009,1.0,manual (sure)
+OA-0412,FY24R3,Marin County,CA,PD,SUP,Urban,County,2024,False,06041,1.0,county name
+OA-0413,FY24R3,Nevada City,CA,PD,AP_NEW,Rural,City,2024,True,06057,1.0,manual (sure)
+OA-0414,FY24R3,Oakland Unified School District,CA,PD,SUP,Rural,OtherSubdivision,2024,False,06001,1.0,manual (sure)
+OA-0415,FY24R3,Placer County Transportation Planning Agency,CA,PD,AP_NEW,Urban,OtherSubdivision,2024,True,06061,1.0,county name
+OA-0416,FY24R3,Santa Clara Valley Transportation Authority,CA,PD,AP_NEW,Urban,OtherSubdivision,2024,True,06085,1.0,manual (sure)
+OA-0417,FY24R3,Susanville Indian Rancheria,CA,PD,AP+SUP,Rural,Tribe,2024,True,06035,1.0,manual (sure)
+OA-0418,FY24R3,University of California Irvine,CA,PD,SUP,Urban,OtherSubdivision,2024,False,06059,1.0,manual (sure)
+OA-0419,FY24R3,Archuleta County,CO,PD,AP+SUP,Rural,County,2024,True,08007,1.0,county name
+OA-0420,FY24R3,Douglas County,CO,PD,AP+SUP,Urban,County,2024,True,08035,1.0,county name
+OA-0421,FY24R3,Eagle County Government,CO,PD,SUP,Rural,County,2024,False,08037,1.0,county name
+OA-0422,FY24R3,Lake County,CO,PD,AP_NEW,Rural,County,2024,True,08065,1.0,county name
+OA-0423,FY24R3,Town of Erie,CO,PD,AP_NEW,Rural,City,2024,True,08013,0.3593,place name
+OA-0423,FY24R3,Town of Erie,CO,PD,AP_NEW,Rural,City,2024,True,08123,0.6407,place name
+OA-0424,FY24R3,Town of Minturn,CO,PD,SUP,Rural,City,2024,False,08037,1.0,place name
+OA-0425,FY24R2,Coventry Police Department,CT,PD,AP_NEW,Rural,City,2024,True,09013,1.0,manual (sure)
+OA-0426,FY24R3,Middletown,CT,PD,SUP,Urban,City,2024,False,09007,1.0,place name
+OA-0427,FY24R3,Northwest Hills Council of Governments,CT,PD,AP_UPD,Rural,County,2024,True,09005,1.0,manual (regional)
+OA-0428,FY24R3,Town of Old Saybrook,CT,PD,AP_NEW,Urban,City,2024,True,09007,1.0,county subdivision name
+OA-0429,FY24R3,Town of Stonington,CT,PD,AP_NEW,Rural,City,2024,True,09011,1.0,place name
+OA-0430,FY24R3,Town of Wilton,CT,PD,AP_NEW,Urban,City,2024,True,09001,1.0,county subdivision name
+OA-0431,FY24R3,City of Milford,DE,PD,AP_NEW,Rural,City,2024,True,10001,0.4231,place name
+OA-0431,FY24R3,City of Milford,DE,PD,AP_NEW,Rural,City,2024,True,10005,0.5769,place name
+OA-0432,FY24R3,City of Apopka,FL,PD,SUP,Urban,City,2024,False,12095,1.0,place name
+OA-0433,FY24R3,City of Bradenton,FL,PD,AP_NEW,Urban,City,2024,True,12081,1.0,place name
+OA-0434,FY24R3,City of Holmes Beach,FL,PD,SUP,Urban,City,2024,False,12081,1.0,place name
+OA-0435,FY24R3,City of Lynn Haven,FL,PD,AP_NEW,Rural,City,2024,True,12005,1.0,place name
+OA-0436,FY24R3,City of Miami Gardens,FL,PD,SUP,Urban,City,2024,False,12086,1.0,place name
+OA-0437,FY24R3,City of Newberry,FL,PD,SUP,Rural,City,2024,False,12001,1.0,place name
+OA-0438,FY24R3,City of Plantation,FL,PD,SUP,Urban,City,2024,False,12011,1.0,manual (sure)
+OA-0439,FY24R3,Santa Rosa County,FL,PD,SUP,Urban,County,2024,False,12113,1.0,county name
+OA-0440,FY24R1,The Florida International University Board of Trustees,FL,PD,SUP,Urban,OtherSubdivision,2024,False,12086,1.0,manual (sure)
+OA-0441,FY24R3,Town of Jupiter,FL,PD,AP_NEW,Urban,City,2024,True,12099,1.0,place name
+OA-0442,FY24R3,Village of Wellington,FL,PD,SUP,Urban,City,2024,False,12099,1.0,place name
+OA-0443,FY24R3,City of Lula,GA,PD,AP+SUP,Rural,City,2024,True,13139,1.0,place name
+OA-0444,FY24R3,City of Powder Springs,GA,PD,AP_NEW,Urban,City,2024,True,13067,1.0,place name
+OA-0445,FY24R3,City of Sandy Springs,GA,PD,AP+SUP,Urban,City,2024,True,13121,1.0,place name
+OA-0446,FY24R3,City of South Fulton,GA,PD,AP_NEW,Urban,City,2024,True,13121,1.0,place name
+OA-0447,FY24R3,Effingham County Board of Commissioners,GA,PD,SUP,Urban,County,2024,False,13103,1.0,county name
+OA-0448,FY24R3,City of Boise,ID,PD,SUP,Urban,City,2024,False,16001,1.0,manual (sure)
+OA-0449,FY24R3,City of Jerome,ID,PD,AP_NEW,Rural,City,2024,True,16053,1.0,place name
+OA-0450,FY24R2,Boone County,IL,PD,SUP,Urban,County,2024,False,17007,1.0,county name
+OA-0451,FY24R3,City of Belleville,IL,PD,SUP,Urban,City,2024,False,17163,1.0,place name
+OA-0452,FY24R3,City of Wheaton,IL,PD,AP+SUP,Urban,City,2024,True,17043,1.0,place name
+OA-0453,FY24R3,Lockport Township Road District,IL,PD,AP_NEW,Urban,City,2024,True,17197,1.0,manual (sure)
+OA-0454,FY24R3,Mt. Hope-Funks Grove Fire Protection District,IL,PD,AP+SUP,Rural,OtherSubdivision,2024,True,17113,1.0,manual (sure)
+OA-0455,FY24R3,City of Hobart,IN,PD,AP+SUP,Urban,City,2024,True,18089,1.0,place name
+OA-0456,FY24R3,City of Lebanon,IN,PD,AP_NEW,Urban,City,2024,True,18011,1.0,place name
+OA-0457,FY24R3,City of Westfield,IN,PD,AP_NEW,Urban,City,2024,True,18057,1.0,place name
+OA-0458,FY24R3,Clark County Indiana,IN,PD,AP+SUP,Urban,County,2024,True,18019,1.0,county name
+OA-0459,FY24R2,Fort Wayne City Utilities,IN,PD,SUP,Urban,City,2024,False,18003,1.0,place name
+OA-0460,FY24R3,Town of Edinburgh,IN,PD,AP_NEW,Rural,City,2024,True,18081,1.0,place name
+OA-0461,FY24R3,Town of Montgomery,IN,PD,AP+SUP,Rural,City,2024,True,18027,1.0,place name
+OA-0462,FY24R3,Town of New Whiteland,IN,PD,AP+SUP,Urban,City,2024,True,18081,1.0,place name
+OA-0463,FY24R3,Town of Santa Claus,IN,PD,AP_NEW,Rural,City,2024,True,18147,1.0,place name
+OA-0464,FY24R3,City of Basehor,KS,PD,AP+SUP,Urban,City,2024,True,20103,1.0,place name
+OA-0465,FY24R3,Junction City,KS,PD,AP+SUP,Rural,City,2024,True,20139,1.0,county subdivision name
+OA-0466,FY24R3,Spring Hill,KS,PD,SUP,Rural,City,2024,False,20091,0.5962,place name
+OA-0466,FY24R3,Spring Hill,KS,PD,SUP,Rural,City,2024,False,20121,0.4038,place name
+OA-0467,FY24R3,Sterling Police Department,KS,PD,AP+SUP,Rural,City,2024,True,20159,1.0,manual (sure)
+OA-0468,FY24R3,City of Franklin,KY,PD,SUP,Rural,City,2024,False,21213,1.0,place name
+OA-0469,FY24R3,Louisiana State University,LA,PD,AP_NEW,Urban,OtherSubdivision,2024,True,22033,1.0,manual (sure)
+OA-0470,FY24R3,Southern University Law Center and Scotlandville,LA,PD,AP+SUP,Rural,OtherSubdivision,2024,True,22033,1.0,manual (sure)
+OA-0471,FY24R3,Barnstable County and Cape Cod Commission,MA,PD,SUP,Urban,County,2024,False,25001,1.0,county name
+OA-0472,FY24R3,Falmouth,MA,PD,SUP,Urban,City,2024,False,25001,1.0,place name
+OA-0473,FY24R3,FRCOG,MA,PD,SUP,Rural,MPO,2024,False,25011,1.0,manual (regional)
+OA-0474,FY24R3,Merrimack Valley Planning Commission,MA,PD,SUP,Urban,MPO,2024,False,25009,1.0,manual (regional)
+OA-0475,FY24R3,Northern Middlesex Council of Governments,MA,PD,SUP,Urban,MPO,2024,False,25017,1.0,manual (regional)
+OA-0476,FY24R3,Town of Braintree,MA,PD,AP_NEW,Urban,City,2024,True,25021,1.0,manual (sure)
+OA-0477,FY24R3,Town of Dedham,MA,PD,SUP,Urban,City,2024,False,25021,1.0,place name
+OA-0478,FY24R3,Town of Provincetown,MA,PD,SUP,Rural,City,2024,False,25001,1.0,place name
+OA-0479,FY24R3,Town of Stoughton,MA,PD,SUP,Urban,City,2024,False,25021,1.0,county subdivision name
+OA-0480,FY24R3,Town of Weymouth,MA,PD,AP+SUP,Urban,City,2024,True,25021,1.0,manual (sure)
+OA-0481,FY24R3,Town of Winchendon,MA,PD,AP_NEW,Rural,City,2024,True,25027,1.0,place name
+OA-0482,FY24R3,City of Havre de Grace,MD,PD,AP+SUP,Urban,City,2024,True,24025,1.0,place name
+OA-0483,FY24R3,Harford County Government,MD,PD,AP_UPD,Urban,County,2024,True,24025,1.0,county name
+OA-0484,FY24R3,Mayor and City Council of Baltimore,MD,PD,SUP,Urban,City,2024,False,24510,1.0,manual (sure)
+OA-0485,FY24R3,Town of Kensington,MD,PD,SUP,Urban,City,2024,False,24031,1.0,place name
+OA-0486,FY24R3,Town of Port Deposit,MD,PD,AP+SUP,Rural,City,2024,True,24015,1.0,place name
+OA-0487,FY24R3,City of Waterville,ME,PD,AP_NEW,Rural,City,2024,True,23011,1.0,place name
+OA-0488,FY24R3,Town of Gorham,ME,PD,SUP,Urban,City,2024,False,23005,1.0,place name
+OA-0489,FY24R3,Calhoun County Consolidated Dispatch Authority,MI,PD,SUP,Rural,County,2024,False,26025,1.0,manual (sure)
+OA-0490,FY24R3,City of Eastpointe,MI,PD,AP+SUP,Urban,City,2024,True,26099,1.0,place name
+OA-0491,FY24R3,City of Ecorse,MI,PD,AP+SUP,Urban,City,2024,True,26163,1.0,place name
+OA-0492,FY24R3,City of Gross Pointe Woods,MI,PD,AP+SUP,Urban,City,2024,True,26163,1.0,manual (sure)
+OA-0493,FY24R3,City of Roseville,MI,PD,AP+SUP,Urban,City,2024,True,26099,1.0,place name
+OA-0494,FY24R3,City of Troy,MI,PD,AP+SUP,Urban,City,2024,True,26125,1.0,place name
+OA-0495,FY24R3,Clinton County Road Commission,MI,PD,AP_NEW,Urban,County,2024,True,26037,1.0,county name
+OA-0496,FY24R2,Grand Traverse County Road Commission,MI,PD,AP_NEW,Rural,County,2024,True,26055,1.0,county name
+OA-0497,FY24R3,City of Chaska,MN,PD,AP+SUP,Urban,City,2024,True,27019,1.0,place name
+OA-0498,FY24R3,City of Minneapolis,MN,PD,SUP,Urban,City,2024,False,27053,1.0,place name
+OA-0499,FY24R3,City of Woodbury,MN,PD,SUP,Urban,City,2024,False,27163,1.0,place name
+OA-0500,FY24R3,Douglas County Public Works,MN,PD,AP_NEW,Rural,County,2024,True,27041,1.0,county name
+OA-0501,FY24R3,Rice County Minnesota,MN,PD,AP_NEW,Rural,County,2024,True,27131,1.0,county name
+OA-0502,FY24R3,Steele County,MN,PD,AP_NEW,Rural,County,2024,True,27147,1.0,county name
+OA-0503,FY24R2,City of Bowling Green,MO,PD,AP_NEW,Rural,City,2024,True,29163,1.0,place name
+OA-0504,FY24R3,City of Festus,MO,PD,AP+SUP,Urban,City,2024,True,29099,1.0,place name
+OA-0505,FY24R3,City of Brookhaven,MS,PD,AP_NEW,Rural,City,2024,True,28085,1.0,place name
+OA-0506,FY24R3,City of McComb,MS,PD,SUP,Rural,City,2024,False,28113,1.0,place name
+OA-0507,FY24R3,City of Durham,NC,PD,SUP,Urban,City,2024,False,37063,1.0,place name
+OA-0508,FY24R3,City of Graham,NC,PD,SUP,Rural,City,2024,False,37001,1.0,place name
+OA-0509,FY24R3,Sandhills MPO,NC,PD,AP_NEW,Rural,MPO,2024,True,,,
+OA-0510,FY24R3,Town of Matthews,NC,PD,SUP,Urban,City,2024,False,37119,1.0,place name
+OA-0511,FY24R3,Town of Southern Shores,NC,PD,AP_NEW,Rural,City,2024,True,37055,1.0,place name
+OA-0512,FY24R3,Village of Clemmons,NC,PD,SUP,Urban,City,2024,False,37067,1.0,place name
+OA-0513,FY24R3,Three Affiliated Tribes,ND,PD,AP_NEW,Rural,Tribe,2024,True,38025,1.0,manual (regional)
+OA-0513,FY24R3,Three Affiliated Tribes,ND,PD,AP_NEW,Rural,Tribe,2024,True,38053,1.0,manual (regional)
+OA-0513,FY24R3,Three Affiliated Tribes,ND,PD,AP_NEW,Rural,Tribe,2024,True,38055,1.0,manual (regional)
+OA-0513,FY24R3,Three Affiliated Tribes,ND,PD,AP_NEW,Rural,Tribe,2024,True,38057,1.0,manual (regional)
+OA-0513,FY24R3,Three Affiliated Tribes,ND,PD,AP_NEW,Rural,Tribe,2024,True,38061,1.0,manual (regional)
+OA-0514,FY24R3,City of Kearney,NE,PD,AP_NEW,Rural,City,2024,True,31019,1.0,place name
+OA-0515,FY24R3,City of McCook,NE,PD,AP_NEW,Rural,City,2024,True,31145,1.0,place name
+OA-0516,FY24R3,City of Claremont,NH,PD,SUP,Rural,City,2024,False,33019,1.0,place name
+OA-0517,FY24R3,City of Lebanon,NH,PD,AP+SUP,Rural,City,2024,True,33009,1.0,place name
+OA-0518,FY24R3,Borough of Wildwood Crest,NJ,PD,AP+SUP,Urban,City,2024,True,34009,1.0,place name
+OA-0519,FY24R3,City of Elizabeth,NJ,PD,AP+SUP,Urban,City,2024,True,34039,1.0,place name
+OA-0520,FY24R3,City of Linden,NJ,PD,AP_NEW,Urban,City,2024,True,34039,1.0,place name
+OA-0521,FY24R3,City of Summit,NJ,PD,AP_NEW,Urban,City,2024,True,34039,1.0,place name
+OA-0522,FY24R3,Deptford Township,NJ,PD,AP+SUP,Urban,City,2024,True,34015,1.0,county subdivision name
+OA-0523,FY24R3,Lakewood Township,NJ,PD,AP+SUP,Urban,City,2024,True,34029,1.0,place name
+OA-0524,FY24R3,Middlesex County,NJ,PD,SUP,Urban,County,2024,False,34023,1.0,county name
+OA-0525,FY24R3,New Jersey Sports and Exposition Authority,NJ,PD,AP+SUP,Urban,OtherSubdivision,2024,True,34003,1.0,manual (sure)
+OA-0526,FY24R3,Town of Kearny,NJ,PD,SUP,Urban,City,2024,False,34017,1.0,place name
+OA-0527,FY24R3,Township of Berkeley Heights,NJ,PD,AP_NEW,Urban,City,2024,True,34039,1.0,county subdivision name
+OA-0528,FY24R3,Township of Livingstion,NJ,PD,AP_NEW,Urban,City,2024,True,34013,1.0,manual (sure)
+OA-0529,FY24R3,City of Alamogordo,NM,PD,AP+SUP,Rural,City,2024,True,35035,1.0,place name
+OA-0530,FY24R3,City of Sunland Park,NM,PD,AP+SUP,Urban,City,2024,True,35013,1.0,place name
+OA-0531,FY24R3,University of New Mexico,NM,PD,AP_NEW,Urban,OtherSubdivision,2024,True,35001,1.0,manual (sure)
+OA-0532,FY24R3,City of Henderson,NV,PD,AP_NEW,Urban,City,2024,True,32003,1.0,place name
+OA-0533,FY24R3,Endicott,NY,PD,AP_NEW,Rural,City,2024,True,36007,1.0,place name
+OA-0534,FY24R3,Inc Village of Garden City,NY,PD,AP+SUP,Urban,OtherSubdivision,2024,True,36059,1.0,place name
+OA-0535,FY24R3,Somers,NY,PD,AP_NEW,Urban,City,2024,True,36119,1.0,county subdivision name
+OA-0536,FY24R3,Stony Brook University,NY,PD,AP+SUP,Urban,OtherSubdivision,2024,True,36103,1.0,manual (sure)
+OA-0537,FY24R3,Town of Babylon,NY,PD,AP_NEW,Urban,City,2024,True,36103,1.0,place name
+OA-0538,FY24R3,Town of Clarkstown,NY,PD,AP_NEW,Urban,City,2024,True,36087,1.0,county subdivision name
+OA-0539,FY24R3,Town of Hornellsville,NY,PD,AP_NEW,Rural,City,2024,True,36101,1.0,county subdivision name
+OA-0540,FY24R3,Town of Mamaroneck,NY,PD,AP+SUP,Urban,City,2024,True,36119,1.0,place name
+OA-0541,FY24R3,Town of Pittsford,NY,PD,SUP,Urban,City,2024,False,36055,1.0,place name
+OA-0542,FY24R3,Ulster County,NY,PD,AP+SUP,Urban,MPO,2024,True,36111,1.0,county name
+OA-0543,FY24R3,Village of Orchard Park,NY,PD,AP+SUP,Urban,City,2024,True,36029,1.0,place name
+OA-0544,FY24R1,Brookside,OH,PD,AP_NEW,Rural,City,2024,True,39013,1.0,place name
+OA-0545,FY24R3,Butler County Engineer's Office,OH,PD,AP_NEW,Urban,County,2024,True,39017,1.0,county name
+OA-0546,FY24R3,City of Canton,OH,PD,SUP,Urban,City,2024,False,39151,1.0,place name
+OA-0547,FY24R3,City of Delaware,OH,PD,SUP,Urban,City,2024,False,39041,1.0,place name
+OA-0548,FY24R3,City of Loveland,OH,PD,AP_NEW,Urban,City,2024,True,39025,0.1127,place name
+OA-0548,FY24R3,City of Loveland,OH,PD,AP_NEW,Urban,City,2024,True,39061,0.8873,place name
+OA-0549,FY24R3,City of Medina,OH,PD,AP_NEW,Rural,City,2024,True,39103,1.0,place name
+OA-0550,FY24R3,City of Oxford,OH,PD,AP_NEW,Rural,City,2024,True,39017,1.0,place name
+OA-0551,FY24R3,City of Powell,OH,PD,AP_NEW,Urban,City,2024,True,39041,1.0,place name
+OA-0552,FY24R3,City of Wauseon,OH,PD,AP+SUP,Rural,City,2024,True,39051,1.0,place name
+OA-0553,FY24R3,City of Westlake,OH,PD,AP+SUP,Urban,City,2024,True,39035,1.0,place name
+OA-0554,FY24R3,New Philadelphia,OH,PD,SUP,Rural,City,2024,False,39157,1.0,place name
+OA-0555,FY24R3,Northeast Ohio Public Energy Council,OH,PD,SUP,Urban,OtherSubdivision,2024,False,,,
+OA-0556,FY24R3,Warren County Transportation Improvement District,OH,PD,AP_NEW,Urban,County,2024,True,39165,1.0,manual (sure)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40001,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40021,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40035,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40041,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40091,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40097,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40101,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40105,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40115,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40131,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40135,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40143,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40145,1.0,manual (regional)
+OA-0557,FY24R3,Cherokee Nation,OK,PD,SUP,Urban,Tribe,2024,False,40147,1.0,manual (regional)
+OA-0558,FY24R3,City of Alva,OK,PD,AP_NEW,Rural,City,2024,True,40151,1.0,place name
+OA-0559,FY24R3,City of Yukon,OK,PD,AP_NEW,Urban,City,2024,True,40017,1.0,place name
+OA-0560,FY24R3,City of Hillsboro Public Works,OR,PD,SUP,Urban,County,2024,False,41067,1.0,place name
+OA-0561,FY24R3,City of Silverton,OR,PD,AP_NEW,Rural,City,2024,True,41047,1.0,place name
+OA-0562,FY24R3,Lane Council of Governments,OR,PD,AP+SUP,Urban,MPO,2024,True,41039,1.0,manual (regional)
+OA-0563,FY24R3,Milton-Freewater,OR,PD,AP_NEW,Rural,City,2024,True,41059,1.0,place name
+OA-0564,FY24R3,Oregon Cascades West Council of Governments,OR,PD,AP+SUP,Rural,Multijurisdictional,2024,True,41003,1.0,manual (regional)
+OA-0564,FY24R3,Oregon Cascades West Council of Governments,OR,PD,AP+SUP,Rural,Multijurisdictional,2024,True,41041,1.0,manual (regional)
+OA-0564,FY24R3,Oregon Cascades West Council of Governments,OR,PD,AP+SUP,Rural,Multijurisdictional,2024,True,41043,1.0,manual (regional)
+OA-0565,FY24R3,Philomath,OR,PD,AP+SUP,Rural,City,2024,True,41003,1.0,place name
+OA-0566,FY24R3,Umatilla County,OR,PD,SUP,Rural,County,2024,False,41059,1.0,county name
+OA-0567,FY24R3,Borough of Crafton,PA,PD,AP+SUP,Urban,City,2024,True,42003,1.0,place name
+OA-0568,FY24R3,Borough of Sewickley,PA,PD,AP+SUP,Urban,City,2024,True,42003,1.0,place name
+OA-0569,FY24R3,City of Reading,PA,PD,SUP,Urban,City,2024,False,42011,1.0,place name
+OA-0570,FY24R3,Haverford,PA,PD,AP+SUP,Urban,City,2024,True,42045,1.0,county subdivision name
+OA-0571,FY24R2,Kulpmont Borough,PA,PD,AP_NEW,Rural,OtherSubdivision,2024,True,42097,1.0,place name
+OA-0572,FY24R3,Lower Merion School District,PA,PD,SUP,Urban,OtherSubdivision,2024,False,42091,1.0,manual (sure)
+OA-0573,FY24R3,Palmer Township,PA,PD,AP_NEW,Urban,City,2024,True,42095,1.0,county subdivision name
+OA-0574,FY24R2,The Town of Bloomsburg,PA,PD,SUP,Rural,City,2024,False,42037,1.0,place name
+OA-0575,FY24R3,Upper Providence Township,PA,PD,AP_NEW,Urban,City,2024,True,42091,1.0,manual (uncertain)
+OA-0576,FY24R3,Municipio de Dorado,PR,PD,AP+SUP,Urban,City,2024,True,72051,1.0,manual (sure)
+OA-0577,FY24R3,Beaufort County,SC,PD,SUP,Rural,County,2024,False,45013,1.0,county name
+OA-0578,FY24R3,City of Gallatin,TN,PD,AP_NEW,Urban,City,2024,True,47165,1.0,place name
+OA-0579,FY24R3,City of Lawrenceburg,TN,PD,AP+SUP,Rural,City,2024,True,47099,1.0,place name
+OA-0580,FY24R3,Jefferson County,TN,PD,AP_NEW,Rural,County,2024,True,47089,1.0,county name
+OA-0581,FY24R3,Town of Smyrna,TN,PD,AP+SUP,Urban,City,2024,True,47149,1.0,place name
+OA-0582,FY24R3,Wilson County Road Commission,TN,PD,AP+SUP,Urban,County,2024,True,47189,1.0,county name
+OA-0583,FY24R3,Chambers County,TX,PD,AP_NEW,Urban,County,2024,True,48071,1.0,county name
+OA-0584,FY24R3,City of Fort Worth,TX,PD,SUP,Urban,City,2024,False,48439,0.9797,place name
+OA-0585,FY24R3,City of Glenn Heights,TX,PD,AP+SUP,Urban,City,2024,True,48113,0.7099,place name
+OA-0585,FY24R3,City of Glenn Heights,TX,PD,AP+SUP,Urban,City,2024,True,48139,0.2901,place name
+OA-0586,FY24R3,City of Little River-Academy,TX,PD,SUP,Rural,City,2024,False,48027,1.0,place name
+OA-0587,FY24R3,City of Mexia,TX,PD,AP_NEW,Rural,City,2024,True,48293,1.0,place name
+OA-0588,FY24R3,City of Richardson,TX,PD,SUP,Urban,City,2024,False,48085,0.3385,place name
+OA-0588,FY24R3,City of Richardson,TX,PD,SUP,Urban,City,2024,False,48113,0.6615,place name
+OA-0589,FY24R3,City of San Angelo,TX,PD,SUP,Rural,City,2024,False,48451,1.0,place name
+OA-0590,FY24R3,City of Uvalde,TX,PD,AP+SUP,Rural,City,2024,True,48463,1.0,place name
+OA-0591,FY24R3,City of Wilmer,TX,PD,AP_NEW,Urban,City,2024,True,48113,1.0,place name
+OA-0592,FY24R3,Cottonwood Shores,TX,PD,AP_NEW,Rural,City,2024,True,48053,1.0,place name
+OA-0593,FY24R3,Kickapoo Traditional Tribe of Texas,TX,PD,AP_UPD,Rural,Tribe,2024,True,48323,1.0,manual (sure)
+OA-0594,FY24R3,Schleicher County,TX,PD,AP_NEW,Rural,County,2024,True,48413,1.0,county name
+OA-0595,FY24R3,Trinity County,TX,PD,AP+SUP,Rural,County,2024,True,48455,1.0,county name
+OA-0596,FY24R2,Watauga Police Department,TX,PD,SUP,Urban,City,2024,False,48439,1.0,manual (sure)
+OA-0597,FY24R3,City of Park City,UT,PD,SUP,Rural,City,2024,False,49043,1.0,place name
+OA-0598,FY24R3,City of Providence,UT,PD,AP+SUP,Rural,City,2024,True,49005,1.0,place name
+OA-0599,FY24R3,Lehi City,UT,PD,SUP,Urban,City,2024,False,49049,1.0,place name
+OA-0600,FY24R3,Logan City,UT,PD,SUP,Rural,City,2024,False,49005,1.0,place name
+OA-0601,FY24R3,Midway City,UT,PD,AP+SUP,Rural,City,2024,True,49051,1.0,place name
+OA-0602,FY24R2,Morgan County - Utah,UT,PD,AP+SUP,Rural,County,2024,True,49029,1.0,county name
+OA-0603,FY24R3,Nibley City,UT,PD,SUP,Rural,City,2024,False,49005,1.0,place name
+OA-0604,FY24R3,The University of Utah and Salt Lake City,UT,PD,SUP,Urban,Multijurisdictional,2024,False,49035,1.0,manual (sure)
+OA-0605,FY24R3,Washington City,UT,PD,AP+SUP,Rural,City,2024,True,49053,1.0,manual (sure)
+OA-0606,FY24R3,City of Alexandria,VA,PD,SUP,Urban,City,2024,False,51510,1.0,place name
+OA-0607,FY24R3,City of Bristol,VA,PD,AP+SUP,Rural,City,2024,True,51520,1.0,place name
+OA-0608,FY24R3,City of Charlottesville,VA,PD,SUP,Rural,City,2024,False,51540,1.0,place name
+OA-0609,FY24R3,City of Manassas Park,VA,PD,SUP,Urban,City,2024,False,51685,1.0,place name
+OA-0610,FY24R3,City of Suffolk,VA,PD,AP_NEW,Urban,City,2024,True,51800,1.0,place name
+OA-0611,FY24R3,Town of Hillsboro,VA,PD,AP+SUP,Rural,City,2024,True,51107,1.0,place name
+OA-0612,FY24R3,Town of Rocky Mount,VA,PD,AP_NEW,Rural,City,2024,True,51067,1.0,place name
+OA-0613,FY24R3,City of Burlington,VT,PD,SUP,Rural,City,2024,False,50007,1.0,place name
+OA-0614,FY24R3,City of Entiat,WA,PD,AP_NEW,Rural,City,2024,True,53007,1.0,place name
+OA-0615,FY24R3,City of Granite Falls,WA,PD,AP_NEW,Rural,City,2024,True,53061,1.0,place name
+OA-0616,FY24R3,City of Monroe,WA,PD,AP+SUP,Rural,City,2024,True,53061,1.0,place name
+OA-0617,FY24R3,City of Othello,WA,PD,AP_NEW,Rural,City,2024,True,53001,1.0,place name
+OA-0618,FY24R3,Lake Chelan,WA,PD,SUP,Rural,County,2024,False,53007,1.0,manual (sure)
+OA-0619,FY24R3,University of Washington,WA,PD,AP+SUP,Urban,Multijurisdictional,2024,True,53033,1.0,manual (sure)
+OA-0620,FY24R3,Burnett County Highway Department,WI,PD,AP_NEW,Rural,County,2024,True,55013,1.0,county name
+OA-0621,FY24R3,City of Berlin,WI,PD,AP+SUP,Rural,City,2024,True,55047,1.0,place name
+OA-0622,FY24R3,City of Eagle River,WI,PD,AP_NEW,Rural,City,2024,True,55125,1.0,place name
+OA-0623,FY24R3,City of Janesville and City of Milton,WI,PD,AP+SUP,Rural,MPO,2024,True,55105,1.0,manual (sure)
+OA-0624,FY24R3,Oneida County,WI,PD,AP_NEW,Rural,County,2024,True,55085,1.0,county name
+OA-0625,FY24R3,Ozaukee County,WI,PD,AP_NEW,Urban,County,2024,True,55089,1.0,county name
+OA-0626,FY24R3,Richland County,WI,PD,AP_NEW,Rural,County,2024,True,55103,1.0,county name
+OA-0627,FY24R3,"Village of Grafton, Wisconsin",WI,PD,AP+SUP,Rural,City,2024,True,55089,1.0,place name
+OA-0628,FY24R3,Pine Haven,WY,PD,AP_NEW,Rural,City,2024,True,56011,1.0,place name
+OA-0629,FY24R3,Town of Moorcroft,WY,PD,AP_NEW,Rural,City,2024,True,56011,1.0,place name
+OA-0630,FY24R3,Town of Wright,WY,PD,AP_NEW,Rural,City,2024,True,56005,1.0,place name

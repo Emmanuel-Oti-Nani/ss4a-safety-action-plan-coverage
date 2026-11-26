@@ -1,0 +1,630 @@
+FY22|City & Borough of Yakutat, Alaska|AK|IG||Rural|County
+FY22|City of Huntsville|AL|IG||Urban|City
+FY22|City of Troy, Alabama|AL|IG||Rural|City
+FY22|City of Dardanelle|AR|IG||Rural|City
+FY22|City of Jonesboro, AR|AR|IG||Rural|City
+FY22|City of Tempe|AZ|IG||Urban|City
+FY22|Town of Gilbert|AZ|IG||Urban|City
+FY22|Cahuilla Band of Indians|CA|IG||Rural|Tribe
+FY22|City of Azusa|CA|IG||Urban|City
+FY22|City of Berkeley|CA|IG||Urban|City
+FY22|City of Concord|CA|IG||Urban|City
+FY22|City of Corona|CA|IG||Urban|City
+FY22|City of Culver City|CA|IG||Urban|City
+FY22|City of Daly City|CA|IG||Urban|City
+FY22|City of Dublin|CA|IG||Urban|City
+FY22|City of El Monte|CA|IG||Urban|City
+FY22|City of Encinitas|CA|IG||Urban|City
+FY22|City of Escondido|CA|IG||Urban|City
+FY22|City of Fontana|CA|IG||Urban|City
+FY22|City of Glendale|CA|IG||Urban|City
+FY22|City of Indio|CA|IG||Urban|City
+FY22|City of King City|CA|IG||Rural|City
+FY22|City of Lancaster|CA|IG||Urban|City
+FY22|City of Livermore|CA|IG||Rural|City
+FY22|City of Long Beach|CA|IG||Urban|City
+FY22|City of Manhattan Beach|CA|IG||Urban|City
+FY22|City of Menifee|CA|IG||Urban|City
+FY22|City of Oakland|CA|IG||Urban|City
+FY22|City of Orland|CA|IG||Rural|City
+FY22|City of Perris|CA|IG||Urban|City
+FY22|City of Pomona|CA|IG||Urban|City
+FY22|City of Riverside|CA|IG||Urban|City
+FY22|City of Sacramento|CA|IG||Urban|City
+FY22|City of Salinas|CA|IG||Rural|City
+FY22|City of San Buenaventura|CA|IG||Urban|City
+FY22|City of San Jose|CA|IG||Urban|City
+FY22|City of San Luis Obispo|CA|IG||Rural|City
+FY22|City of San Rafael|CA|IG||Urban|City
+FY22|City of Santa Rosa|CA|IG||Urban|City
+FY22|City of Shasta Lake|CA|IG||Rural|City
+FY22|City of Simi Valley|CA|IG||Rural|City
+FY22|County of Contra Costa|CA|IG||Urban|County
+FY22|County of Lake|CA|IG||Rural|County
+FY22|County of San Diego|CA|IG||Urban|County
+FY22|County of Tulare|CA|IG||Urban|County
+FY22|Fresno Council of Governments|CA|IG||Urban|Regional
+FY22|San Bernardino County|CA|IG||Urban|County
+FY22|Solano Transportation Authority|CA|IG||Rural|Other
+FY22|Town of Truckee|CA|IG||Rural|City
+FY22|City of Fort Collins|CO|IG||Urban|City
+FY22|City of Louisville|CO|IG||Rural|City
+FY22|Connecticut Metropolitan Council of Governments|CT|IG||Urban|Regional
+FY22|Naugatuck Valley Council of Governments|CT|IG||Rural|Regional
+FY22|Southeastern Connecticut Council of Governments|CT|IG||Urban|Regional
+FY22|Town of East Haven|CT|IG||Urban|City
+FY22|Town of Farmington|CT|IG||Urban|Other
+FY22|Town of Litchfield|CT|IG||Rural|City
+FY22|Western Connecticut Council of Governments|CT|IG||Rural|Regional
+FY22|City of Clearwater|FL|IG||Urban|City
+FY22|City of Orlando|FL|IG||Urban|City
+FY22|City of Port St. Lucie|FL|IG||Urban|City
+FY22|City of St Petersburg|FL|IG||Urban|City
+FY22|Miami-Dade County|FL|IG||Urban|County
+FY22|City of Milton|GA|IG||Urban|City
+FY22|City of Savannah|GA|IG||Urban|City
+FY22|Macon-Bibb County|GA|IG||Rural|County
+FY22|City and County of Honolulu|HI|IG||Urban|County
+FY22|County of Maui|HI|IG||Rural|County
+FY22|City of Clinton, Iowa|IA|IG||Rural|City
+FY22|City of Davenport|IA|IG||Urban|City
+FY22|Champaign County Regional Planning Commission|IL|IG||Rural|County
+FY22|City of Chicago|IL|IG||Urban|City
+FY22|City of Evanston|IL|IG||Urban|City
+FY22|City of Quincy, Illinois|IL|IG||Rural|City
+FY22|Village of Niles|IL|IG||Urban|City
+FY22|Area Plan Commission of Tippecanoe County|IN|IG||Rural|County
+FY22|City of Carmel|IN|IG||Urban|City
+FY22|City of Fishers|IN|IG||Urban|City
+FY22|City Of New Albany, Indiana|IN|IG||Urban|City
+FY22|City of Westfield|IN|IG||Urban|City
+FY22|County of Boone|IN|IG||Rural|County
+FY22|County of Hancock|IN|IG||Urban|County
+FY22|Hamilton County, Indiana|IN|IG||Urban|County
+FY22|Indianapolis Public Transportation Corporation (IndyGo)|IN|IG||Urban|Other
+FY22|City of Manhattan|KS|IG||Rural|City
+FY22|Boone County Fiscal Court|KY|IG||Urban|County
+FY22|City of Paducah|KY|IG||Rural|City
+FY22|Henderson County Fiscal Court|KY|IG||Urban|County
+FY22|Village of Natchez|LA|IG||Rural|City
+FY22|City of Everett|MA|IG||Urban|City
+FY22|City of Quincy, MA|MA|IG||Urban|City
+FY22|Baltimore County|MD|IG||Urban|County
+FY22|City of Rockville|MD|IG||Urban|City
+FY22|Howard County of Maryland (Inc)|MD|IG||Urban|County
+FY22|Montgomery County, Maryland|MD|IG||Urban|County
+FY22|Bay Mills Indian Community|MI|IG||Rural|Tribe
+FY22|Beltrami County Hwy Dept|MN|IG||Rural|County
+FY22|Carver County|MN|IG||Urban|County
+FY22|City of Burnsville, MN_x000D_|MN|IG||Urban|City
+FY22|City of Minneapolis|MN|IG||Urban|City
+FY22|City of Independence, Missouri|MO|IG||Urban|City
+FY22|Jefferson County, MO|MO|IG||Rural|County
+FY22|St. Charles County|MO|IG||Urban|County
+FY22|Wright City, MO|MO|IG||Rural|City
+FY22|George County Board of Supervisors|MS|IG||Rural|County
+FY22|Town of Apex|NC|IG||Urban|City
+FY22|South Sioux City, City of|NE|IG||Rural|City
+FY22|City of Jersey City|NJ|IG||Urban|City
+FY22|City of Newark|NJ|IG||Urban|City
+FY22|Lacey Township|NJ|IG||Rural|City
+FY22|Middlesex County|NJ|IG||Urban|County
+FY22|STAFFORD, TOWNSHIP OF|NJ|IG||Urban|City
+FY22|Town of Hammonton|NJ|IG||Rural|City
+FY22|Albuquerque Public Schools|NM|IG||Urban|SpecialDistrict
+FY22|City of Farmington|NM|IG||Rural|City
+FY22|Carson City Regional Transportation Commission|NV|IG||Rural|City
+FY22|Regional Transportation Commission of Washoe County|NV|IG||Urban|Regional
+FY22|Chemung County|NY|IG||Rural|County
+FY22|Town of Mamaroneck|NY|IG||Urban|City
+FY22|City of Athens|OH|IG||Rural|City
+FY22|City of Cleveland|OH|IG||Urban|City
+FY22|City of Hilliard|OH|IG||Urban|City
+FY22|City of Portsmouth|OH|IG||Rural|City
+FY22|Franklin County Engineer's Office|OH|IG||Urban|County
+FY22|Sycamore Township, Ohio|OH|IG||Urban|City
+FY22|The City of Upper Arlington|OH|IG||Urban|City
+FY22|City of Edmond|OK|IG||Urban|City
+FY22|Lincoln County, Oklahoma|OK|IG||Rural|County
+FY22|City of Bend, Oregon|OR|IG||Rural|City
+FY22|City of Forest Grove|OR|IG||Urban|City
+FY22|Clackamas County|OR|IG||Urban|County
+FY22|County of Deschutes, Oregon|OR|IG||Rural|County
+FY22|City of Bethlehem|PA|IG||Urban|City
+FY22|Southwestern Pennsylvania Commission|PA|IG||Urban|Nonprofit
+FY22|City Of Newport|RI|IG||Urban|City
+FY22|City of Pawtucket|RI|IG||Urban|City
+FY22|City of Goose Creek|SC|IG||Urban|City
+FY22|City of West Columbia|SC|IG||Urban|City
+FY22|Metropolitan Government of Nashville and Davidson County|TN|IG||Urban|City
+FY22|Cameron County|TX|IG||Urban|County
+FY22|City of Boerne|TX|IG||Rural|City
+FY22|Harris County, Texas|TX|IG||Urban|County
+FY22|Los Fresnos|TX|IG||Urban|City
+FY22|North Central Texas Council of Governments|TX|IG||Urban|SpecialDistrict
+FY22|Primera|TX|IG||Rural|City
+FY22|San Benito|TX|IG||Rural|City
+FY22|Town of Trophy Club|TX|IG||Urban|City
+FY22|City of Vernal, UT|UT|IG||Rural|City
+FY22|Grand County, Utah|UT|IG||Rural|County
+FY22|Provo City|UT|IG||Urban|City
+FY22|Arlington County Division of Transportation|VA|IG||Urban|County
+FY22|City of Virginia Beach|VA|IG||Urban|City
+FY22|County of Fairfax, Virginia|VA|IG||Urban|County
+FY22|County of James City|VA|IG||Rural|County
+FY22|City of Burlington|VT|IG||Rural|City
+FY22|City of Bellevue|WA|IG||Urban|City
+FY22|City of College Place|WA|IG||Rural|City
+FY22|City of SeaTac|WA|IG||Urban|City
+FY22|City of Walla Walla|WA|IG||Rural|City
+FY22|Vancouver, WA|WA|IG||Urban|City
+FY22|City of West Bend|WI|IG||Rural|City
+FY22|Morgantown Monongalia Transportation Planning Organization|WV|IG||Rural|Regional
+FY22|City of Lander|WY|IG||Rural|City
+FY23|City of Huntsville|AL|IG||Urban|City
+FY23|City of Troy, Alabama|AL|IG||Rural|City
+FY23|City of Bentonville|AR|IG||Urban|City
+FY23|City of Rogers|AR|IG||Urban|City
+FY23|City of Tempe, Arizona|AR|IG||Urban|City
+FY23|Alameda County Transportation Commission|CA|IG||Urban|OtherSubdivision
+FY23|City of Alameda|CA|IG||Urban|City
+FY23|City of Azusa|CA|IG||Urban|City
+FY23|City of Bakersfield|CA|IG||Urban|City
+FY23|City of Carlsbad|CA|IG||Urban|City
+FY23|City of Corona|CA|IG||Urban|City
+FY23|City of Costa Mesa|CA|IG||Urban|City
+FY23|City of Encinitas|CA|IG||Urban|City
+FY23|City of Escondido|CA|IG||Urban|City
+FY23|City of Glendale, California|CA|IG||Urban|City
+FY23|City of Indio|CA|IG||Urban|City
+FY23|City of Inglewood|CA|IG||Urban|City
+FY23|City of La Verne|CA|IG||Urban|City
+FY23|City of Lake Elsinore|CA|IG||Urban|City
+FY23|City of Long Beach|CA|IG||Urban|City
+FY23|City of Los Angeles, Department of Public Works|CA|IG||Urban|City
+FY23|City of Monrovia|CA|IG||Urban|City
+FY23|City of Oakland, Department of Transportation|CA|IG||Urban|City
+FY23|City of Pacifica|CA|IG||Urban|City
+FY23|City of Palmdale|CA|IG||Urban|City
+FY23|City of Sacramento|CA|IG||Urban|City
+FY23|City of San Bruno|CA|IG||Urban|City
+FY23|City of Santa Maria|CA|IG||Rural|City
+FY23|City of Simi Valley|CA|IG||Rural|City
+FY23|City of South San Francisco|CA|IG||Urban|City
+FY23|Contra Costa County|CA|IG||Urban|County
+FY23|County of Lake|CA|IG||Rural|County
+FY23|County of San Mateo Department of Public Works|CA|IG||Urban|County
+FY23|Sacramento County Department of Transportation|CA|IG||Urban|County
+FY23|San Benito County|CA|IG||Rural|County
+FY23|Town of Paradise|CA|IG||Rural|City
+FY23|Tulare County Resource Management Agency|CA|IG||Rural|County
+FY23|Boulder County_1|CO|IG||Rural|County
+FY23|City and County of Denver|CO|IG||Urban|City
+FY23|City of Louisville|CO|IG||Urban|City
+FY23|Town of Silverton|CO|IG||Rural|City
+FY23|City of Norwalk Redevelopment Agency|CT|IG||Urban|City
+FY23|Stamford CT, Strawberry Hill Avenue Safety Improvement Project|CT|IG||Urban|City
+FY23|Town of Southington|CT|IG||Urban|City
+FY23|Town of Stratford|CT|IG||Urban|Multijurisdictional
+FY23|Town of Trumbull, CT|CT|IG||Urban|City
+FY23|City of Milford|DE|IG||Rural|City
+FY23|City of Port St. Lucie|FL|IG||Urban|City
+FY23|City of Tallahassee|FL|IG||Urban|City
+FY23|County of Manatee Board of County Commissioners|FL|IG||Urban|County
+FY23|Leon County|FL|IG||Urban|County
+FY23|Buckhead Community Improvement District|GA|IG||Urban|Multijurisdictional
+FY23|City of Savannah|GA|IG||Urban|City
+FY23|Cobb County Board of Commissioners|GA|IG||Urban|County
+FY23|City of Davenport, Iowa|IA|IG||Urban|City
+FY23|City of Des Moines|IA|IG||Urban|City
+FY23|City of Maquoketa|IA|IG||Rural|City
+FY23|Crawford County Iowa|IA|IG||Rural|County
+FY23|Linn County Secondary Road Department|IA|IG||Rural|County
+FY23|Lucas County, Iowa|IA|IG||Rural|County
+FY23|Winneshiek County Iowa|IA|IG||Rural|County
+FY23|Valley County|ID|IG||Rural|County
+FY23|City of Danville|IL|IG||Rural|City
+FY23|County of Schuyler|IL|IG||Rural|County
+FY23|City of Noblesville|IN|IG||Urban|City
+FY23|Madison County|IN|IG||Rural|County
+FY23|Boone County (KY)|KY|IG||Urban|County
+FY23|Town of Lexington|MA|IG||Urban|City
+FY23|Anne Arundel County|MD|IG||Urban|County
+FY23|Calvert County Department of Public Safety|MD|IG||Rural|County
+FY23|Salisbury, Maryland|MD|IG||Rural|City
+FY23|City of Bay City|MI|IG||Rural|City
+FY23|Tri-County Regional Planning Commission (MPO)|MI|IG||Urban|MPO
+FY23|Washtenaw County Road Commission|MI|IG||Urban|County
+FY23|Beltrami County|MN|IG||Rural|County
+FY23|Carver County|MN|IG||Urban|County
+FY23|City of Saint Paul|MN|IG||Urban|City
+FY23|City of Kansas City, Missouri|MO|IG||Urban|City
+FY23|Independence, Missouri|MO|IG||Urban|City
+FY23|St. Charles County|MO|IG||Urban|County
+FY23|Wright City, MO|MO|IG||Rural|City
+FY23|George County Board of Supervisors|MS|IG||Rural|County
+FY23|Middlesex County|NJ|IG||Urban|County
+FY23|Township of Stafford|NJ|IG||Urban|City
+FY23|Chemung County|NY|IG||Rural|County
+FY23|City of Kingston, NY|NY|IG||Rural|City
+FY23|Town of Mamaroneck|NY|IG||Urban|City
+FY23|City of Canal Winchester|OH|IG||Urban|City
+FY23|City of Green|OH|IG||Urban|City
+FY23|City of Reynoldsburg|OH|IG||Urban|City
+FY23|INCOG|OK|IG||Urban|MPO
+FY23|Tulsa County|OK|IG||Urban|County
+FY23|City of Forest Grove|OR|IG||Urban|City
+FY23|City of Newberg, Oregon|OR|IG||Rural|City
+FY23|City of Rogue River|OR|IG||Rural|City
+FY23|Upper Macungie Township|PA|IG||Urban|City
+FY23|City of Newport|RI|IG||Urban|City
+FY23|Pawtucket, RI|RI|IG||Urban|City
+FY23|City of Greenville, South Carolina|SC|IG||Urban|City
+FY23|City of Chattanooga|TN|IG||Urban|Multijurisdictional
+FY23|Wilson County Highway Department|TN|IG||Urban|OtherSubdivision
+FY23|Cameron County|TX|IG||Urban|County
+FY23|City of San Antonio|TX|IG||Urban|City
+FY23|Harris County|TX|IG||Urban|County
+FY23|Provo City|UT|IG||Urban|City
+FY23|Vernal City|UT|IG||Rural|City
+FY23|Arlington County, Virginia|VA|IG||Urban|County
+FY23|City of Alexandria, Virginia|VA|IG||Urban|City
+FY23|Virginia Commonwealth University|VA|IG||Urban|OtherSubdivision
+FY23|San Juan County|WA|IG||Rural|County
+FY23|Kenosha County, WI|WI|IG||Urban|County
+FY23|Sussex County Council|DE|PD||Rural|County
+FY23|City of Danielsville|GA|PD||Rural|City
+FY23|Town of Huntersville|NC|PD||Urban|City
+FY23|Bledsoe County Highway Department|TN|PD||Rural|County
+FY23|Fentress County Highway|TN|PD||Rural|County
+FY23|Metro Moore County Highway Dept.|TN|PD||Rural|County
+FY23|Montgomery County Highway Department|TN|PD||Urban|County
+FY24R2|Native Village of Chenega|AK|IG||Urban|Tribe
+FY24R2|City of Troy, Alabama|AL|IG||Rural|City
+FY24R2|Benton County|AR|IG||Urban|County
+FY24R2|City of Benton|AR|IG||Urban|City
+FY24R2|County of Washington|AR|IG||Urban|County
+FY24R2|Northwest Arkansas Regional Planning Commission|AR|IG||Urban|MPO
+FY24R2|Alameda County Transportation Commission|CA|IG||Urban|OtherSubdivision
+FY24R2|City of Artesia|CA|IG||Urban|City
+FY24R2|City of Camarillo|CA|IG||Rural|City
+FY24R2|City of Carlsbad|CA|IG||Urban|City
+FY24R2|City of Carpinteria|CA|IG||Urban|City
+FY24R2|City of Clearlake|CA|IG||Rural|City
+FY24R2|City of Concord|CA|IG||Urban|City
+FY24R2|City of Culver City|CA|IG||Urban|City
+FY24R2|City of Encinitas|CA|IG||Urban|City
+FY24R2|City of Escondido|CA|IG||Urban|City
+FY24R2|City of Glendale|CA|IG||Urban|City
+FY24R2|City of Manteca|CA|IG||Rural|City
+FY24R2|City of Menlo Park|CA|IG||Urban|City
+FY24R2|City of Patterson|CA|IG||Rural|City
+FY24R2|City of Redwood City CA|CA|IG||Urban|City
+FY24R2|City of San Diego, Transportation Department|CA|IG||Urban|City
+FY24R2|City of San Gabriel|CA|IG||Urban|City
+FY24R2|City of Santa Monica|CA|IG||Urban|City
+FY24R2|City of Santa Rosa|CA|IG||Urban|City
+FY24R2|City of Sunnyvale|CA|IG||Urban|City
+FY24R2|Contra Costa County - El Sobrante/Richmond Area|CA|IG||Urban|County
+FY24R2|Placer County|CA|IG||Urban|County
+FY24R2|San Francisco Municipal Transportation Agency|CA|IG||Urban|City
+FY24R2|San Joaquin County|CA|IG||Urban|County
+FY24R2|Town of Los Gatos SS4A Implementation Grant|CA|IG||Urban|City
+FY24R2|City of Durango|CO|IG||Rural|City
+FY24R2|City of Waterbury - Engineering Department|CT|IG||Rural|City
+FY24R2|Stamford Connecticut|CT|IG||Urban|City
+FY24R2|Town of Manchester, CT|CT|IG||Urban|City
+FY24R2|Town of Southington|CT|IG||Urban|City
+FY24R2|Eastern Shawnee Tribe of Oklahoma|Eastern Shawnee Tribe of Oklahoma|IG||Rural|Tribe?
+FY24R2|Leon County|FL|IG||Urban|County
+FY24R2|Martin County Board of County Commissioners|FL|IG||Urban|County
+FY24R2|City of Atlanta|GA|IG||Urban|City
+FY24R2|City Of Dunwoody|GA|IG||Urban|City
+FY24R2|City of Marietta|GA|IG||Urban|City
+FY24R2|Cobb County Board of Commissioners|GA|IG||Urban|County
+FY24R2|County of Hawaii|HI|IG||Rural|County
+FY24R2|County of Maui|HI|IG||Rural|County
+FY24R2|City of Davenport|IA|IG||Urban|City
+FY24R2|City of Maquoketa|IA|IG||Rural|City
+FY24R2|Linn County, Iowa|IA|IG||Rural|County
+FY24R2|Webster County Secondary Roads Department|IA|IG||Rural|County
+FY24R2|City of Anderson, Indiana|IN|IG||Rural|City
+FY24R2|City of Greenwood|IN|IG||Urban|City
+FY24R2|City of Hammond|IN|IG||Urban|City
+FY24R2|City of Noblesville|IN|IG||Urban|City
+FY24R2|Unified Government of Wyandotte County|KS|IG||Urban|County
+FY24R2|City of West Monroe, LA|LA|IG||Rural|City
+FY24R2|Lafayette City-Parish Consolidated Government|LA|IG||Urban|County
+FY24R2|Brockton|MA|IG||Urban|City
+FY24R2|Anne Arundel County|MD|IG||Urban|County
+FY24R2|frederick county, md|MD|IG||Rural|County
+FY24R2|Bay Mills Indian Community|MI|IG||Rural|Tribe
+FY24R2|Muskegon County Road Commission|MI|IG||Rural|County
+FY24R2|Carver County|MN|IG||Urban|County
+FY24R2|City of Independence|MO|IG||Urban|City
+FY24R2|City of Joplin, MO|MO|IG||Rural|City
+FY24R2|St. Charles County|MO|IG||Urban|County
+FY24R2|City of Gulfport, MS - Department of Engineering|MS|IG||Urban|City
+FY24R2|City of Charlotte|NC|IG||Urban|City
+FY24R2|City of Williston|ND|IG||Rural|City
+FY24R2|Standing Rock Sioux Tribe|ND|IG||Rural|Tribe
+FY24R2|City of Atlantic City|NJ|IG||Urban|City
+FY24R2|City of Newark, NJ|NJ|IG||Urban|City
+FY24R2|Cranbury Township Police Department|NJ|IG||Urban|City
+FY24R2|Township of Stafford|NJ|IG||Urban|City
+FY24R2|Albuquerque Public Schools|NM|IG||Urban|OtherSubdivision
+FY24R2|City of Santa Fe/Santa Fe|NM|IG||Rural|City
+FY24R2|Tahoe Transportation District|NV|IG||Rural|OtherSubdivision
+FY24R2|City of New Rochelle, NY|NY|IG||Urban|City
+FY24R2|City of Lakewood|OH|IG||Urban|City
+FY24R2|Columbiana County Engineer|OH|IG||Rural|County
+FY24R2|The City of Reynoldsburg, Ohio|OH|IG||Urban|City
+FY24R2|City of Independence, OR|OR|IG||Rural|City
+FY24R2|City of Rogue River|OR|IG||Rural|City
+FY24R2|City of Salem Oregon|OR|IG||Urban|City
+FY24R2|Montgomery County|TN|IG||Urban|County
+FY24R2|Cameron County|TX|IG||Urban|County
+FY24R2|City of La Marque|TX|IG||Rural|City
+FY24R2|Coryell County, TX|TX|IG||Rural|County
+FY24R2|Harris County, TX|TX|IG||Urban|County
+FY24R2|Layton City|UT|IG||Urban|City
+FY24R2|Sandy City, UT|UT|IG||Urban|City
+FY24R2|Arlington County, Virginia|VA|IG||Urban|County
+FY24R2|City of Virginia Beach|VA|IG||Urban|City
+FY24R2|Fairfax County Department of Transportation|VA|IG||Urban|County
+FY24R2|James City County|VA|IG||Rural|County
+FY24R2|City of Kenmore, WA|WA|IG||Urban|City
+FY24R2|CITY OF MONTESANO|WA|IG||Rural|City
+FY24R3|City of Fort Payne|AL|PD|AP+SUP|Rural|City
+FY24R3|City of Montgomery|AL|PD|AP+SUP|Urban|City
+FY24R3|Lee County Commission|AL|PD|AP_NEW|Urban|County
+FY24R3|City of Bentonville|AR|PD|AP+SUP|Urban|City
+FY24R3|City of Rogers|AR|PD|SUP|Urban|City
+FY24R3|City of Apache Junction|AZ|PD|AP_NEW|Urban|City
+FY24R3|City Of Bisbee|AZ|PD|SUP|Rural|City
+FY24R3|City of Flagstaff|AZ|PD|SUP|Rural|City
+FY24R3|City of Kingman|AZ|PD|AP+SUP|Rural|City
+FY24R3|Santa Cruz County|AZ|PD|SUP|Rural|County
+FY24R2|BEAR VALLEY|CA|PD|AP_NEW|Rural|OtherSubdivision
+FY24R3|Calipatria|CA|PD|AP_NEW|Rural|City
+FY24R3|City of Alhambra|CA|PD|AP+SUP|Urban|City
+FY24R3|City of Aliso Viejo|CA|PD|AP_NEW|Urban|City
+FY24R3|City of Brea|CA|PD|AP+SUP|Urban|City
+FY24R3|City of Claremont|CA|PD|SUP|Urban|City
+FY24R3|City of El Cajon|CA|PD|SUP|Urban|City
+FY24R3|City of Industry|CA|PD|AP_NEW|Urban|City
+FY24R3|City of Lemon Grove|CA|PD|AP_NEW|Urban|City
+FY24R3|City of Lemoore|CA|PD|AP_UPD|Rural|City
+FY24R3|City of Manhattan Beach|CA|PD|AP_UPD|Urban|City
+FY24R3|City of Murrieta|CA|PD|SUP|Urban|City
+FY24R3|City of Paso Robles|CA|PD|AP_UPD|Rural|City
+FY24R3|City of San Bruno|CA|PD|AP+SUP|Urban|City
+FY24R1|City of San Leandro|CA|PD|SUP|Urban|City
+FY24R3|City of San Rafael|CA|PD|AP+SUP|Urban|City
+FY24R3|City of Solvang|CA|PD|AP_UPD|Rural|City
+FY24R3|City of South Pasadena|CA|PD|AP+SUP|Urban|City
+FY24R3|City of Torrance|CA|PD|AP_NEW|Urban|City
+FY24R3|City of Visalia|CA|PD|AP_NEW|Rural|City
+FY24R3|City of Vista|CA|PD|SUP|Urban|City
+FY24R3|CSU Fullerton Auxiliary Services Corporation|CA|PD|AP+SUP|Urban|OtherSubdivision
+FY24R3|Eastern Contra Costa Transit Authority|CA|PD|AP+SUP|Urban|OtherSubdivision
+FY24R3|Ebbetts Pass Fire District|CA|PD|AP+SUP|Rural|OtherSubdivision
+FY24R3|Marin County|CA|PD|SUP|Urban|County
+FY24R3|Nevada City|CA|PD|AP_NEW|Rural|City
+FY24R3|Oakland Unified School District|CA|PD|SUP|Rural|OtherSubdivision
+FY24R3|Placer County Transportation Planning Agency|CA|PD|AP_NEW|Urban|OtherSubdivision
+FY24R3|Santa Clara Valley Transportation Authority|CA|PD|AP_NEW|Urban|OtherSubdivision
+FY24R3|Susanville Indian Rancheria|CA|PD|AP+SUP|Rural|Tribe
+FY24R3|University of California Irvine|CA|PD|SUP|Urban|OtherSubdivision
+FY24R3|Archuleta County|CO|PD|AP+SUP|Rural|County
+FY24R3|Douglas County|CO|PD|AP+SUP|Urban|County
+FY24R3|Eagle County Government|CO|PD|SUP|Rural|County
+FY24R3|Lake County|CO|PD|AP_NEW|Rural|County
+FY24R3|Town of Erie|CO|PD|AP_NEW|Rural|City
+FY24R3|Town of Minturn|CO|PD|SUP|Rural|City
+FY24R2|Coventry Police Department|CT|PD|AP_NEW|Rural|City
+FY24R3|Middletown|CT|PD|SUP|Urban|City
+FY24R3|Northwest Hills Council of Governments|CT|PD|AP_UPD|Rural|County
+FY24R3|Town of Old Saybrook|CT|PD|AP_NEW|Urban|City
+FY24R3|Town of Stonington|CT|PD|AP_NEW|Rural|City
+FY24R3|Town of Wilton|CT|PD|AP_NEW|Urban|City
+FY24R3|City of Milford|DE|PD|AP_NEW|Rural|City
+FY24R3|City of Apopka|FL|PD|SUP|Urban|City
+FY24R3|City of Bradenton|FL|PD|AP_NEW|Urban|City
+FY24R3|City of Holmes Beach|FL|PD|SUP|Urban|City
+FY24R3|City of Lynn Haven|FL|PD|AP_NEW|Rural|City
+FY24R3|City of Miami Gardens|FL|PD|SUP|Urban|City
+FY24R3|City of Newberry|FL|PD|SUP|Rural|City
+FY24R3|City of Plantation|FL|PD|SUP|Urban|City
+FY24R3|Santa Rosa County|FL|PD|SUP|Urban|County
+FY24R1|The Florida International University Board of Trustees|FL|PD|SUP|Urban|OtherSubdivision
+FY24R3|Town of Jupiter|FL|PD|AP_NEW|Urban|City
+FY24R3|Village of Wellington|FL|PD|SUP|Urban|City
+FY24R3|City of Lula|GA|PD|AP+SUP|Rural|City
+FY24R3|City of Powder Springs|GA|PD|AP_NEW|Urban|City
+FY24R3|City of Sandy Springs|GA|PD|AP+SUP|Urban|City
+FY24R3|City of South Fulton|GA|PD|AP_NEW|Urban|City
+FY24R3|Effingham County Board of Commissioners|GA|PD|SUP|Urban|County
+FY24R3|City of Boise|ID|PD|SUP|Urban|City
+FY24R3|City of Jerome|ID|PD|AP_NEW|Rural|City
+FY24R2|Boone County|IL|PD|SUP|Urban|County
+FY24R3|City of Belleville|IL|PD|SUP|Urban|City
+FY24R3|City of Wheaton|IL|PD|AP+SUP|Urban|City
+FY24R3|Lockport Township Road District|IL|PD|AP_NEW|Urban|City
+FY24R3|Mt. Hope-Funks Grove Fire Protection District|IL|PD|AP+SUP|Rural|OtherSubdivision
+FY24R3|City of Hobart|IN|PD|AP+SUP|Urban|City
+FY24R3|City of Lebanon|IN|PD|AP_NEW|Urban|City
+FY24R3|City of Westfield|IN|PD|AP_NEW|Urban|City
+FY24R3|Clark County Indiana|IN|PD|AP+SUP|Urban|County
+FY24R2|Fort Wayne City Utilities|IN|PD|SUP|Urban|City
+FY24R3|Town of Edinburgh|IN|PD|AP_NEW|Rural|City
+FY24R3|Town of Montgomery|IN|PD|AP+SUP|Rural|City
+FY24R3|Town of New Whiteland|IN|PD|AP+SUP|Urban|City
+FY24R3|Town of Santa Claus|IN|PD|AP_NEW|Rural|City
+FY24R3|City of Basehor|KS|PD|AP+SUP|Urban|City
+FY24R3|Junction City|KS|PD|AP+SUP|Rural|City
+FY24R3|Spring Hill|KS|PD|SUP|Rural|City
+FY24R3|Sterling Police Department|KS|PD|AP+SUP|Rural|City
+FY24R3|City of Franklin|KY|PD|SUP|Rural|City
+FY24R3|Louisiana State University|LA|PD|AP_NEW|Urban|OtherSubdivision
+FY24R3|Southern University Law Center and Scotlandville|LA|PD|AP+SUP|Rural|OtherSubdivision
+FY24R3|Barnstable County and Cape Cod Commission|MA|PD|SUP|Urban|County
+FY24R3|Falmouth|MA|PD|SUP|Urban|City
+FY24R3|FRCOG|MA|PD|SUP|Rural|MPO
+FY24R3|Merrimack Valley Planning Commission|MA|PD|SUP|Urban|MPO
+FY24R3|Northern Middlesex Council of Governments|MA|PD|SUP|Urban|MPO
+FY24R3|Town of Braintree|MA|PD|AP_NEW|Urban|City
+FY24R3|Town of Dedham|MA|PD|SUP|Urban|City
+FY24R3|Town of Provincetown|MA|PD|SUP|Rural|City
+FY24R3|Town of Stoughton|MA|PD|SUP|Urban|City
+FY24R3|Town of Weymouth|MA|PD|AP+SUP|Urban|City
+FY24R3|Town of Winchendon|MA|PD|AP_NEW|Rural|City
+FY24R3|City of Havre de Grace|MD|PD|AP+SUP|Urban|City
+FY24R3|Harford County Government|MD|PD|AP_UPD|Urban|County
+FY24R3|Mayor and City Council of Baltimore|MD|PD|SUP|Urban|City
+FY24R3|Town of Kensington|MD|PD|SUP|Urban|City
+FY24R3|Town of Port Deposit|MD|PD|AP+SUP|Rural|City
+FY24R3|City of Waterville|ME|PD|AP_NEW|Rural|City
+FY24R3|Town of Gorham|ME|PD|SUP|Urban|City
+FY24R3|Calhoun County Consolidated Dispatch Authority|MI|PD|SUP|Rural|County
+FY24R3|City of Eastpointe|MI|PD|AP+SUP|Urban|City
+FY24R3|City of Ecorse|MI|PD|AP+SUP|Urban|City
+FY24R3|City of Gross Pointe Woods|MI|PD|AP+SUP|Urban|City
+FY24R3|City of Roseville|MI|PD|AP+SUP|Urban|City
+FY24R3|City of Troy|MI|PD|AP+SUP|Urban|City
+FY24R3|Clinton County Road Commission|MI|PD|AP_NEW|Urban|County
+FY24R2|Grand Traverse County Road Commission|MI|PD|AP_NEW|Rural|County
+FY24R3|City of Chaska|MN|PD|AP+SUP|Urban|City
+FY24R3|City of Minneapolis|MN|PD|SUP|Urban|City
+FY24R3|City of Woodbury|MN|PD|SUP|Urban|City
+FY24R3|Douglas County Public Works|MN|PD|AP_NEW|Rural|County
+FY24R3|Rice County Minnesota|MN|PD|AP_NEW|Rural|County
+FY24R3|Steele County|MN|PD|AP_NEW|Rural|County
+FY24R2|City of Bowling Green|MO|PD|AP_NEW|Rural|City
+FY24R3|City of Festus|MO|PD|AP+SUP|Urban|City
+FY24R3|City of Brookhaven|MS|PD|AP_NEW|Rural|City
+FY24R3|City of McComb|MS|PD|SUP|Rural|City
+FY24R3|City of Durham|NC|PD|SUP|Urban|City
+FY24R3|City of Graham|NC|PD|SUP|Rural|City
+FY24R3|Sandhills MPO|NC|PD|AP_NEW|Rural|MPO
+FY24R3|Town of Matthews|NC|PD|SUP|Urban|City
+FY24R3|Town of Southern Shores|NC|PD|AP_NEW|Rural|City
+FY24R3|Village of Clemmons|NC|PD|SUP|Urban|City
+FY24R3|Three Affiliated Tribes|ND|PD|AP_NEW|Rural|Tribe
+FY24R3|City of Kearney|NE|PD|AP_NEW|Rural|City
+FY24R3|City of McCook|NE|PD|AP_NEW|Rural|City
+FY24R3|City of Claremont|NH|PD|SUP|Rural|City
+FY24R3|City of Lebanon|NH|PD|AP+SUP|Rural|City
+FY24R3|Borough of Wildwood Crest|NJ|PD|AP+SUP|Urban|City
+FY24R3|City of Elizabeth|NJ|PD|AP+SUP|Urban|City
+FY24R3|City of Linden|NJ|PD|AP_NEW|Urban|City
+FY24R3|City of Summit|NJ|PD|AP_NEW|Urban|City
+FY24R3|Deptford Township|NJ|PD|AP+SUP|Urban|City
+FY24R3|Lakewood Township|NJ|PD|AP+SUP|Urban|City
+FY24R3|Middlesex County|NJ|PD|SUP|Urban|County
+FY24R3|New Jersey Sports and Exposition Authority|NJ|PD|AP+SUP|Urban|OtherSubdivision
+FY24R3|Town of Kearny|NJ|PD|SUP|Urban|City
+FY24R3|Township of Berkeley Heights|NJ|PD|AP_NEW|Urban|City
+FY24R3|Township of Livingstion|NJ|PD|AP_NEW|Urban|City
+FY24R3|City of Alamogordo|NM|PD|AP+SUP|Rural|City
+FY24R3|City of Sunland Park|NM|PD|AP+SUP|Urban|City
+FY24R3|University of New Mexico|NM|PD|AP_NEW|Urban|OtherSubdivision
+FY24R3|City of Henderson|NV|PD|AP_NEW|Urban|City
+FY24R3|Endicott|NY|PD|AP_NEW|Rural|City
+FY24R3|Inc Village of Garden City|NY|PD|AP+SUP|Urban|OtherSubdivision
+FY24R3|Somers|NY|PD|AP_NEW|Urban|City
+FY24R3|Stony Brook University|NY|PD|AP+SUP|Urban|OtherSubdivision
+FY24R3|Town of Babylon|NY|PD|AP_NEW|Urban|City
+FY24R3|Town of Clarkstown|NY|PD|AP_NEW|Urban|City
+FY24R3|Town of Hornellsville|NY|PD|AP_NEW|Rural|City
+FY24R3|Town of Mamaroneck|NY|PD|AP+SUP|Urban|City
+FY24R3|Town of Pittsford|NY|PD|SUP|Urban|City
+FY24R3|Ulster County|NY|PD|AP+SUP|Urban|MPO
+FY24R3|Village of Orchard Park|NY|PD|AP+SUP|Urban|City
+FY24R1|Brookside|OH|PD|AP_NEW|Rural|City
+FY24R3|Butler County Engineer's Office|OH|PD|AP_NEW|Urban|County
+FY24R3|City of Canton|OH|PD|SUP|Urban|City
+FY24R3|City of Delaware|OH|PD|SUP|Urban|City
+FY24R3|City of Loveland|OH|PD|AP_NEW|Urban|City
+FY24R3|City of Medina|OH|PD|AP_NEW|Rural|City
+FY24R3|City of Oxford|OH|PD|AP_NEW|Rural|City
+FY24R3|City of Powell|OH|PD|AP_NEW|Urban|City
+FY24R3|City of Wauseon|OH|PD|AP+SUP|Rural|City
+FY24R3|City of Westlake|OH|PD|AP+SUP|Urban|City
+FY24R3|New Philadelphia|OH|PD|SUP|Rural|City
+FY24R3|Northeast Ohio Public Energy Council|OH|PD|SUP|Urban|OtherSubdivision
+FY24R3|Warren County Transportation Improvement District|OH|PD|AP_NEW|Urban|County
+FY24R3|Cherokee Nation|OK|PD|SUP|Urban|Tribe
+FY24R3|City of Alva|OK|PD|AP_NEW|Rural|City
+FY24R3|City of Yukon|OK|PD|AP_NEW|Urban|City
+FY24R3|City of Hillsboro Public Works|OR|PD|SUP|Urban|County
+FY24R3|City of Silverton|OR|PD|AP_NEW|Rural|City
+FY24R3|Lane Council of Governments|OR|PD|AP+SUP|Urban|MPO
+FY24R3|Milton-Freewater|OR|PD|AP_NEW|Rural|City
+FY24R3|Oregon Cascades West Council of Governments|OR|PD|AP+SUP|Rural|Multijurisdictional
+FY24R3|Philomath|OR|PD|AP+SUP|Rural|City
+FY24R3|Umatilla County|OR|PD|SUP|Rural|County
+FY24R3|Borough of Crafton|PA|PD|AP+SUP|Urban|City
+FY24R3|Borough of Sewickley|PA|PD|AP+SUP|Urban|City
+FY24R3|City of Reading|PA|PD|SUP|Urban|City
+FY24R3|Haverford|PA|PD|AP+SUP|Urban|City
+FY24R2|Kulpmont Borough|PA|PD|AP_NEW|Rural|OtherSubdivision
+FY24R3|Lower Merion School District|PA|PD|SUP|Urban|OtherSubdivision
+FY24R3|Palmer Township|PA|PD|AP_NEW|Urban|City
+FY24R2|The Town of Bloomsburg|PA|PD|SUP|Rural|City
+FY24R3|Upper Providence Township|PA|PD|AP_NEW|Urban|City
+FY24R3|Municipio de Dorado|PR|PD|AP+SUP|Urban|City
+FY24R3|Beaufort County|SC|PD|SUP|Rural|County
+FY24R3|City of Gallatin|TN|PD|AP_NEW|Urban|City
+FY24R3|City of Lawrenceburg|TN|PD|AP+SUP|Rural|City
+FY24R3|Jefferson County|TN|PD|AP_NEW|Rural|County
+FY24R3|Town of Smyrna|TN|PD|AP+SUP|Urban|City
+FY24R3|Wilson County Road Commission|TN|PD|AP+SUP|Urban|County
+FY24R3|Chambers County|TX|PD|AP_NEW|Urban|County
+FY24R3|City of Fort Worth|TX|PD|SUP|Urban|City
+FY24R3|City of Glenn Heights|TX|PD|AP+SUP|Urban|City
+FY24R3|City of Little River-Academy|TX|PD|SUP|Rural|City
+FY24R3|City of Mexia|TX|PD|AP_NEW|Rural|City
+FY24R3|City of Richardson|TX|PD|SUP|Urban|City
+FY24R3|City of San Angelo|TX|PD|SUP|Rural|City
+FY24R3|City of Uvalde|TX|PD|AP+SUP|Rural|City
+FY24R3|City of Wilmer|TX|PD|AP_NEW|Urban|City
+FY24R3|Cottonwood Shores|TX|PD|AP_NEW|Rural|City
+FY24R3|Kickapoo Traditional Tribe of Texas|TX|PD|AP_UPD|Rural|Tribe
+FY24R3|Schleicher County|TX|PD|AP_NEW|Rural|County
+FY24R3|Trinity County|TX|PD|AP+SUP|Rural|County
+FY24R2|Watauga Police Department|TX|PD|SUP|Urban|City
+FY24R3|City of Park City|UT|PD|SUP|Rural|City
+FY24R3|City of Providence|UT|PD|AP+SUP|Rural|City
+FY24R3|Lehi City|UT|PD|SUP|Urban|City
+FY24R3|Logan City|UT|PD|SUP|Rural|City
+FY24R3|Midway City|UT|PD|AP+SUP|Rural|City
+FY24R2|Morgan County - Utah|UT|PD|AP+SUP|Rural|County
+FY24R3|Nibley City|UT|PD|SUP|Rural|City
+FY24R3|The University of Utah and Salt Lake City|UT|PD|SUP|Urban|Multijurisdictional
+FY24R3|Washington City|UT|PD|AP+SUP|Rural|City
+FY24R3|City of Alexandria|VA|PD|SUP|Urban|City
+FY24R3|City of Bristol|VA|PD|AP+SUP|Rural|City
+FY24R3|City of Charlottesville|VA|PD|SUP|Rural|City
+FY24R3|City of Manassas Park|VA|PD|SUP|Urban|City
+FY24R3|City of Suffolk|VA|PD|AP_NEW|Urban|City
+FY24R3|Town of Hillsboro|VA|PD|AP+SUP|Rural|City
+FY24R3|Town of Rocky Mount|VA|PD|AP_NEW|Rural|City
+FY24R3|City of Burlington|VT|PD|SUP|Rural|City
+FY24R3|City of Entiat|WA|PD|AP_NEW|Rural|City
+FY24R3|City of Granite Falls|WA|PD|AP_NEW|Rural|City
+FY24R3|City of Monroe|WA|PD|AP+SUP|Rural|City
+FY24R3|City of Othello|WA|PD|AP_NEW|Rural|City
+FY24R3|Lake Chelan|WA|PD|SUP|Rural|County
+FY24R3|University of Washington|WA|PD|AP+SUP|Urban|Multijurisdictional
+FY24R3|Burnett County Highway Department|WI|PD|AP_NEW|Rural|County
+FY24R3|City of Berlin|WI|PD|AP+SUP|Rural|City
+FY24R3|City of Eagle River|WI|PD|AP_NEW|Rural|City
+FY24R3|City of Janesville and City of Milton|WI|PD|AP+SUP|Rural|MPO
+FY24R3|Oneida County|WI|PD|AP_NEW|Rural|County
+FY24R3|Ozaukee County|WI|PD|AP_NEW|Urban|County
+FY24R3|Richland County|WI|PD|AP_NEW|Rural|County
+FY24R3|Village of Grafton, Wisconsin|WI|PD|AP+SUP|Rural|City
+FY24R3|Pine Haven|WY|PD|AP_NEW|Rural|City
+FY24R3|Town of Moorcroft|WY|PD|AP_NEW|Rural|City
+FY24R3|Town of Wright|WY|PD|AP_NEW|Rural|City

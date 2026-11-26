@@ -18,3 +18,21 @@
 2026-11-10 | FY25-SS4A-Award-List-FY2025.xlsx | 156959 bytes | sha256:c2b888bc2a370ca8d43d4e72eff1a167e39e07a2c40737ddafe44f69cae659b1 | https://www.transportation.gov/sites/dot.gov/files/2026-04/FY25-SS4A-Award-List-FY2025.xlsx | DOT official FY2025 award list (521 awards); read in a web browser; state-by-state check; confirms Town of Charlestown is in NH
 2026-11-10 | FY26_SS4A_AwardList.xlsx | 115664 bytes | sha256:1c81d8e504c7df3aa5d63ee3f60ee58517c40a1e86c8520135068aa103024f60 | https://www.transportation.gov/sites/dot.gov/files/2026-10/FY26_SS4A_AwardList.xlsx | DOT official FY2026 award list (297 awards); read in a web browser; state-by-state check; confirms Beaverhead County MT countywide action plan
 2026-11-10 | est23all.txt | 846940 bytes | sha256:630fa63ab002ef6e78c5dde6783619641b4c5ef480d494f2e3f1dc35e939de27 | https://www2.census.gov/programs-surveys/saipe/datasets/2023/2023-state-and-county/est23all.txt | Census SAIPE 2023 county poverty and median household income
+
+## Additions for version 1.1.0 (November 19, 2026)
+ss4a_other_applicants_fy22_fy24.txt
+  Source: DOT "SS4A Other Applicants" lists (eligible applications not funded), read in a web browser:
+    https://www.transportation.gov/sites/dot.gov/files/2025-03/FY22-SS4A-Other-Applicants-March2025.xlsx (163 rows; Implementation only)
+    https://www.transportation.gov/sites/dot.gov/files/2025-03/FY23-SS4A-Other-Applicants-March2025.xlsx (118 rows; Implementation and Planning/Demonstration)
+    https://www.transportation.gov/sites/dot.gov/files/2025-03/FY24-SS4A-Other-Applicants-March2025.xlsx (349 rows; three FY24 application rounds)
+  No lists are published for FY2025 or FY2026 (pages return 404 on November 19, 2026).
+  Fields kept: round | lead applicant | state | grant type (IG/PD) | planning activity (FY24 PD only) | DOT rural/urban | applicant type.
+  Transfer check: FNV-1a fingerprint of the 630 lines computed in the browser and here (F4228914781, 30,957 bytes).
+hpms_2024_county_vmt.csv
+  Source: FHWA HPMS 2024 public feature services, https://geo.dot.gov/server/rest/services/Hosted/HPMS_FULL_<ST>_2024/FeatureServer/0
+  Query: sum(aadt*sectionlength) and sum(sectionlength) by county_id, same road filter as Project 1 (code/10_fetch_vmt.py), November 19, 2026.
+  Coverage: 3,141 of 3,143 counties; about 2.9 trillion annual vehicle-miles nationally (local roads largely without traffic counts).
+  Code change applied: 46113 -> 46102 (Oglala Lakota County, SD).
+cb_2020_us_cousub_500k.zip  sha256 8b4af9019d8e72677f1181554cae996e470b0bb3b5ffc0d0a67a50ece4e6fc10  (Census cartographic boundary file)
+cb_2020_us_aiannh_500k.zip  sha256 8ed867dc2af5e795837db22632ec62aa7bc753ecdc42e317e30f8dd8ebbbdba5  (Census cartographic boundary file)
+applicant_county_overrides.csv  92 hand placements with certainty (sure/regional/uncertain) and reason.

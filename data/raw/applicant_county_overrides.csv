@@ -1,0 +1,93 @@
+app_id,applicant,state,matched_to,county_fips,certainty,reason
+OA-0001,"City & Borough of Yakutat, Alaska",AK,Yakutat City and Borough,02282,sure,consolidated city and borough
+OA-0008,Cahuilla Band of Indians,CA,Cahuilla Reservation (Riverside County),06065,sure,tribal reservation location
+OA-0035,City of San Buenaventura,CA,Ventura city,06111,sure,San Buenaventura is the legal name of Ventura
+OA-0046,Fresno Council of Governments,CA,Fresno County,06019,regional,regional body; service area = Fresno County
+OA-0048,Solano Transportation Authority,CA,Solano County,06095,regional,county transportation authority
+OA-0052,Connecticut Metropolitan Council of Governments,CT,Fairfield County (Greater Bridgeport),09001,regional,regional body; member towns in Fairfield County
+OA-0053,Naugatuck Valley Council of Governments,CT,New Haven and Litchfield counties,09009;09005,regional,regional body; member towns span two counties
+OA-0054,Southeastern Connecticut Council of Governments,CT,New London County,09011,regional,regional body; member towns in New London County
+OA-0058,Western Connecticut Council of Governments,CT,Fairfield County,09001,regional,regional body; member towns in Fairfield County
+OA-0066,Macon-Bibb County,GA,Bibb County,13021,sure,consolidated city-county
+OA-0067,City and County of Honolulu,HI,Honolulu County,15003,sure,consolidated city-county
+OA-0071,Champaign County Regional Planning Commission,IL,Champaign County,17019,regional,county regional planning commission
+OA-0076,Area Plan Commission of Tippecanoe County,IN,Tippecanoe County,18157,regional,county plan commission
+OA-0084,Indianapolis Public Transportation Corporation (IndyGo),IN,Marion County,18097,sure,transit agency serving Indianapolis-Marion County
+OA-0096,Bay Mills Indian Community,MI,Chippewa County,26033,sure,tribal reservation location
+OA-0104,"Wright City, MO",MO,Warren County,29219,sure,Wright City is in Warren County
+OA-0107,"South Sioux City, City of",NE,Dakota County,31043,sure,South Sioux City is in Dakota County
+OA-0114,Albuquerque Public Schools,NM,Bernalillo County,35001,sure,school district in Albuquerque
+OA-0116,Carson City Regional Transportation Commission,NV,Carson City,32510,sure,consolidated municipality
+OA-0117,Regional Transportation Commission of Washoe County,NV,Washoe County,32031,regional,county regional transportation commission
+OA-0134,Southwestern Pennsylvania Commission,PA,10-county Pittsburgh region,42003;42005;42007;42019;42051;42059;42063;42073;42125;42129,regional,regional body; project location not given in DOT list
+OA-0139,Metropolitan Government of Nashville and Davidson County,TN,Davidson County,47037,sure,consolidated city-county
+OA-0143,Los Fresnos,TX,Cameron County,48061,sure,Los Fresnos is in Cameron County
+OA-0144,North Central Texas Council of Governments,TX,16-county Dallas-Fort Worth region,48085;48113;48121;48139;48143;48221;48231;48251;48257;48349;48363;48367;48397;48425;48439;48497,regional,regional body; project location not given in DOT list
+OA-0162,Morgantown Monongalia Transportation Planning Organization,WV,Monongalia County,54061,regional,MPO for Monongalia County
+OA-0168,"City of Tempe, Arizona",AR,Maricopa County AZ,04013,sure,DOT list gives state AR in error; Tempe is in Maricopa County AZ
+OA-0196,County of San Mateo Department of Public Works,CA,San Mateo County,06081,sure,county government
+OA-0202,City and County of Denver,CO,Denver County,08031,sure,consolidated city-county
+OA-0213,County of Manatee Board of County Commissioners,FL,Manatee County,12081,sure,county government
+OA-0215,Buckhead Community Improvement District,GA,Fulton County,13121,sure,district in Atlanta (Fulton County)
+OA-0236,Tri-County Regional Planning Commission (MPO),MI,"Clinton, Eaton and Ingham counties",26037;26045;26065,regional,MPO for the Lansing region
+OA-0244,"Wright City, MO",MO,Warren County,29219,sure,Wright City is in Warren County
+OA-0254,INCOG,OK,"Tulsa, Creek and Osage counties",40143;40037;40113,regional,regional council (Indian Nations Council of Governments)
+OA-0272,Virginia Commonwealth University,VA,Richmond city,51760,sure,university in Richmond
+OA-0282,Native Village of Chenega,AK,Chugach Census Area,02063,sure,village location
+OA-0287,Northwest Arkansas Regional Planning Commission,AR,Benton and Washington counties,05007;05143,regional,MPO for northwest Arkansas
+OA-0310,San Francisco Municipal Transportation Agency,CA,San Francisco County,06075,sure,city-county agency
+OA-0318,Eastern Shawnee Tribe of Oklahoma,OK,Ottawa County,40115,sure,DOT list gives tribe name as state; tribal headquarters and lands in Ottawa County OK
+OA-0335,Unified Government of Wyandotte County,KS,Wyandotte County,20209,sure,consolidated city-county
+OA-0341,Bay Mills Indian Community,MI,Chippewa County,26033,sure,tribal reservation location
+OA-0350,Standing Rock Sioux Tribe,ND,Sioux County ND and Corson County SD,38085;46031,regional,reservation spans two counties
+OA-0353,Cranbury Township Police Department,NJ,Middlesex County,34023,sure,Cranbury Township is in Middlesex County
+OA-0355,Albuquerque Public Schools,NM,Bernalillo County,35001,sure,school district in Albuquerque
+OA-0357,Tahoe Transportation District,NV,Lake Tahoe Basin counties,32005;32031;06017;06061,regional,bi-state district; project location not given
+OA-0388,BEAR VALLEY,CA,Kern County (Bear Valley Springs),06029,uncertain,name only; most likely Bear Valley Community Services District (Kern County); verify
+OA-0409,CSU Fullerton Auxiliary Services Corporation,CA,Orange County,06059,sure,university in Fullerton
+OA-0410,Eastern Contra Costa Transit Authority,CA,Contra Costa County,06013,sure,transit agency (Tri Delta Transit)
+OA-0411,Ebbetts Pass Fire District,CA,Calaveras County,06009,sure,fire district based in Arnold (Calaveras County)
+OA-0413,Nevada City,CA,Nevada County,06057,sure,Nevada City is in Nevada County
+OA-0414,Oakland Unified School District,CA,Alameda County,06001,sure,school district in Oakland
+OA-0416,Santa Clara Valley Transportation Authority,CA,Santa Clara County,06085,sure,county transit agency
+OA-0417,Susanville Indian Rancheria,CA,Lassen County,06035,sure,rancheria location
+OA-0418,University of California Irvine,CA,Orange County,06059,sure,university in Irvine
+OA-0425,Coventry Police Department,CT,Tolland County,09013,sure,Coventry CT is in Tolland County
+OA-0427,Northwest Hills Council of Governments,CT,Litchfield County,09005,regional,regional body; member towns in Litchfield County
+OA-0438,City of Plantation,FL,Broward County,12011,sure,Plantation is in Broward County
+OA-0440,The Florida International University Board of Trustees,FL,Miami-Dade County,12086,sure,university in Miami
+OA-0448,City of Boise,ID,Ada County,16001,sure,Census place name is Boise City
+OA-0453,Lockport Township Road District,IL,Will County,17197,sure,Lockport Township is in Will County
+OA-0454,Mt. Hope-Funks Grove Fire Protection District,IL,McLean County,17113,sure,fire district in McLean County
+OA-0467,Sterling Police Department,KS,Rice County,20159,sure,Sterling KS is in Rice County
+OA-0469,Louisiana State University,LA,East Baton Rouge Parish,22033,sure,university in Baton Rouge
+OA-0470,Southern University Law Center and Scotlandville,LA,East Baton Rouge Parish,22033,sure,Baton Rouge
+OA-0473,FRCOG,MA,Franklin County,25011,regional,Franklin Regional Council of Governments
+OA-0474,Merrimack Valley Planning Commission,MA,Essex County,25009,regional,regional body; member towns in Essex County
+OA-0475,Northern Middlesex Council of Governments,MA,Middlesex County,25017,regional,regional body; member towns in Middlesex County
+OA-0476,Town of Braintree,MA,Norfolk County,25021,sure,Braintree Town is in Norfolk County
+OA-0480,Town of Weymouth,MA,Norfolk County,25021,sure,Weymouth Town is in Norfolk County
+OA-0484,Mayor and City Council of Baltimore,MD,Baltimore city,24510,sure,independent city
+OA-0489,Calhoun County Consolidated Dispatch Authority,MI,Calhoun County,26025,sure,county authority
+OA-0492,City of Gross Pointe Woods,MI,Wayne County,26163,sure,Grosse Pointe Woods (misspelled in DOT list) is in Wayne County
+OA-0509,Sandhills MPO,NC,,,uncertain,service area could not be identified from the name; left unassigned
+OA-0513,Three Affiliated Tribes,ND,Fort Berthold Reservation counties,38025;38053;38055;38057;38061,regional,reservation spans five counties
+OA-0525,New Jersey Sports and Exposition Authority,NJ,Bergen County,34003,sure,Meadowlands complex
+OA-0528,Township of Livingstion,NJ,Essex County,34013,sure,Livingston Township (misspelled in DOT list) is in Essex County
+OA-0531,University of New Mexico,NM,Bernalillo County,35001,sure,university in Albuquerque
+OA-0536,Stony Brook University,NY,Suffolk County,36103,sure,university in Stony Brook
+OA-0555,Northeast Ohio Public Energy Council,OH,,,uncertain,multi-county energy council; project location not given; left unassigned
+OA-0556,Warren County Transportation Improvement District,OH,Warren County,39165,sure,county district
+OA-0557,Cherokee Nation,OK,14-county Cherokee Nation reservation,40001;40021;40035;40041;40091;40097;40101;40105;40115;40131;40135;40143;40145;40147,regional,reservation spans 14 counties; project location not given
+OA-0562,Lane Council of Governments,OR,Lane County,41039,regional,regional body for Lane County
+OA-0564,Oregon Cascades West Council of Governments,OR,"Benton, Lincoln and Linn counties",41003;41041;41043,regional,regional body
+OA-0572,Lower Merion School District,PA,Montgomery County,42091,sure,school district in Lower Merion Township
+OA-0575,Upper Providence Township,PA,Montgomery County,42091,uncertain,two townships share the name (Montgomery and Delaware counties); Montgomery assumed; verify
+OA-0576,Municipio de Dorado,PR,Dorado Municipio,72051,sure,Puerto Rico (outside the study area)
+OA-0593,Kickapoo Traditional Tribe of Texas,TX,Maverick County,48323,sure,reservation near Eagle Pass
+OA-0596,Watauga Police Department,TX,Tarrant County,48439,sure,Watauga TX is in Tarrant County
+OA-0604,The University of Utah and Salt Lake City,UT,Salt Lake County,49035,sure,Salt Lake City
+OA-0605,Washington City,UT,Washington County,49053,sure,Washington City is in Washington County
+OA-0618,Lake Chelan,WA,Chelan County,53007,sure,Lake Chelan area (DOT type County)
+OA-0619,University of Washington,WA,King County,53033,sure,university in Seattle
+OA-0623,City of Janesville and City of Milton,WI,Rock County,55105,sure,both cities are in Rock County

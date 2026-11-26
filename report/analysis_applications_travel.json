@@ -1,0 +1,163 @@
+{
+ "applicants": {
+  "n_lists_rows": 630,
+  "n_placed": 628,
+  "n_unassigned": 2,
+  "rows_by_round": {
+   "FY22": 163,
+   "FY23": 118,
+   "FY24R1": 3,
+   "FY24R2": 106,
+   "FY24R3": 240
+  },
+  "gap_any_unfunded": 7,
+  "gap_direct_unfunded": 3,
+  "gap_no_record": 283,
+  "gap_no_record_no_award": 255,
+  "gap_n": 290,
+  "gap_with_unfunded_list": [
+   {
+    "fips": "08111",
+    "county_name": "San Juan County",
+    "state": "CO",
+    "unfunded_applicants": "Town of Silverton",
+    "unfunded_rounds": "FY23",
+    "n_unfunded_direct": 1
+   },
+   {
+    "fips": "17169",
+    "county_name": "Schuyler County",
+    "state": "IL",
+    "unfunded_applicants": "County of Schuyler",
+    "unfunded_rounds": "FY23",
+    "n_unfunded_direct": 1
+   },
+   {
+    "fips": "38053",
+    "county_name": "McKenzie County",
+    "state": "ND",
+    "unfunded_applicants": "Three Affiliated Tribes",
+    "unfunded_rounds": "FY24R3",
+    "n_unfunded_direct": 0
+   },
+   {
+    "fips": "38061",
+    "county_name": "Mountrail County",
+    "state": "ND",
+    "unfunded_applicants": "Three Affiliated Tribes",
+    "unfunded_rounds": "FY24R3",
+    "n_unfunded_direct": 0
+   },
+   {
+    "fips": "46031",
+    "county_name": "Corson County",
+    "state": "SD",
+    "unfunded_applicants": "Standing Rock Sioux Tribe",
+    "unfunded_rounds": "FY24R2",
+    "n_unfunded_direct": 0
+   },
+   {
+    "fips": "47007",
+    "county_name": "Bledsoe County",
+    "state": "TN",
+    "unfunded_applicants": "Bledsoe County Highway Department",
+    "unfunded_rounds": "FY23",
+    "n_unfunded_direct": 1
+   },
+   {
+    "fips": "48425",
+    "county_name": "Somervell County",
+    "state": "TX",
+    "unfunded_applicants": "North Central Texas Council of Governments",
+    "unfunded_rounds": "FY22",
+    "n_unfunded_direct": 0
+   }
+  ],
+  "share_with_unfunded_by_group": {
+   "hf_rural": 2.9,
+   "other_rural": 5.6,
+   "urban": 26.9
+  }
+ },
+ "success_tests": {
+  "IG": {
+   "chi2": 1.41,
+   "p": 0.493,
+   "df": 2
+  },
+  "PD": {
+   "chi2": 1.58,
+   "p": 0.454,
+   "df": 2
+  }
+ },
+ "success": [
+  {
+   "grant": "IG",
+   "years": "FY22-FY24",
+   "group": "urban",
+   "funded": 140,
+   "unfunded": 320,
+   "funded_pct": 30.4
+  },
+  {
+   "grant": "IG",
+   "years": "FY22-FY24",
+   "group": "other_rural",
+   "funded": 10,
+   "unfunded": 31,
+   "funded_pct": 24.4
+  },
+  {
+   "grant": "IG",
+   "years": "FY22-FY24",
+   "group": "hf_rural",
+   "funded": 2,
+   "unfunded": 2,
+   "funded_pct": 50.0
+  },
+  {
+   "grant": "PD",
+   "years": "FY23-FY24",
+   "group": "urban",
+   "funded": 852,
+   "unfunded": 205,
+   "funded_pct": 80.6
+  },
+  {
+   "grant": "PD",
+   "years": "FY23-FY24",
+   "group": "other_rural",
+   "funded": 185,
+   "unfunded": 38,
+   "funded_pct": 83.0
+  },
+  {
+   "grant": "PD",
+   "years": "FY23-FY24",
+   "group": "hf_rural",
+   "funded": 39,
+   "unfunded": 6,
+   "funded_pct": 86.7
+  }
+ ],
+ "pd_unfunded_fy23": 7,
+ "vmt": {
+  "us_annual_vmt_billion": 2922.0,
+  "counties_with_vmt": 3141,
+  "threshold_per_100m": 2.63,
+  "n_hf_vmt": 448,
+  "n_hf_both": 231,
+  "n_gap_vmt": 273,
+  "n_gap_both": 152,
+  "pct_gap_vmt": 60.9,
+  "cov_hf_vmt_pct": 39.1,
+  "cov_other_rural_vmt_pct": 36.3,
+  "rate_rural_per100m": 1.79,
+  "rate_urban_per100m": 1.31,
+  "gap_deaths_vmt": 7963,
+  "spearman_rate_resident_vs_vmt": 0.54,
+  "chi2_hf_vs_other": 1.03,
+  "p_hf_vs_other": 0.311
+ }
+}

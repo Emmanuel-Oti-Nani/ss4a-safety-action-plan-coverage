@@ -25,6 +25,7 @@ from scipy import stats as ss
 ap = argparse.ArgumentParser()
 ap.add_argument("--final", action="store_true")
 ap.add_argument("--doi", default=None)
+ap.add_argument("--preprint", action="store_true", help="omit line numbers (preprint server copy)")
 args = ap.parse_args()
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROC = os.path.join(ROOT, "data", "processed"); RAW = os.path.join(ROOT, "data", "raw"); INT = os.path.join(ROOT, "data", "interim")
@@ -32,7 +33,9 @@ OUT = os.path.join(ROOT, "paper"); FIG = os.path.join(OUT, "figures")
 os.makedirs(FIG, exist_ok=True)
 S = json.load(open(os.path.join(ROOT, "report", "stats.json")))
 A = json.load(open(os.path.join(ROOT, "report", "analysis.json")))
-AU = json.load(open(os.path.join(ROOT, "AUTHORS.json")))["authors"][0]
+AUS = json.load(open(os.path.join(ROOT, "AUTHORS.json")))["authors"]
+AU = AUS[0]
+AT = json.load(open(os.path.join(ROOT, "report", "analysis_applications_travel.json"))) if os.path.exists(os.path.join(ROOT, "report", "analysis_applications_travel.json")) else None
 g = pd.read_csv(os.path.join(PROC, "county_coverage_gap_table.csv"), dtype={"fips": str})
 a = pd.read_csv(os.path.join(PROC, "ss4a_awards_fy2022_2026.csv"))
 REPO = "\\url{https://github.com/Emmanuel-Oti-Nani/ss4a-safety-action-plan-coverage}"
@@ -309,6 +312,48 @@ T = {
     "TABFY": tabfy, "TABCOV": tabcov, "TABTOP": tabtop, "TOPNOTE": topnote, "TABREG": tabreg, "TABPIPE": tabpipe,
     "TABDOL": tabdol, "TABROADS": tabroads,
 }
+
+# ---- author block (all authors from AUTHORS.json; email only for the corresponding author) ----
+def _author(a):
+    line = a["name"] + (f"\\,\\orcidlink{{{a['orcid']}}}" if a.get("orcid") else "")
+    line += "\\\\[2pt]\\small " + a["affiliation"]
+    if a.get("corresponding"):
+        line += f"\\\\\\small \\href{{mailto:{a['email']}}}{{{a['email']}}} (corresponding author)"
+    return line
+T["AUTHORBLOCK"] = "\\\\[10pt]".join(_author(a) for a in AUS)
+
+# ---- unfunded applications and travel tokens ----
+if AT:
+    ap, vm = AT["applicants"], AT["vmt"]
+    sc = {(r["grant"], r["group"]): r for r in AT["success"]}
+    T.update({
+        "APPROWS": n(ap["n_lists_rows"]), "APPUNASSIGNED": n(ap["n_unassigned"]),
+        "GAPAPP": n(ap["gap_any_unfunded"]), "GAPAPPDIRECT": n(ap["gap_direct_unfunded"]),
+        "GAPNOREC": n(ap["gap_no_record"]), "GAPNORECNONE": n(ap["gap_no_record_no_award"]),
+        "SHAPPURB": f"{ap['share_with_unfunded_by_group']['urban']:.0f}", "SHAPPOTH": f"{ap['share_with_unfunded_by_group']['other_rural']:.0f}",
+        "SHAPPHF": f"{ap['share_with_unfunded_by_group']['hf_rural']:.0f}",
+        "PDUNF23": n(AT["pd_unfunded_fy23"]),
+        "IGCHI": f"{AT['success_tests']['IG']['chi2']:.2f}", "IGP": f"{AT['success_tests']['IG']['p']:.2f}",
+        "PDCHI": f"{AT['success_tests']['PD']['chi2']:.2f}", "PDP": f"{AT['success_tests']['PD']['p']:.2f}",
+        "VMTUS": f"{vm['us_annual_vmt_billion']/1000:.1f}", "VMTTHR": f"{vm['threshold_per_100m']:.2f}",
+        "NHFV": n(vm["n_hf_vmt"]), "NHFBOTH": n(vm["n_hf_both"]), "NGAPV": n(vm["n_gap_vmt"]), "PCTGAPV": f"{vm['pct_gap_vmt']:.0f}",
+        "NGAPBOTH": n(vm["n_gap_both"]), "COVHFV": f"{vm['cov_hf_vmt_pct']:.0f}", "COVOTHV": f"{vm['cov_other_rural_vmt_pct']:.0f}",
+        "VMTCHI": f"{vm['chi2_hf_vs_other']:.2f}", "VMTP": f"{vm['p_hf_vs_other']:.2f}",
+        "RRURV": f"{vm['rate_rural_per100m']:.2f}", "RURBV": f"{vm['rate_urban_per100m']:.2f}",
+        "GAPDV": n(vm["gap_deaths_vmt"]), "SPEARV": f"{vm['spearman_rate_resident_vs_vmt']:.2f}",
+        "VMTCTY": n(vm["counties_with_vmt"]),
+    })
+    for g in ("urban", "other_rural", "hf_rural"):
+        k = {"urban": "U", "other_rural": "O", "hf_rural": "H"}[g]
+        for prog in ("IG", "PD"):
+            r = sc[(prog, g)]
+            T[f"{prog}{k}F"], T[f"{prog}{k}U"], T[f"{prog}{k}P"] = n(r["funded"]), n(r["unfunded"]), f"{r['funded_pct']:.0f}"
+    # claims made in the text
+    assert AT["success_tests"]["IG"]["p"] > 0.05 and AT["success_tests"]["PD"]["p"] > 0.05, "text says funding rates did not differ by county group"
+    assert vm["p_hf_vs_other"] > 0.05, "text says travel-based high-fatality counties were not more likely to be covered"
+    assert ap["share_with_unfunded_by_group"]["hf_rural"] < ap["share_with_unfunded_by_group"]["urban"], "text says unfunded applications were rarer in high-fatality rural counties"
+    assert ap["gap_no_record"] / ap["gap_n"] > 0.9, "text says nearly all gap counties have no record of an unfunded application"
+    assert vm["pct_gap_vmt"] > 50, "text says most travel-based high-fatality rural counties are gaps"
 json.dump({k: v for k, v in T.items() if not k.startswith("TAB") and k != "TOPNOTE"}, open(os.path.join(ROOT, "data", "interim", "paper_tokens.json"), "w"), indent=0)
 assert A["reg_dropped"] == 9, "Methods text says eight Connecticut counties and Kalawao County are omitted"
 src = open(os.path.join(ROOT, "code", "paper_template.tex")).read()
@@ -317,6 +362,8 @@ for _ in range(2):
         src = src.replace(f"<<{k}>>", v)
 left = re.findall(r"<<[A-Z0-9]+>>", src)
 assert not left, left
+if args.preprint:
+    src = src.replace("\\linenumbers\n", "\n")
 open(os.path.join(OUT, "main.tex"), "w").write(src)
 for _ in range(3):
     r = subprocess.run(["pdflatex", "-interaction=nonstopmode", "main.tex"], cwd=OUT, capture_output=True, text=True)

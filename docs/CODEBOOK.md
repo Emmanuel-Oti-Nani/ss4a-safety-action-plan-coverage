@@ -97,3 +97,44 @@ One row per state: rural counties by coverage status, high-fatality rural counti
 
 - `award_county_crosswalk.csv`: one row per award and county. `pop_in_award` residents of the county inside the award area; `share_of_award_pop`, `share_of_county_pop`; `assignment` notes the 65 awards placed by location because their area holds no block-group center.
 - `award_place_crosswalk.csv`: one row per award and Census place with at least half its land area inside the award area. `LSAD` is the Census legal or statistical description (city, town, CDP and so on).
+
+## File 7: `data/processed/unfunded_applicant_county_crosswalk.csv` (added in version 1.1.0)
+
+One row per unfunded application and county. Source: DOT's lists of eligible applications that were not funded, FY2022 to FY2024 (`data/raw/ss4a_other_applicants_fy22_fy24.txt`). The FY2022 list covers implementation applications only.
+
+| Column | Definition |
+|---|---|
+| `app_id` | Application identifier, `OA-<nnnn>`, in list order |
+| `round` | Funding round of the list (`FY22`, `FY23`, `FY24`) |
+| `applicant`, `state` | Lead applicant and state, as DOT lists them |
+| `grant` | `IG` implementation or `PD` planning and demonstration |
+| `pd_activity` | DOT's planning activity code, where given (for example `AP_NEW` new action plan, `AP_UPD` update) |
+| `dot_rural_urban` | DOT's rural or urban label |
+| `applicant_type` | DOT's applicant type |
+| `fiscal_year` | Fiscal year of the round |
+| `seeks_action_plan` | The application asked for a new or updated action plan |
+| `county_fips` | County the application was placed in (blank if it could not be placed) |
+| `pop_share` | Share of the applicant's 2020 population in that county; applicants are placed in every county holding at least 10% |
+| `match_method` | How the county was found: automatic name match (place, county subdivision or county), or `manual` with certainty (`sure`, `regional`, `uncertain`); hand placements and reasons are in `data/raw/applicant_county_overrides.csv` |
+
+## File 8: `data/processed/county_applications_travel.csv` (added in version 1.1.0)
+
+One row per county (3,143 rows).
+
+| Column | Definition |
+|---|---|
+| `fips`, `state`, `county_name` | County identifiers |
+| `group` | `urban`, `other_rural`, or `hf_rural` (high-fatality rural, as in the gap table) |
+| `gap` | Gap county (high-fatality rural, under half of residents in a funded action plan area) |
+| `n_unfunded_apps` | Unfunded applications placed in the county, FY2022 to FY2024 |
+| `n_unfunded_direct` | Of those, applications from the county itself or a place within it (not regional councils or tribes) |
+| `unfunded_sought_plan` | Of those, applications that asked for an action plan |
+| `unfunded_rounds`, `unfunded_applicants` | Rounds and applicant names, separated by `;` |
+| `daily_vmt` | Average daily vehicle-miles traveled in 2024 (HPMS: AADT times section length, summed over sections with traffic counts) |
+| `rate_per_100m_vmt` | Traffic deaths 2020-2024 per 100 million vehicle-miles, using five times the 2024 annual travel |
+| `hf_vmt` | Rural county with at least five deaths and a per-mile rate in the top quarter of such counties |
+| `gap_vmt` | `hf_vmt` and under half of residents in a funded action plan area |
+
+## File 9: `report/tables/applicant_success_by_group.csv` (added in version 1.1.0)
+
+Funded and unfunded applicants by grant type and the county group of the applicant's main county, limited to rounds where DOT published both lists. Regional applicants are excluded. Columns: `grant`, `years`, `group`, `funded`, `unfunded`, `funded_pct`.

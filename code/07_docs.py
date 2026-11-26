@@ -14,15 +14,21 @@ FINAL = "--final" in sys.argv
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROC = os.path.join(ROOT, "data", "processed")
 S = json.load(open(os.path.join(ROOT, "report", "stats.json")))
-A = json.load(open(os.path.join(ROOT, "AUTHORS.json")))["authors"][0]
+AUS = json.load(open(os.path.join(ROOT, "AUTHORS.json")))["authors"]
+A = AUS[0]
+AUTHOR_LINES = "  \n".join(f"**Author:** {x['name']} ({x['affiliation']}), ORCID [{x['orcid']}](https://orcid.org/{x['orcid']})" for x in AUS)
+CITE_NAMES = ", & ".join(f"{x['family']}, " + " ".join(p[0] + "." for p in x["given"].split()) for x in AUS)
 a = pd.read_csv(os.path.join(PROC, "ss4a_awards_fy2022_2026.csv"), dtype={"primary_county_fips": str})
 g = pd.read_csv(os.path.join(PROC, "county_coverage_gap_table.csv"), dtype={"fips": str})
 rb = pd.read_csv(os.path.join(PROC, "regional_body_coverage_table.csv"))
+AT = json.load(open(os.path.join(ROOT, "report", "analysis_applications_travel.json")))
+_x = pd.read_csv(os.path.join(PROC, "unfunded_applicant_county_crosswalk.csv"), dtype=str)
+n_hand = _x[_x.match_method.str.startswith("manual", na=False)].app_id.nunique()
 BANNER = "" if FINAL else "> **DRAFT: not yet verified by the author. Do not cite or share.**\n\n"
 REPO = "https://github.com/Emmanuel-Oti-Nani/ss4a-safety-action-plan-coverage"
 DOI = "[doi:10.5281/zenodo.24250593](https://doi.org/10.5281/zenodo.24250593)"
 TITLE = "Safety Action Plan Coverage in Rural America: SS4A Awards Dataset, FY2022-FY2026"
-VERSION = "1.0.2"
+VERSION = "1.1.0"
 
 
 def n(x):
@@ -47,7 +53,7 @@ rt = S["recipient_type_counts"]; gt = S["grant_type_counts"]
 readme = f"""{BANNER}# {TITLE}
 
 **Status:** {"Released" if FINAL else "Draft, unreleased"} | Version {VERSION} | DOI: {DOI}
-**Author:** {A['name']} ({A['affiliation']}), ORCID [{A['orcid']}](https://orcid.org/{A['orcid']})
+{AUTHOR_LINES}
 
 ## In plain language
 
@@ -68,9 +74,11 @@ Plan coverage is then compared with county traffic deaths from the U.S. Rural Ro
 | `data/processed/regional_body_coverage_table.csv` | One row per regional council or metropolitan planning organization with an SS4A award ({n(S['n_regional_bodies'])} rows), with the counties its plans cover. |
 | `data/processed/state_coverage_summary.csv` | Rural coverage and gap counts by state. |
 | `data/processed/award_county_crosswalk.csv`, `award_place_crosswalk.csv` | Which counties and Census places each award covers, with population shares. |
+| `data/processed/unfunded_applicant_county_crosswalk.csv` | DOT's eligible but unfunded applications, FY2022-FY2024 (630), placed in counties (added in 1.1.0). |
+| `data/processed/county_applications_travel.csv` | One row per county: unfunded applications, 2024 vehicle-miles traveled and deaths per 100 million vehicle-miles (added in 1.1.0). |
 | `data/processed/qa_report.txt` | Quality checks: totals against DOT, matching rates, spot checks. Read this first. |
 | `report/DATA_NOTE.md`, `report/figures/`, `report/tables/priority_gap_counties.csv` | Short data note, three figures, and the priority list of gap counties. |
-| `paper/main.pdf`, `paper/main.tex` | Research article (about 6,700 words, 5 figures, 7 tables), built from the same numbers (`code/09_analysis.py`, `code/08_paper.py`). |
+| `paper/main.pdf`, `paper/main.tex` | Research article (about 7,400 words, 5 figures, 8 tables), built from the same numbers (`code/09_analysis.py`, `code/12_applications_travel.py`, `code/08_paper.py`). |
 | `report/analysis.json` | Results of the extended analyses: coverage by round, plans to implementation, regression models, dollars per death, road ownership, spatial clustering, state comparison. |
 | `docs/` | Codebook, coding rules, limitations, verification checklist, glossary, publishing guide. |
 
@@ -92,8 +100,13 @@ python code/05_qa.py         # writes data/processed/qa_report.txt
 python code/06_figures.py    # draws report/figures
 python code/07_docs.py       # writes the documents from report/stats.json
 python code/09_analysis.py   # extended analyses for the article (writes report/analysis.json)
+python code/10_fetch_vmt.py   # 2024 county vehicle-miles from FHWA HPMS
+python code/11_match_applicants.py  # places DOT's unfunded applications in counties
+python code/12_applications_travel.py  # application and travel analyses (writes report/analysis_applications_travel.json)
 python code/08_paper.py      # builds paper/main.pdf (needs TeX Live: lineno, natbib, orcidlink, draftwatermark)
 ```
+
+Three inputs for the 1.1.0 analyses are kept in `data/raw/`. Two cannot be rebuilt by script: DOT's unfunded-application lists (`ss4a_other_applicants_fy22_fy24.txt`, read from DOT's spreadsheets in a web browser), and the hand placements of applicants (`applicant_county_overrides.csv`). The third is the county travel totals (`hpms_2024_county_vmt.csv`, which `code/10_fetch_vmt.py` can also refetch).
 
 The last lines of `04_outputs.py` print the headline numbers. They should show {n(S['n_awards_all'])} awards and {n(gap)} gap counties.
 
@@ -106,6 +119,9 @@ The last lines of `04_outputs.py` print the headline numbers. They should show {
 | U.S. Census Bureau 2020 cartographic boundary files (counties, places) | 2020 | public domain |
 | U.S. Census Bureau 2020 centers of population by block group | 2020 | public domain |
 | U.S. Rural Road Fatality County Panel v1.0.0 (FARS 2015-2024) | v1.0.0 | CC BY 4.0 |
+| U.S. Census Bureau Small Area Income and Poverty Estimates | 2023 | public domain |
+| U.S. DOT SS4A "Other Applicants" lists (eligible applications not funded) | FY2022-FY2024, accessed November 2026 | public domain |
+| FHWA Highway Performance Monitoring System, state feature services | 2024 | public domain |
 
 Every download is logged with size and SHA-256 fingerprint in `data/raw/PROVENANCE.txt`.
 
@@ -117,16 +133,21 @@ See `docs/LIMITATIONS.md`. The most important: this dataset shows plans **funded
 
 Code: MIT. Data and documents: CC BY 4.0. Please cite:
 
-{A['name']}. (2026). *{TITLE}* (Version {VERSION}) [Data set]. Zenodo. {DOI}
+{CITE_NAMES} (2026). *{TITLE}* (Version {VERSION}) [Data set]. Zenodo. {DOI}
 
 Maintainer: {A['name']}, {A['affiliation']}. Repository: {REPO}
+
+## Version history
+
+- **1.1.0** (November 26, 2026): adds Sedinam Annie Barney as author; adds DOT's lists of unfunded applications (FY2022-FY2024) placed in counties, and county vehicle-miles traveled (HPMS 2024) with travel-based death rates; fixes the duplicated keywords line in the article abstract.
+- **1.0.0 to 1.0.2** (November 15, 2026): first release, followed by small corrections (1.0.2 corrects the author contact email).
 """
 open(os.path.join(ROOT, "README.md"), "w").write(readme)
 
 # ------------------------------------------------------------------ DATA NOTE
 note = f"""{BANNER}# {TITLE}: Data Note
 
-{A['name']}, {A['affiliation']}
+{'; '.join(x['name'] + ', ' + x['affiliation'] for x in AUS)}
 
 ## Purpose
 
@@ -161,7 +182,7 @@ Data, code and documents: {REPO}; archived at {DOI}. License: CC BY 4.0 (data an
 open(os.path.join(ROOT, "report", "DATA_NOTE.md"), "w").write(note)
 
 # ------------------------------------------------------------------ LIMITATIONS
-nobg = int(a.geo_match_flag.notna().sum())
+nobg = int(a.geo_match_flag.fillna("").str.startswith("no 2020").sum())
 lim = f"""{BANNER}# Limitations
 
 *Plain-language summary: what this data set can and cannot tell you. Read before quoting any result.*
@@ -174,10 +195,12 @@ lim = f"""{BANNER}# Limitations
 6. **Recipient types are partly coded by rule.** DOT's own recipient labels differ across years and sometimes conflict. A metropolitan planning organization housed in a council of governments may appear under either label. The coded type follows DOT's label first, then name rules, then {n(len(pd.read_csv(os.path.join(ROOT, 'code', 'recipient_overrides.csv'))))} hand corrections listed in `code/recipient_overrides.csv`. Use `is_regional_body` when the difference does not matter.
 7. **Supplemental planning and demonstration are combined for FY2023, FY2025 and FY2026,** because DOT reported them as one category in those years.
 8. **"Rural" has two meanings.** This project uses the Census 2020 urban area map, as Project 1 does. DOT's own rural label for each award (`dot_rural_urban`) follows the SS4A notice, which treats urban areas under 200,000 people as rural. The two are not interchangeable.
-9. **Death rates are per resident.** Counties with very few residents and a busy highway have very high rates (Loving County, Texas, has the highest). A rate per resident is not a rate per mile traveled. The gap table also reports death counts, and the priority list is sorted by count.
+9. **Death rates are per resident.** Counties with very few residents and a busy highway have very high rates (Loving County, Texas, has the highest). A rate per resident is not a rate per mile traveled. The gap table also reports death counts, and the priority list is sorted by count. Version 1.1.0 adds a per-mile rate as a check (`county_applications_travel.csv`); it identifies a different but overlapping set of high-fatality counties ({AT['vmt']['n_hf_both']} of {AT['vmt']['n_hf_vmt']} on both measures).
 10. **The high-fatality cutoff is a choice.** It is the top quarter of rural counties by rate, among counties with at least {S['min_deaths']} deaths in 2020 to 2024. Other cutoffs give different lists. The full county table lets users apply their own.
 11. **Fifty states and DC only for the gap analysis.** Awards in Puerto Rico and on tribal lands outside county coverage are in the award table but not in the county comparison.
 12. **Regional council boundaries are not national.** No free national map of regional council service areas was found. Regional bodies are identified from DOT's recipient records, and their reach is the area their awards cover.
+13. **The unfunded-application lists are incomplete.** DOT published lists of eligible applications it did not fund only for FY2022 to FY2024. The FY2022 list covers implementation applications only, and the FY2023 list contains only {AT['pd_unfunded_fy23']} unfunded planning applications. A county may have applied in a round with no published list. Applicants were placed in counties by name; {n_hand} were placed by hand from their published service areas (reasons in `data/raw/applicant_county_overrides.csv`) and {AT['applicants']['n_unassigned']} could not be placed.
+14. **Travel data leave out most local roads.** The per-mile rates use 2024 HPMS travel on road sections with traffic counts, mostly arterials and collectors. Travel on local roads is largely missing, and one year of travel stands in for 2020 to 2024.
 """
 open(os.path.join(ROOT, "docs", "LIMITATIONS.md"), "w").write(lim)
 

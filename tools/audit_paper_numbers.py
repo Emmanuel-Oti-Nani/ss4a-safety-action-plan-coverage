@@ -82,9 +82,12 @@ chk("gap deaths", int(g.deaths_2020_2024.sum()), f"{int(g.deaths_2020_2024.sum()
 chk("gap share of hf deaths %", 100 * g.deaths_2020_2024.sum() / hf.deaths_2020_2024.sum(), f"{100*g.deaths_2020_2024.sum()/hf.deaths_2020_2024.sum():.0f}% of deaths in high-fatality")
 chk("gap share of national deaths %", 100 * g.deaths_2020_2024.sum() / c.deaths_2020_2024.sum(), f"{100*g.deaths_2020_2024.sum()/c.deaths_2020_2024.sum():.1f}% of")
 chk("gap states", g.state.nunique(), f"across {g.state.nunique()} states")
-top = g.state.value_counts().head(5)
-for st, k in top.items():
-    chk(f"gap counties in {st}", k, f"({k})")
+vc = g.state.value_counts()
+NAMES = {"TX": "Texas", "MS": "Mississippi", "GA": "Georgia", "AR": "Arkansas", "CO": "Colorado", "OK": "Oklahoma"}
+for st, k in vc[vc >= vc.iloc[4]].items():  # top five, plus any state tied with fifth place
+    tied = [NAMES[x] for x, v in vc.items() if v == k]
+    form = f"{NAMES[st]} ({k})" if len(tied) == 1 else f"{' and '.join(tied)} ({k} each)"
+    chk(f"gap counties in {st}", k, form, f"{NAMES[st]} has the largest number ({k})")
 gc = c[c.hf & ~c.coverage_status_conservative.eq("covered")]
 chk("gap, conservative", len(gc), f"{len(gc)} counties under the conservative")
 g25 = c[c.hf & ~c.coverage_status_fy22_25.eq("covered")]
@@ -115,6 +118,33 @@ if dcol:
     chk("urban share of deaths %", 100 * d.loc[~d.rural, "deaths_2020_2024"].sum() / deaths_all, f"{100*d.loc[~d.rural,'deaths_2020_2024'].sum()/deaths_all:.0f}% of traffic deaths")
 else:
     checks.append((False, "dollar columns", None, "no total dollar column found in county_dollars_lisa.csv"))
+
+# ---------- unfunded applications and travel figures (recomputed from released CSVs, not from analysis_applications_travel.json) ----------
+xp = P("data", "processed", "unfunded_applicant_county_crosswalk.csv")
+if os.path.exists(xp):
+    ux = pd.read_csv(xp, dtype=str)
+    ux["regional"] = ux.match_method.str.contains("regional", na=False)
+    gf = set(g.fips)
+    hit = ux[ux.county_fips.isin(gf)]
+    n_any, n_dir = hit.county_fips.nunique(), hit[~hit.regional].county_fips.nunique()
+    chk("gap counties with an unfunded application", n_any, f"Only {n_any} of the {len(g)} gap")
+    chk("of which direct", n_dir, f"in only {n_dir} of them")
+    chk("gap counties with no record", len(g) - n_any, f"remaining {len(g) - n_any} gap")
+    chk("unfunded list rows", ux.app_id.nunique(), f"contain {ux.app_id.nunique()} applications")
+    vv = pd.read_csv(P("data", "raw", "hpms_2024_county_vmt.csv"), dtype={"fips": str})
+    vv["fips"] = vv.fips.replace({"46113": "46102"})
+    va = vv[vv.scope == "all"].groupby("fips").daily_vmt.sum()
+    cc = c.copy(); cc["vmt100m"] = cc.fips.map(va) * 365 * 5 / 1e8
+    cc["rv"] = cc.deaths_2020_2024 / cc.vmt100m
+    el = cc[cc.rural & (cc.deaths_2020_2024 >= 5) & cc.rv.notna() & (cc.vmt100m > 0)]
+    hv = el[el.rv >= el.rv.quantile(0.75)]
+    gv = hv[~hv.covd]
+    nboth = int(hv.fips.isin(cty.loc[cty.high_fatality_rural.astype(str).eq("True"), "fips"]).sum())
+    chk("travel-based high-fatality counties", len(hv), f"identifies {len(hv)} counties", f"{len(hv)} counties, {nboth} of which are also high-fatality")
+    chk("travel-based gap counties", len(gv), f"and {len(gv)} of them ({100*len(gv)/len(hv):.0f}%)")
+    rr = cc[cc.rural].deaths_2020_2024.sum() / cc[cc.rural].vmt100m.sum()
+    chk("rural deaths per 100M VMT", rr, f"recorded {rr:.2f} deaths per 100 million")
+
 
 bad = [x for x in checks if not x[0]]
 for ok, label, val, form in checks:

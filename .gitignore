@@ -1,6 +1,10 @@
 # raw downloads are rebuilt by code/01_fetch.py; their fingerprints stay in PROVENANCE.txt
 data/raw/*
 !data/raw/PROVENANCE.txt
+# inputs that cannot be re-downloaded by script (DOT lists read in a browser; hand placements) or are small
+!data/raw/ss4a_other_applicants_fy22_fy24.txt
+!data/raw/applicant_county_overrides.csv
+!data/raw/hpms_2024_county_vmt.csv
 data/interim/
 __pycache__/
 .env
